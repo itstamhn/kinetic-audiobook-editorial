@@ -8,16 +8,17 @@ import {
 } from "remotion";
 import { loadFont } from "@remotion/google-fonts/Literata";
 
-// Block Remotion rendering until Literata is 100% loaded and active
+// Preload Literata with explicit Vietnamese subset and weights to eliminate any glittering
 const { fontFamily } = loadFont("normal", {
-  weights: ["400", "500"],
+  weights: ["400", "500", "600"],
+  subsets: ["latin", "vietnamese"],
 });
 
 export interface WordInfo {
   text: string;
   start: number;
   end: number;
-  vn?: string; // Vietnamese gloss translation
+  vn?: string; // Vietnamese interlinear gloss translation
 }
 
 export interface EditorialPage {
@@ -46,7 +47,8 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
     (p) => currentTime >= p.startTime && currentTime < p.endTime
   );
 
-  const currentPageIndex = activePageIndex !== -1 ? activePageIndex : pages.length - 1;
+  const currentPageIndex =
+    activePageIndex !== -1 ? activePageIndex : pages.length - 1;
   const activePage = pages[currentPageIndex] || pages[0];
 
   return (
@@ -61,21 +63,16 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
         padding: "90px 140px",
       }}
     >
-      {/* Multi-Line Calm Editorial Typography Canvas */}
+      {/* Multi-Line Calm Editorial Interlinear Canvas */}
       <div
         style={{
           width: "100%",
           maxWidth: 1640,
-          fontSize: 84,
-          fontWeight: 400,
-          lineHeight: 1.35,
-          letterSpacing: -0.5,
-          textAlign: "left",
           display: "flex",
           flexWrap: "wrap",
-          columnGap: "18px",
-          rowGap: "8px",
-          alignItems: "baseline",
+          columnGap: "20px",
+          rowGap: "22px",
+          alignItems: "flex-end",
         }}
       >
         {activePage &&
@@ -83,30 +80,51 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
             const isSpoken = currentTime >= w.start;
 
             return (
-              <span
+              <div
                 key={`${activePage.id}-${idx}`}
                 style={{
-                  display: "inline-block",
-                  color: isSpoken ? "#000000" : "#b8b5ad",
-                  fontWeight: 400,
+                  display: "inline-flex",
+                  flexDirection: "column",
+                  alignItems: "center",
+                  justifyContent: "flex-end",
+                  verticalAlign: "bottom",
                 }}
               >
-                {w.text}
-                {w.vn && (
-                  <span
-                    style={{
-                      fontSize: "0.46em",
-                      color: isSpoken ? "#0f766e" : "#94a3b8", // elegant vintage teal when active
-                      fontStyle: "italic",
-                      fontWeight: 400,
-                      marginLeft: "6px",
-                      letterSpacing: "0px",
-                    }}
-                  >
-                    ({w.vn})
-                  </span>
-                )}
-              </span>
+                {/* Vietnamese Interlinear Gloss Above */}
+                <span
+                  style={{
+                    fontSize: 28,
+                    lineHeight: "32px",
+                    height: 32,
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    color: isSpoken ? "#0f766e" : "#94a3b8", // elegant vintage teal when spoken
+                    fontWeight: 500,
+                    letterSpacing: 0,
+                    whiteSpace: "nowrap",
+                    visibility: w.vn ? "visible" : "hidden",
+                    marginBottom: 6,
+                    userSelect: "none",
+                  }}
+                >
+                  {w.vn || "\u00A0"}
+                </span>
+
+                {/* English Base Word */}
+                <span
+                  style={{
+                    fontSize: 82,
+                    lineHeight: "1.0em",
+                    color: isSpoken ? "#000000" : "#b8b5ad",
+                    fontWeight: 400,
+                    letterSpacing: -0.5,
+                    whiteSpace: "nowrap",
+                  }}
+                >
+                  {w.text}
+                </span>
+              </div>
             );
           })}
       </div>
