@@ -1,133 +1,103 @@
 import json
 import re
+import os
+from wordfreq import zipf_frequency
 
+# 1. Load User Known Words
+known_words = set()
+if os.path.exists("user_known_words.txt"):
+    with open("user_known_words.txt", "r") as f:
+        for line in f:
+            clean = line.strip().lower()
+            if clean and not clean.startswith("#"):
+                known_words.add(clean)
+
+print(f"📖 Loaded {len(known_words)} words from personal known words list.")
+
+# 2. Literary Dictionary for Rare/Advanced C1/C2 Words
 GLOSS_DICT = {
-    # Page 1-5
+    # High-value C1/C2 and literary vocabulary
     "squat": "thấp bè",
-    "stories": "tầng lầu",
-    "entrance": "lối vào",
     "hatchery": "lò ấp phôi",
     "conditioning": "điều kiện hóa",
-    "shield": "chiếc khiên",
     "motto": "khẩu hiệu",
-    "community": "cộng đồng",
-    "identity": "đồng nhất",
-    "stability": "ổn định",
-    "enormous": "khổng lồ",
     "panes": "ô kính",
-    "tropical": "nhiệt đới",
-    
-    # Page 6-10
     "harsh": "gay gắt",
     "glared": "chói lòa",
-    "hungrily": "thèm thuồng",
-    "seeking": "tìm kiếm",
     "draped": "phủ rèm",
     "lay": "người mẫu nộm",
     "pallid": "tái nhợt",
-    "academic": "hàn lâm",
     "goose-flesh": "nổi gai ốc",
     "nickel": "kim loại kền",
     "bleakly": "lạnh lẽo",
     "porcelain": "men sứ",
-    "laboratory": "phòng thí nghiệm",
     "wintriness": "giá lạnh",
     "overalls": "bộ bảo hộ",
-    "gloved": "đeo găng",
     "corpse-coloured": "trắng bệch",
-    
-    # Page 11-15
-    "frozen": "băng giá",
-    "ghost": "bóng ma",
     "barrels": "ống kính",
     "microscopes": "kính hiển vi",
-    "substance": "chất liệu",
-    "polished": "bóng loáng",
-    "tubes": "ống nghiệm",
     "streak": "vệt óng",
     "luscious": "mỡ màng",
     "recession": "thụt lùi xa",
-    "director": "giám đốc",
-    "fertilizing": "thụ tinh",
-    
-    # Page 16-20
-    "instruments": "thiết bị",
+    "fertilizing": "thụ tinh nhân tạo",
     "fertilizers": "kỹ thuật viên thụ tinh",
     "plunged": "chìm đắm",
     "scarcely": "hầu như không",
-    "soliloquizing": "lẩm bẩm",
+    "soliloquizing": "lẩm bẩm độc thoại",
     "absorbed": "chăm chú",
-    "concentration": "tập trung",
-    "troop": "đoàn",
-    "callow": "ngây ngô",
+    "callow": "ngây ngô non nớt",
     "abjectly": "khúm núm",
-    "heels": "gót chân",
-    
-    # Page 21-25
-    "notebook": "sổ tay",
-    "desperately": "cuống cuồng",
-    "scribbled": "ghi chép",
-    "privilege": "đặc ân",
-    "departments": "phòng ban",
-    "conducting": "dẫn đường",
-    
-    # Page 26-30
-    "intelligently": "thấu đáo",
-    "society": "xã hội",
-    "particulars": "chi tiết cụ thể",
-    "virtue": "đức hạnh",
-    "happiness": "hạnh phúc",
-    "generalities": "khái niệm chung",
-    "intellectually": "trí tuệ",
-    "evils": "điều xấu",
-    "philosophers": "triết gia",
+    "scribbled": "nguệch ngoạc viết",
     "fretsawyers": "thợ cưa lọng",
-    "collectors": "người sưu tầm",
-    "backbone": "xương sống",
-    
-    # Page 31-35
-    "menacing": "đầy đe dọa",
+    "backbone": "xương sống cốt lõi",
     "geniality": "sự niềm nở",
-    "settling": "bắt tay vào",
-    "meanwhile": "trong lúc đó",
-    "upright": "thẳng thắn",
-    "advanced": "tiến bước",
-    
-    # Page 36-41
-    "prominent": "nhô ra",
-    "floridly": "tươi tắn",
-    "occur": "nghĩ đến",
+    "floridly": "tươi tắn phây phây",
 }
 
+# 3. Read Original Timestamped Words
 with open("chapters_data/brave_new_world_ch1_props.json", "r") as f:
     orig = json.load(f)
 
-# Flatten all words
+# Flatten words
 all_words = []
+annotated_count = 0
+
 for p in orig["pages"]:
     for w in p["words"]:
-        # Clean copy
         clean_w = {
             "text": w["text"],
             "start": w["start"],
             "end": w["end"]
         }
         
-        # Check translation
         raw_text = w["text"]
         cw = re.sub(r"[^\w\-]", "", raw_text).lower()
-        if cw in GLOSS_DICT:
-            clean_w["vn"] = GLOSS_DICT[cw]
-        elif cw.rstrip("s") in GLOSS_DICT and len(cw) > 4:
-            clean_w["vn"] = GLOSS_DICT[cw.rstrip("s")]
-        elif cw.rstrip("ed") in GLOSS_DICT and len(cw) > 5:
-            clean_w["vn"] = GLOSS_DICT[cw.rstrip("ed")]
-        elif cw.rstrip("ing") in GLOSS_DICT and len(cw) > 5:
-            clean_w["vn"] = GLOSS_DICT[cw.rstrip("ing")]
+        
+        if cw and len(cw) > 3 and cw not in known_words:
+            z_score = zipf_frequency(cw, "en")
             
+            # C1/C2 threshold: Zipf <= 4.10 AND in glossary
+            if z_score <= 4.15:
+                # Check exact or stem
+                match_val = None
+                if cw in GLOSS_DICT:
+                    match_val = GLOSS_DICT[cw]
+                elif cw.rstrip("s") in GLOSS_DICT and len(cw) > 4:
+                    match_val = GLOSS_DICT[cw.rstrip("s")]
+                elif cw.rstrip("ed") in GLOSS_DICT and len(cw) > 5:
+                    match_val = GLOSS_DICT[cw.rstrip("ed")]
+                elif cw.rstrip("ing") in GLOSS_DICT and len(cw) > 5:
+                    match_val = GLOSS_DICT[cw.rstrip("ing")]
+                    
+                if match_val:
+                    clean_w["vn"] = match_val
+                    annotated_count += 1
+                    
         all_words.append(clean_w)
 
-# Re-chunk with tight boundaries for maximum 3 lines
+print(f"✨ Filtered & annotated {annotated_count} strictly ADVANCED/C1/C2 words!")
+
+# 4. Re-chunk with tight boundaries for maximum 3 lines
 pages_words = []
 current_chunk = []
 
@@ -200,4 +170,4 @@ output_file = "chapters_data/brave_new_world_ch1_props.json"
 with open(output_file, "w") as f:
     json.dump(bilingual_props, f, indent=2)
 
-print(f"🎉 Generated {len(formatted_pages)} bilingual pages (max 3 lines) to {output_file}!")
+print(f"🎉 Generated {len(formatted_pages)} personalized bilingual pages to {output_file}!")
