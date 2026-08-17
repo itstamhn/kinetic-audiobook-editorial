@@ -6,10 +6,9 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
-import { loadFont } from "@remotion/google-fonts/Newsreader";
+import { loadFont } from "@remotion/google-fonts/Literata";
 
-// Block Remotion rendering until Newsreader is 100% loaded and active
-// This eliminates the initial frame FOUT (Flash of Unstyled Text) and text jumping
+// Block Remotion rendering until Literata is 100% loaded and active
 const { fontFamily } = loadFont("normal", {
   weights: ["400", "500"],
 });
