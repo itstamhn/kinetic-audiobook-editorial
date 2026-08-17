@@ -1,0 +1,259 @@
+{
+  "headerTitle": "THE HITCHHIKER'S GUIDE TO THE GALAXY \u2022 PROLOGUE",
+  "totalDurationSeconds": 15.0,
+  "audioFile": "chapters_audio/chapter_00_prologue.mp3",
+  "subtitles": [
+    {
+      "id": 0,
+      "startTime": 0.0,
+      "endTime": 2.8,
+      "fullText": "Far out in the uncharted backwaters of the unfashionable",
+      "words": [
+        {
+          "text": "Far",
+          "start": 0.0,
+          "end": 0.18
+        },
+        {
+          "text": "out",
+          "start": 0.18,
+          "end": 0.36
+        },
+        {
+          "text": "in",
+          "start": 0.36,
+          "end": 0.48
+        },
+        {
+          "text": "the",
+          "start": 0.48,
+          "end": 0.58
+        },
+        {
+          "text": "uncharted",
+          "start": 0.58,
+          "end": 1.08
+        },
+        {
+          "text": "backwaters",
+          "start": 1.08,
+          "end": 1.7
+        },
+        {
+          "text": "of",
+          "start": 1.7,
+          "end": 1.92
+        },
+        {
+          "text": "the",
+          "start": 1.92,
+          "end": 2.04
+        },
+        {
+          "text": "unfashionable",
+          "start": 2.04,
+          "end": 2.8
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "startTime": 2.8,
+      "endTime": 5.02,
+      "fullText": "end of the western spiral arm of the galaxy",
+      "words": [
+        {
+          "text": "end",
+          "start": 2.8,
+          "end": 3.06
+        },
+        {
+          "text": "of",
+          "start": 3.06,
+          "end": 3.22
+        },
+        {
+          "text": "the",
+          "start": 3.22,
+          "end": 3.34
+        },
+        {
+          "text": "western",
+          "start": 3.34,
+          "end": 3.66
+        },
+        {
+          "text": "spiral",
+          "start": 3.66,
+          "end": 4.02
+        },
+        {
+          "text": "arm",
+          "start": 4.02,
+          "end": 4.42
+        },
+        {
+          "text": "of",
+          "start": 4.42,
+          "end": 4.54
+        },
+        {
+          "text": "the",
+          "start": 4.54,
+          "end": 4.66
+        },
+        {
+          "text": "galaxy",
+          "start": 4.66,
+          "end": 5.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startTime": 5.02,
+      "endTime": 7.44,
+      "fullText": "lies a small unregarded yellow sun.",
+      "words": [
+        {
+          "text": "lies",
+          "start": 5.02,
+          "end": 5.44
+        },
+        {
+          "text": "a",
+          "start": 5.44,
+          "end": 5.64
+        },
+        {
+          "text": "small",
+          "start": 5.64,
+          "end": 5.94
+        },
+        {
+          "text": "unregarded",
+          "start": 5.94,
+          "end": 6.58
+        },
+        {
+          "text": "yellow",
+          "start": 6.58,
+          "end": 6.9
+        },
+        {
+          "text": "sun.",
+          "start": 6.9,
+          "end": 7.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startTime": 7.8,
+      "endTime": 10.32,
+      "fullText": "Orbiting this at a distance of roughly 92 million",
+      "words": [
+        {
+          "text": "Orbiting",
+          "start": 7.8,
+          "end": 8.1
+        },
+        {
+          "text": "this",
+          "start": 8.1,
+          "end": 8.32
+        },
+        {
+          "text": "at",
+          "start": 8.32,
+          "end": 8.48
+        },
+        {
+          "text": "a",
+          "start": 8.48,
+          "end": 8.58
+        },
+        {
+          "text": "distance",
+          "start": 8.58,
+          "end": 8.86
+        },
+        {
+          "text": "of",
+          "start": 8.86,
+          "end": 9.12
+        },
+        {
+          "text": "roughly",
+          "start": 9.12,
+          "end": 9.4
+        },
+        {
+          "text": "92",
+          "start": 9.4,
+          "end": 9.98
+        },
+        {
+          "text": "million",
+          "start": 9.98,
+          "end": 10.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startTime": 10.32,
+      "endTime": 13.66,
+      "fullText": "miles is an utterly insignificant little blue-green planet whose",
+      "words": [
+        {
+          "text": "miles",
+          "start": 10.32,
+          "end": 10.68
+        },
+        {
+          "text": "is",
+          "start": 10.68,
+          "end": 10.92
+        },
+        {
+          "text": "an",
+          "start": 10.92,
+          "end": 11.02
+        },
+        {
+          "text": "utterly",
+          "start": 11.02,
+          "end": 11.32
+        },
+        {
+          "text": "insignificant",
+          "start": 11.32,
+          "end": 11.9
+        },
+        {
+          "text": "little",
+          "start": 11.9,
+          "end": 12.36
+        },
+        {
+          "text": "blue-green",
+          "start": 12.36,
+          "end": 12.94
+        },
+        {
+          "text": "planet",
+          "start": 12.94,
+          "end": 13.36
+        },
+        {
+          "text": "whose",
+          "start": 13.36,
+          "end": 13.66
+        }
+      ]
+    }
+  ],
+  "themeColor": "#00f0ff",
+  "accentColor": "#ffd700"
+}

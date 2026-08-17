@@ -1,0 +1,432 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.22,
+    "text": "Today we're gonna be doing a day in the life.",
+    "words": [
+      {
+        "word": "Today",
+        "start": 0.0,
+        "end": 0.26,
+        "probability": 0.878
+      },
+      {
+        "word": "we're",
+        "start": 0.26,
+        "end": 0.74,
+        "probability": 0.768
+      },
+      {
+        "word": "gonna",
+        "start": 0.74,
+        "end": 0.88,
+        "probability": 0.548
+      },
+      {
+        "word": "be",
+        "start": 0.88,
+        "end": 1.04,
+        "probability": 0.996
+      },
+      {
+        "word": "doing",
+        "start": 1.04,
+        "end": 1.32,
+        "probability": 0.998
+      },
+      {
+        "word": "a",
+        "start": 1.32,
+        "end": 1.52,
+        "probability": 0.96
+      },
+      {
+        "word": "day",
+        "start": 1.52,
+        "end": 1.68,
+        "probability": 0.944
+      },
+      {
+        "word": "in",
+        "start": 1.68,
+        "end": 1.82,
+        "probability": 0.98
+      },
+      {
+        "word": "the",
+        "start": 1.82,
+        "end": 1.9,
+        "probability": 0.983
+      },
+      {
+        "word": "life.",
+        "start": 1.9,
+        "end": 2.22,
+        "probability": 0.947
+      }
+    ]
+  },
+  {
+    "start": 2.56,
+    "end": 2.68,
+    "text": "Oh.",
+    "words": [
+      {
+        "word": "Oh.",
+        "start": 2.56,
+        "end": 2.68,
+        "probability": 0.002
+      }
+    ]
+  },
+  {
+    "start": 3.5,
+    "end": 3.5,
+    "text": "",
+    "words": []
+  },
+  {
+    "start": 4.1,
+    "end": 4.4,
+    "text": "Please.",
+    "words": [
+      {
+        "word": "Please.",
+        "start": 4.1,
+        "end": 4.4,
+        "probability": 0.0
+      }
+    ]
+  },
+  {
+    "start": 5.62,
+    "end": 5.74,
+    "text": "Please.",
+    "words": [
+      {
+        "word": "Please.",
+        "start": 5.62,
+        "end": 5.74,
+        "probability": 0.078
+      }
+    ]
+  },
+  {
+    "start": 7.22,
+    "end": 7.78,
+    "text": "Please.",
+    "words": [
+      {
+        "word": "Please.",
+        "start": 7.22,
+        "end": 7.78,
+        "probability": 0.699
+      }
+    ]
+  },
+  {
+    "start": 8.06,
+    "end": 8.32,
+    "text": "Please.",
+    "words": [
+      {
+        "word": "Please.",
+        "start": 8.06,
+        "end": 8.32,
+        "probability": 0.827
+      }
+    ]
+  },
+  {
+    "start": 8.32,
+    "end": 8.7,
+    "text": "Please.",
+    "words": [
+      {
+        "word": "Please.",
+        "start": 8.32,
+        "end": 8.7,
+        "probability": 0.848
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 13.4,
+    "text": "morning I've got a couple of calls we've got a morning huddle of course which is how we start every",
+    "words": [
+      {
+        "word": "morning",
+        "start": 8.7,
+        "end": 9.08,
+        "probability": 0.581
+      },
+      {
+        "word": "I've",
+        "start": 9.08,
+        "end": 9.56,
+        "probability": 0.702
+      },
+      {
+        "word": "got",
+        "start": 9.56,
+        "end": 9.74,
+        "probability": 0.997
+      },
+      {
+        "word": "a",
+        "start": 9.74,
+        "end": 10.04,
+        "probability": 0.991
+      },
+      {
+        "word": "couple",
+        "start": 10.04,
+        "end": 10.22,
+        "probability": 0.998
+      },
+      {
+        "word": "of",
+        "start": 10.22,
+        "end": 10.42,
+        "probability": 0.994
+      },
+      {
+        "word": "calls",
+        "start": 10.42,
+        "end": 10.66,
+        "probability": 0.981
+      },
+      {
+        "word": "we've",
+        "start": 10.66,
+        "end": 11.04,
+        "probability": 0.707
+      },
+      {
+        "word": "got",
+        "start": 11.04,
+        "end": 11.14,
+        "probability": 0.997
+      },
+      {
+        "word": "a",
+        "start": 11.14,
+        "end": 11.24,
+        "probability": 0.612
+      },
+      {
+        "word": "morning",
+        "start": 11.24,
+        "end": 11.52,
+        "probability": 0.94
+      },
+      {
+        "word": "huddle",
+        "start": 11.52,
+        "end": 11.9,
+        "probability": 0.911
+      },
+      {
+        "word": "of",
+        "start": 11.9,
+        "end": 12.04,
+        "probability": 0.908
+      },
+      {
+        "word": "course",
+        "start": 12.04,
+        "end": 12.3,
+        "probability": 0.99
+      },
+      {
+        "word": "which",
+        "start": 12.3,
+        "end": 12.5,
+        "probability": 0.859
+      },
+      {
+        "word": "is",
+        "start": 12.5,
+        "end": 12.6,
+        "probability": 0.998
+      },
+      {
+        "word": "how",
+        "start": 12.6,
+        "end": 12.76,
+        "probability": 0.998
+      },
+      {
+        "word": "we",
+        "start": 12.76,
+        "end": 12.9,
+        "probability": 0.998
+      },
+      {
+        "word": "start",
+        "start": 12.9,
+        "end": 13.08,
+        "probability": 0.995
+      },
+      {
+        "word": "every",
+        "start": 13.08,
+        "end": 13.4,
+        "probability": 0.99
+      }
+    ]
+  },
+  {
+    "start": 13.4,
+    "end": 17.98,
+    "text": "single day we essentially just go through what we have planned for the day and any blockers",
+    "words": [
+      {
+        "word": "single",
+        "start": 13.4,
+        "end": 13.68,
+        "probability": 0.999
+      },
+      {
+        "word": "day",
+        "start": 13.68,
+        "end": 13.96,
+        "probability": 0.999
+      },
+      {
+        "word": "we",
+        "start": 13.96,
+        "end": 14.2,
+        "probability": 0.853
+      },
+      {
+        "word": "essentially",
+        "start": 14.2,
+        "end": 14.58,
+        "probability": 0.973
+      },
+      {
+        "word": "just",
+        "start": 14.58,
+        "end": 14.84,
+        "probability": 0.995
+      },
+      {
+        "word": "go",
+        "start": 14.84,
+        "end": 15.06,
+        "probability": 0.999
+      },
+      {
+        "word": "through",
+        "start": 15.06,
+        "end": 15.3,
+        "probability": 0.999
+      },
+      {
+        "word": "what",
+        "start": 15.3,
+        "end": 15.58,
+        "probability": 0.998
+      },
+      {
+        "word": "we",
+        "start": 15.58,
+        "end": 15.72,
+        "probability": 0.999
+      },
+      {
+        "word": "have",
+        "start": 15.72,
+        "end": 15.88,
+        "probability": 0.99
+      },
+      {
+        "word": "planned",
+        "start": 15.88,
+        "end": 16.18,
+        "probability": 0.988
+      },
+      {
+        "word": "for",
+        "start": 16.18,
+        "end": 16.36,
+        "probability": 0.999
+      },
+      {
+        "word": "the",
+        "start": 16.36,
+        "end": 16.46,
+        "probability": 0.999
+      },
+      {
+        "word": "day",
+        "start": 16.46,
+        "end": 16.7,
+        "probability": 0.999
+      },
+      {
+        "word": "and",
+        "start": 16.7,
+        "end": 16.98,
+        "probability": 0.942
+      },
+      {
+        "word": "any",
+        "start": 16.98,
+        "end": 17.24,
+        "probability": 0.948
+      },
+      {
+        "word": "blockers",
+        "start": 17.24,
+        "end": 17.98,
+        "probability": 0.968
+      }
+    ]
+  },
+  {
+    "start": 28.06,
+    "end": 29.96,
+    "text": "I've got a creative strategy call",
+    "words": [
+      {
+        "word": "I've",
+        "start": 28.06,
+        "end": 28.58,
+        "probability": 0.774
+      },
+      {
+        "word": "got",
+        "start": 28.58,
+        "end": 28.74,
+        "probability": 0.996
+      },
+      {
+        "word": "a",
+        "start": 28.74,
+        "end": 29.0,
+        "probability": 0.987
+      },
+      {
+        "word": "creative",
+        "start": 29.0,
+        "end": 29.26,
+        "probability": 0.906
+      },
+      {
+        "word": "strategy",
+        "start": 29.26,
+        "end": 29.68,
+        "probability": 0.75
+      },
+      {
+        "word": "call",
+        "start": 29.68,
+        "end": 29.96,
+        "probability": 0.487
+      }
+    ]
+  }
+]

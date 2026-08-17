@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build & Render Outputs
+out/*.mp4
+out/*.webm
+out/*.part
+out/honda_cut_*.png
+out/honda_frames_*.png
+out/honda_all_*.png
+*.log
+render.log
+
+# Large Audio & Video Files
+*.mp3
+*.webm
+audio_chunks/
+chapters_audio/
+public/chapters_audio/
+public/voices/
+soniox_voices/
+hitchhiker_guide/
+epub_output/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.pem
+*.key
+token.json
+client_secrets.json
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

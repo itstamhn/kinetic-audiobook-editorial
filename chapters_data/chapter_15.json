@@ -1,0 +1,2328 @@
+[
+  {
+    "id": 0,
+    "startTime": 1.098,
+    "endTime": 3.498,
+    "fullText": "Excerpt from the Hitchhiker's Guide to the Galaxy,",
+    "words": [
+      {
+        "text": "Excerpt",
+        "start": 1.098,
+        "end": 1.398
+      },
+      {
+        "text": "from",
+        "start": 1.398,
+        "end": 1.598
+      },
+      {
+        "text": "the",
+        "start": 1.598,
+        "end": 1.738
+      },
+      {
+        "text": "Hitchhiker's",
+        "start": 1.738,
+        "end": 2.358
+      },
+      {
+        "text": "Guide",
+        "start": 2.358,
+        "end": 2.558
+      },
+      {
+        "text": "to",
+        "start": 2.558,
+        "end": 2.718
+      },
+      {
+        "text": "the",
+        "start": 2.718,
+        "end": 2.818
+      },
+      {
+        "text": "Galaxy,",
+        "start": 2.818,
+        "end": 3.498
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "startTime": 3.498,
+    "endTime": 7.658,
+    "fullText": "page 634784, section 5A,",
+    "words": [
+      {
+        "text": "page",
+        "start": 3.498,
+        "end": 3.778
+      },
+      {
+        "text": "634784,",
+        "start": 3.778,
+        "end": 6.518
+      },
+      {
+        "text": "section",
+        "start": 6.518,
+        "end": 6.658
+      },
+      {
+        "text": "5A,",
+        "start": 6.658,
+        "end": 7.658
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "startTime": 7.658,
+    "endTime": 11.638,
+    "fullText": "entry, Magrathia. Far back in the midst of ancient",
+    "words": [
+      {
+        "text": "entry,",
+        "start": 7.658,
+        "end": 8.738
+      },
+      {
+        "text": "Magrathia.",
+        "start": 8.738,
+        "end": 9.458
+      },
+      {
+        "text": "Far",
+        "start": 10.238,
+        "end": 10.398
+      },
+      {
+        "text": "back",
+        "start": 10.398,
+        "end": 10.658
+      },
+      {
+        "text": "in",
+        "start": 10.658,
+        "end": 10.838
+      },
+      {
+        "text": "the",
+        "start": 10.838,
+        "end": 10.958
+      },
+      {
+        "text": "midst",
+        "start": 10.958,
+        "end": 11.158
+      },
+      {
+        "text": "of",
+        "start": 11.158,
+        "end": 11.318
+      },
+      {
+        "text": "ancient",
+        "start": 11.318,
+        "end": 11.638
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "startTime": 11.638,
+    "endTime": 14.138,
+    "fullText": "time, in the great and glorious days of the",
+    "words": [
+      {
+        "text": "time,",
+        "start": 11.638,
+        "end": 12.258
+      },
+      {
+        "text": "in",
+        "start": 12.258,
+        "end": 12.478
+      },
+      {
+        "text": "the",
+        "start": 12.478,
+        "end": 12.578
+      },
+      {
+        "text": "great",
+        "start": 12.578,
+        "end": 12.878
+      },
+      {
+        "text": "and",
+        "start": 12.878,
+        "end": 13.098
+      },
+      {
+        "text": "glorious",
+        "start": 13.098,
+        "end": 13.498
+      },
+      {
+        "text": "days",
+        "start": 13.498,
+        "end": 13.838
+      },
+      {
+        "text": "of",
+        "start": 13.838,
+        "end": 14.018
+      },
+      {
+        "text": "the",
+        "start": 14.018,
+        "end": 14.138
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startTime": 14.138,
+    "endTime": 17.718,
+    "fullText": "former Galactic Empire, life was wild, rich and largely",
+    "words": [
+      {
+        "text": "former",
+        "start": 14.138,
+        "end": 14.438
+      },
+      {
+        "text": "Galactic",
+        "start": 14.438,
+        "end": 14.938
+      },
+      {
+        "text": "Empire,",
+        "start": 14.978,
+        "end": 15.698
+      },
+      {
+        "text": "life",
+        "start": 15.698,
+        "end": 16.078
+      },
+      {
+        "text": "was",
+        "start": 16.078,
+        "end": 16.238
+      },
+      {
+        "text": "wild,",
+        "start": 16.238,
+        "end": 16.958
+      },
+      {
+        "text": "rich",
+        "start": 16.958,
+        "end": 17.238
+      },
+      {
+        "text": "and",
+        "start": 17.238,
+        "end": 17.378
+      },
+      {
+        "text": "largely",
+        "start": 17.378,
+        "end": 17.718
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "startTime": 17.718,
+    "endTime": 21.778,
+    "fullText": "tax-free. Mighty starships plied their way between exotic suns,",
+    "words": [
+      {
+        "text": "tax-free.",
+        "start": 17.718,
+        "end": 18.898
+      },
+      {
+        "text": "Mighty",
+        "start": 18.898,
+        "end": 19.178
+      },
+      {
+        "text": "starships",
+        "start": 19.178,
+        "end": 19.718
+      },
+      {
+        "text": "plied",
+        "start": 19.718,
+        "end": 20.018
+      },
+      {
+        "text": "their",
+        "start": 20.018,
+        "end": 20.198
+      },
+      {
+        "text": "way",
+        "start": 20.198,
+        "end": 20.358
+      },
+      {
+        "text": "between",
+        "start": 20.358,
+        "end": 20.638
+      },
+      {
+        "text": "exotic",
+        "start": 20.638,
+        "end": 21.058
+      },
+      {
+        "text": "suns,",
+        "start": 21.138,
+        "end": 21.778
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "startTime": 21.778,
+    "endTime": 24.918,
+    "fullText": "seeking adventure and reward amongst the furthest reaches of",
+    "words": [
+      {
+        "text": "seeking",
+        "start": 21.778,
+        "end": 22.158
+      },
+      {
+        "text": "adventure",
+        "start": 22.158,
+        "end": 22.638
+      },
+      {
+        "text": "and",
+        "start": 22.638,
+        "end": 22.978
+      },
+      {
+        "text": "reward",
+        "start": 22.978,
+        "end": 23.338
+      },
+      {
+        "text": "amongst",
+        "start": 23.338,
+        "end": 23.758
+      },
+      {
+        "text": "the",
+        "start": 23.758,
+        "end": 23.978
+      },
+      {
+        "text": "furthest",
+        "start": 23.978,
+        "end": 24.338
+      },
+      {
+        "text": "reaches",
+        "start": 24.338,
+        "end": 24.718
+      },
+      {
+        "text": "of",
+        "start": 24.718,
+        "end": 24.918
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "startTime": 24.918,
+    "endTime": 28.038,
+    "fullText": "galactic space. In those days spirits were brave,",
+    "words": [
+      {
+        "text": "galactic",
+        "start": 24.918,
+        "end": 25.298
+      },
+      {
+        "text": "space.",
+        "start": 25.298,
+        "end": 26.058
+      },
+      {
+        "text": "In",
+        "start": 25.938,
+        "end": 26.478
+      },
+      {
+        "text": "those",
+        "start": 26.478,
+        "end": 26.638
+      },
+      {
+        "text": "days",
+        "start": 26.638,
+        "end": 26.858
+      },
+      {
+        "text": "spirits",
+        "start": 26.858,
+        "end": 27.238
+      },
+      {
+        "text": "were",
+        "start": 27.238,
+        "end": 27.458
+      },
+      {
+        "text": "brave,",
+        "start": 27.458,
+        "end": 28.038
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "startTime": 28.038,
+    "endTime": 30.538,
+    "fullText": "the stakes were high, men were real men.",
+    "words": [
+      {
+        "text": "the",
+        "start": 28.038,
+        "end": 28.178
+      },
+      {
+        "text": "stakes",
+        "start": 28.178,
+        "end": 28.378
+      },
+      {
+        "text": "were",
+        "start": 28.378,
+        "end": 28.598
+      },
+      {
+        "text": "high,",
+        "start": 28.598,
+        "end": 29.218
+      },
+      {
+        "text": "men",
+        "start": 29.218,
+        "end": 29.538
+      },
+      {
+        "text": "were",
+        "start": 29.538,
+        "end": 29.718
+      },
+      {
+        "text": "real",
+        "start": 29.718,
+        "end": 29.958
+      },
+      {
+        "text": "men.",
+        "start": 29.958,
+        "end": 30.538
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "startTime": 30.16,
+    "endTime": 33.48,
+    "fullText": "women were real women, and small furry creatures from",
+    "words": [
+      {
+        "text": "women",
+        "start": 30.16,
+        "end": 30.42
+      },
+      {
+        "text": "were",
+        "start": 30.42,
+        "end": 31.1
+      },
+      {
+        "text": "real",
+        "start": 31.1,
+        "end": 31.34
+      },
+      {
+        "text": "women,",
+        "start": 31.34,
+        "end": 31.8
+      },
+      {
+        "text": "and",
+        "start": 31.8,
+        "end": 32.18
+      },
+      {
+        "text": "small",
+        "start": 32.18,
+        "end": 32.44
+      },
+      {
+        "text": "furry",
+        "start": 32.44,
+        "end": 32.76
+      },
+      {
+        "text": "creatures",
+        "start": 32.76,
+        "end": 33.2
+      },
+      {
+        "text": "from",
+        "start": 33.2,
+        "end": 33.48
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "startTime": 33.48,
+    "endTime": 36.58,
+    "fullText": "Alpha Centauri were real small furry creatures from Alpha",
+    "words": [
+      {
+        "text": "Alpha",
+        "start": 33.48,
+        "end": 33.78
+      },
+      {
+        "text": "Centauri",
+        "start": 33.78,
+        "end": 34.36
+      },
+      {
+        "text": "were",
+        "start": 34.36,
+        "end": 34.58
+      },
+      {
+        "text": "real",
+        "start": 34.58,
+        "end": 34.86
+      },
+      {
+        "text": "small",
+        "start": 34.86,
+        "end": 35.12
+      },
+      {
+        "text": "furry",
+        "start": 35.12,
+        "end": 35.56
+      },
+      {
+        "text": "creatures",
+        "start": 35.28,
+        "end": 36.02
+      },
+      {
+        "text": "from",
+        "start": 36.02,
+        "end": 36.26
+      },
+      {
+        "text": "Alpha",
+        "start": 36.26,
+        "end": 36.58
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "startTime": 36.58,
+    "endTime": 39.82,
+    "fullText": "Centauri. And all dared to brave unknown terrors,",
+    "words": [
+      {
+        "text": "Centauri.",
+        "start": 36.58,
+        "end": 37.28
+      },
+      {
+        "text": "And",
+        "start": 37.28,
+        "end": 37.82
+      },
+      {
+        "text": "all",
+        "start": 37.82,
+        "end": 37.98
+      },
+      {
+        "text": "dared",
+        "start": 37.98,
+        "end": 38.24
+      },
+      {
+        "text": "to",
+        "start": 38.24,
+        "end": 38.4
+      },
+      {
+        "text": "brave",
+        "start": 38.4,
+        "end": 38.68
+      },
+      {
+        "text": "unknown",
+        "start": 38.68,
+        "end": 39.12
+      },
+      {
+        "text": "terrors,",
+        "start": 39.12,
+        "end": 39.82
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "startTime": 39.82,
+    "endTime": 42.82,
+    "fullText": "to do mighty deeds, to boldly split infinitives that",
+    "words": [
+      {
+        "text": "to",
+        "start": 39.82,
+        "end": 40.06
+      },
+      {
+        "text": "do",
+        "start": 40.06,
+        "end": 40.24
+      },
+      {
+        "text": "mighty",
+        "start": 40.24,
+        "end": 40.54
+      },
+      {
+        "text": "deeds,",
+        "start": 40.54,
+        "end": 41.1
+      },
+      {
+        "text": "to",
+        "start": 41.22,
+        "end": 41.38
+      },
+      {
+        "text": "boldly",
+        "start": 41.38,
+        "end": 41.76
+      },
+      {
+        "text": "split",
+        "start": 41.76,
+        "end": 42.08
+      },
+      {
+        "text": "infinitives",
+        "start": 42.08,
+        "end": 42.58
+      },
+      {
+        "text": "that",
+        "start": 42.58,
+        "end": 42.82
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "startTime": 42.82,
+    "endTime": 45.3,
+    "fullText": "no man had split before, and thus was the",
+    "words": [
+      {
+        "text": "no",
+        "start": 42.82,
+        "end": 43.08
+      },
+      {
+        "text": "man",
+        "start": 43.08,
+        "end": 43.36
+      },
+      {
+        "text": "had",
+        "start": 43.36,
+        "end": 43.52
+      },
+      {
+        "text": "split",
+        "start": 43.52,
+        "end": 43.8
+      },
+      {
+        "text": "before,",
+        "start": 43.8,
+        "end": 44.44
+      },
+      {
+        "text": "and",
+        "start": 44.44,
+        "end": 44.84
+      },
+      {
+        "text": "thus",
+        "start": 44.84,
+        "end": 44.98
+      },
+      {
+        "text": "was",
+        "start": 44.98,
+        "end": 45.16
+      },
+      {
+        "text": "the",
+        "start": 45.16,
+        "end": 45.3
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "startTime": 45.3,
+    "endTime": 48.96,
+    "fullText": "empire forged. Many men of course became extremely rich,",
+    "words": [
+      {
+        "text": "empire",
+        "start": 45.3,
+        "end": 45.64
+      },
+      {
+        "text": "forged.",
+        "start": 45.64,
+        "end": 46.32
+      },
+      {
+        "text": "Many",
+        "start": 46.7,
+        "end": 46.92
+      },
+      {
+        "text": "men",
+        "start": 46.92,
+        "end": 47.08
+      },
+      {
+        "text": "of",
+        "start": 47.08,
+        "end": 47.22
+      },
+      {
+        "text": "course",
+        "start": 47.22,
+        "end": 47.46
+      },
+      {
+        "text": "became",
+        "start": 47.46,
+        "end": 47.82
+      },
+      {
+        "text": "extremely",
+        "start": 47.82,
+        "end": 48.32
+      },
+      {
+        "text": "rich,",
+        "start": 48.32,
+        "end": 48.96
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "startTime": 48.96,
+    "endTime": 51.34,
+    "fullText": "but this was perfectly natural and nothing to be",
+    "words": [
+      {
+        "text": "but",
+        "start": 48.96,
+        "end": 49.28
+      },
+      {
+        "text": "this",
+        "start": 49.28,
+        "end": 49.42
+      },
+      {
+        "text": "was",
+        "start": 49.42,
+        "end": 49.58
+      },
+      {
+        "text": "perfectly",
+        "start": 49.58,
+        "end": 50.0
+      },
+      {
+        "text": "natural",
+        "start": 50.0,
+        "end": 50.54
+      },
+      {
+        "text": "and",
+        "start": 50.54,
+        "end": 50.84
+      },
+      {
+        "text": "nothing",
+        "start": 50.84,
+        "end": 51.06
+      },
+      {
+        "text": "to",
+        "start": 51.06,
+        "end": 51.22
+      },
+      {
+        "text": "be",
+        "start": 51.22,
+        "end": 51.34
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "startTime": 50.88,
+    "endTime": 53.66,
+    "fullText": "ashamed of because no one was really poor,",
+    "words": [
+      {
+        "text": "ashamed",
+        "start": 50.88,
+        "end": 51.72
+      },
+      {
+        "text": "of",
+        "start": 51.72,
+        "end": 51.92
+      },
+      {
+        "text": "because",
+        "start": 51.92,
+        "end": 52.18
+      },
+      {
+        "text": "no",
+        "start": 52.18,
+        "end": 52.5
+      },
+      {
+        "text": "one",
+        "start": 52.5,
+        "end": 52.64
+      },
+      {
+        "text": "was",
+        "start": 52.64,
+        "end": 52.8
+      },
+      {
+        "text": "really",
+        "start": 52.8,
+        "end": 53.1
+      },
+      {
+        "text": "poor,",
+        "start": 53.1,
+        "end": 53.66
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "startTime": 53.66,
+    "endTime": 55.54,
+    "fullText": "at least no one worth speaking of.",
+    "words": [
+      {
+        "text": "at",
+        "start": 53.66,
+        "end": 54.08
+      },
+      {
+        "text": "least",
+        "start": 54.08,
+        "end": 54.22
+      },
+      {
+        "text": "no",
+        "start": 54.22,
+        "end": 54.48
+      },
+      {
+        "text": "one",
+        "start": 54.48,
+        "end": 54.68
+      },
+      {
+        "text": "worth",
+        "start": 54.68,
+        "end": 54.88
+      },
+      {
+        "text": "speaking",
+        "start": 54.88,
+        "end": 55.24
+      },
+      {
+        "text": "of.",
+        "start": 55.24,
+        "end": 55.54
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "startTime": 55.54,
+    "endTime": 58.58,
+    "fullText": "And for all the richest and most successful merchant's",
+    "words": [
+      {
+        "text": "And",
+        "start": 55.54,
+        "end": 56.14
+      },
+      {
+        "text": "for",
+        "start": 56.14,
+        "end": 56.28
+      },
+      {
+        "text": "all",
+        "start": 56.28,
+        "end": 56.46
+      },
+      {
+        "text": "the",
+        "start": 56.46,
+        "end": 56.6
+      },
+      {
+        "text": "richest",
+        "start": 56.64,
+        "end": 56.86
+      },
+      {
+        "text": "and",
+        "start": 56.86,
+        "end": 57.18
+      },
+      {
+        "text": "most",
+        "start": 57.18,
+        "end": 57.46
+      },
+      {
+        "text": "successful",
+        "start": 57.46,
+        "end": 57.98
+      },
+      {
+        "text": "merchant's",
+        "start": 57.98,
+        "end": 58.58
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "startTime": 58.58,
+    "endTime": 61.18,
+    "fullText": "life inevitably became rather dull and niggly,",
+    "words": [
+      {
+        "text": "life",
+        "start": 58.58,
+        "end": 58.76
+      },
+      {
+        "text": "inevitably",
+        "start": 58.76,
+        "end": 59.18
+      },
+      {
+        "text": "became",
+        "start": 59.18,
+        "end": 59.76
+      },
+      {
+        "text": "rather",
+        "start": 59.76,
+        "end": 60.06
+      },
+      {
+        "text": "dull",
+        "start": 60.06,
+        "end": 60.42
+      },
+      {
+        "text": "and",
+        "start": 60.42,
+        "end": 60.64
+      },
+      {
+        "text": "niggly,",
+        "start": 60.64,
+        "end": 61.18
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "startTime": 61.42,
+    "endTime": 63.36,
+    "fullText": "and they began to imagine that this was therefore",
+    "words": [
+      {
+        "text": "and",
+        "start": 61.42,
+        "end": 61.56
+      },
+      {
+        "text": "they",
+        "start": 61.56,
+        "end": 61.66
+      },
+      {
+        "text": "began",
+        "start": 61.66,
+        "end": 61.92
+      },
+      {
+        "text": "to",
+        "start": 61.92,
+        "end": 62.16
+      },
+      {
+        "text": "imagine",
+        "start": 62.16,
+        "end": 62.54
+      },
+      {
+        "text": "that",
+        "start": 62.54,
+        "end": 62.8
+      },
+      {
+        "text": "this",
+        "start": 62.8,
+        "end": 62.96
+      },
+      {
+        "text": "was",
+        "start": 62.96,
+        "end": 63.1
+      },
+      {
+        "text": "therefore",
+        "start": 63.1,
+        "end": 63.36
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "startTime": 63.36,
+    "endTime": 65.64,
+    "fullText": "the fault of the worlds they'd settled on,",
+    "words": [
+      {
+        "text": "the",
+        "start": 63.36,
+        "end": 63.66
+      },
+      {
+        "text": "fault",
+        "start": 63.66,
+        "end": 63.9
+      },
+      {
+        "text": "of",
+        "start": 63.9,
+        "end": 64.04
+      },
+      {
+        "text": "the",
+        "start": 64.04,
+        "end": 64.16
+      },
+      {
+        "text": "worlds",
+        "start": 64.16,
+        "end": 64.5
+      },
+      {
+        "text": "they'd",
+        "start": 64.5,
+        "end": 64.74
+      },
+      {
+        "text": "settled",
+        "start": 64.74,
+        "end": 65.1
+      },
+      {
+        "text": "on,",
+        "start": 65.1,
+        "end": 65.64
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "startTime": 65.84,
+    "endTime": 67.68,
+    "fullText": "none of them was entirely satisfactory.",
+    "words": [
+      {
+        "text": "none",
+        "start": 65.84,
+        "end": 66.02
+      },
+      {
+        "text": "of",
+        "start": 66.02,
+        "end": 66.14
+      },
+      {
+        "text": "them",
+        "start": 66.14,
+        "end": 66.3
+      },
+      {
+        "text": "was",
+        "start": 66.3,
+        "end": 66.5
+      },
+      {
+        "text": "entirely",
+        "start": 66.5,
+        "end": 67.02
+      },
+      {
+        "text": "satisfactory.",
+        "start": 67.02,
+        "end": 67.68
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "startTime": 67.68,
+    "endTime": 70.64,
+    "fullText": "Either the climate wasn't quite right in the later",
+    "words": [
+      {
+        "text": "Either",
+        "start": 67.68,
+        "end": 68.78
+      },
+      {
+        "text": "the",
+        "start": 68.78,
+        "end": 68.96
+      },
+      {
+        "text": "climate",
+        "start": 68.96,
+        "end": 69.24
+      },
+      {
+        "text": "wasn't",
+        "start": 69.24,
+        "end": 69.58
+      },
+      {
+        "text": "quite",
+        "start": 69.58,
+        "end": 69.88
+      },
+      {
+        "text": "right",
+        "start": 69.88,
+        "end": 70.16
+      },
+      {
+        "text": "in",
+        "start": 70.16,
+        "end": 70.34
+      },
+      {
+        "text": "the",
+        "start": 70.34,
+        "end": 70.42
+      },
+      {
+        "text": "later",
+        "start": 70.42,
+        "end": 70.64
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "startTime": 70.64,
+    "endTime": 72.9,
+    "fullText": "part of the afternoon, or the day was half",
+    "words": [
+      {
+        "text": "part",
+        "start": 70.64,
+        "end": 70.94
+      },
+      {
+        "text": "of",
+        "start": 70.94,
+        "end": 71.06
+      },
+      {
+        "text": "the",
+        "start": 70.76,
+        "end": 71.2
+      },
+      {
+        "text": "afternoon,",
+        "start": 71.2,
+        "end": 71.86
+      },
+      {
+        "text": "or",
+        "start": 71.86,
+        "end": 72.3
+      },
+      {
+        "text": "the",
+        "start": 72.3,
+        "end": 72.42
+      },
+      {
+        "text": "day",
+        "start": 72.42,
+        "end": 72.54
+      },
+      {
+        "text": "was",
+        "start": 72.54,
+        "end": 72.74
+      },
+      {
+        "text": "half",
+        "start": 72.74,
+        "end": 72.9
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "startTime": 72.9,
+    "endTime": 75.38,
+    "fullText": "an hour too long, or the sea was exactly",
+    "words": [
+      {
+        "text": "an",
+        "start": 72.9,
+        "end": 73.04
+      },
+      {
+        "text": "hour",
+        "start": 73.04,
+        "end": 73.22
+      },
+      {
+        "text": "too",
+        "start": 73.22,
+        "end": 73.5
+      },
+      {
+        "text": "long,",
+        "start": 73.5,
+        "end": 74.0
+      },
+      {
+        "text": "or",
+        "start": 74.0,
+        "end": 74.5
+      },
+      {
+        "text": "the",
+        "start": 74.5,
+        "end": 74.62
+      },
+      {
+        "text": "sea",
+        "start": 74.62,
+        "end": 74.78
+      },
+      {
+        "text": "was",
+        "start": 74.78,
+        "end": 74.96
+      },
+      {
+        "text": "exactly",
+        "start": 74.96,
+        "end": 75.38
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "startTime": 75.38,
+    "endTime": 78.04,
+    "fullText": "the wrong shade of pink, and thus were created",
+    "words": [
+      {
+        "text": "the",
+        "start": 75.38,
+        "end": 75.64
+      },
+      {
+        "text": "wrong",
+        "start": 75.64,
+        "end": 75.88
+      },
+      {
+        "text": "shade",
+        "start": 75.88,
+        "end": 76.22
+      },
+      {
+        "text": "of",
+        "start": 76.22,
+        "end": 76.38
+      },
+      {
+        "text": "pink,",
+        "start": 75.98,
+        "end": 76.82
+      },
+      {
+        "text": "and",
+        "start": 76.82,
+        "end": 77.34
+      },
+      {
+        "text": "thus",
+        "start": 77.34,
+        "end": 77.5
+      },
+      {
+        "text": "were",
+        "start": 77.5,
+        "end": 77.68
+      },
+      {
+        "text": "created",
+        "start": 77.68,
+        "end": 78.04
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "startTime": 78.04,
+    "endTime": 80.7,
+    "fullText": "the conditions for a staggering new form of specialist",
+    "words": [
+      {
+        "text": "the",
+        "start": 78.04,
+        "end": 78.26
+      },
+      {
+        "text": "conditions",
+        "start": 78.26,
+        "end": 78.68
+      },
+      {
+        "text": "for",
+        "start": 78.68,
+        "end": 78.92
+      },
+      {
+        "text": "a",
+        "start": 78.92,
+        "end": 79.06
+      },
+      {
+        "text": "staggering",
+        "start": 79.06,
+        "end": 79.44
+      },
+      {
+        "text": "new",
+        "start": 79.44,
+        "end": 79.78
+      },
+      {
+        "text": "form",
+        "start": 79.78,
+        "end": 80.14
+      },
+      {
+        "text": "of",
+        "start": 80.14,
+        "end": 80.28
+      },
+      {
+        "text": "specialist",
+        "start": 80.28,
+        "end": 80.7
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "startTime": 80.7,
+    "endTime": 83.44,
+    "fullText": "industry, custom-made luxury planet building.",
+    "words": [
+      {
+        "text": "industry,",
+        "start": 80.7,
+        "end": 81.54
+      },
+      {
+        "text": "custom-made",
+        "start": 81.76,
+        "end": 82.24
+      },
+      {
+        "text": "luxury",
+        "start": 82.24,
+        "end": 82.7
+      },
+      {
+        "text": "planet",
+        "start": 82.7,
+        "end": 83.1
+      },
+      {
+        "text": "building.",
+        "start": 83.1,
+        "end": 83.44
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "startTime": 83.44,
+    "endTime": 86.58,
+    "fullText": "The home of this industry was the planet Magrathia,",
+    "words": [
+      {
+        "text": "The",
+        "start": 83.44,
+        "end": 84.1
+      },
+      {
+        "text": "home",
+        "start": 84.1,
+        "end": 84.28
+      },
+      {
+        "text": "of",
+        "start": 84.28,
+        "end": 84.42
+      },
+      {
+        "text": "this",
+        "start": 84.42,
+        "end": 84.58
+      },
+      {
+        "text": "industry",
+        "start": 84.58,
+        "end": 84.92
+      },
+      {
+        "text": "was",
+        "start": 84.92,
+        "end": 85.16
+      },
+      {
+        "text": "the",
+        "start": 85.16,
+        "end": 85.3
+      },
+      {
+        "text": "planet",
+        "start": 85.3,
+        "end": 85.62
+      },
+      {
+        "text": "Magrathia,",
+        "start": 85.62,
+        "end": 86.58
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "startTime": 86.62,
+    "endTime": 89.5,
+    "fullText": "where hyperspatial engineers sucked matter through white holes in",
+    "words": [
+      {
+        "text": "where",
+        "start": 86.62,
+        "end": 86.74
+      },
+      {
+        "text": "hyperspatial",
+        "start": 86.74,
+        "end": 87.54
+      },
+      {
+        "text": "engineers",
+        "start": 87.54,
+        "end": 87.84
+      },
+      {
+        "text": "sucked",
+        "start": 87.84,
+        "end": 88.18
+      },
+      {
+        "text": "matter",
+        "start": 88.18,
+        "end": 88.48
+      },
+      {
+        "text": "through",
+        "start": 88.48,
+        "end": 88.76
+      },
+      {
+        "text": "white",
+        "start": 88.76,
+        "end": 89.1
+      },
+      {
+        "text": "holes",
+        "start": 89.1,
+        "end": 89.3
+      },
+      {
+        "text": "in",
+        "start": 89.3,
+        "end": 89.5
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "startTime": 89.5,
+    "endTime": 91.56,
+    "fullText": "space to form it into dream planets,",
+    "words": [
+      {
+        "text": "space",
+        "start": 89.5,
+        "end": 89.74
+      },
+      {
+        "text": "to",
+        "start": 89.74,
+        "end": 90.02
+      },
+      {
+        "text": "form",
+        "start": 90.02,
+        "end": 90.34
+      },
+      {
+        "text": "it",
+        "start": 90.34,
+        "end": 90.42
+      },
+      {
+        "text": "into",
+        "start": 90.42,
+        "end": 90.62
+      },
+      {
+        "text": "dream",
+        "start": 90.62,
+        "end": 90.88
+      },
+      {
+        "text": "planets,",
+        "start": 90.88,
+        "end": 91.56
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "startTime": 91.84,
+    "endTime": 95.56,
+    "fullText": "gold planets, platinum planets, soft rubber planets with lots",
+    "words": [
+      {
+        "text": "gold",
+        "start": 91.84,
+        "end": 92.1
+      },
+      {
+        "text": "planets,",
+        "start": 92.1,
+        "end": 92.92
+      },
+      {
+        "text": "platinum",
+        "start": 92.92,
+        "end": 93.16
+      },
+      {
+        "text": "planets,",
+        "start": 93.16,
+        "end": 94.06
+      },
+      {
+        "text": "soft",
+        "start": 94.06,
+        "end": 94.38
+      },
+      {
+        "text": "rubber",
+        "start": 94.38,
+        "end": 94.62
+      },
+      {
+        "text": "planets",
+        "start": 94.62,
+        "end": 95.02
+      },
+      {
+        "text": "with",
+        "start": 95.02,
+        "end": 95.26
+      },
+      {
+        "text": "lots",
+        "start": 95.26,
+        "end": 95.56
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "startTime": 95.56,
+    "endTime": 98.8,
+    "fullText": "of earthquakes. All lovingly made to meet the exacting",
+    "words": [
+      {
+        "text": "of",
+        "start": 95.56,
+        "end": 95.72
+      },
+      {
+        "text": "earthquakes.",
+        "start": 95.72,
+        "end": 96.06
+      },
+      {
+        "text": "All",
+        "start": 96.98,
+        "end": 97.18
+      },
+      {
+        "text": "lovingly",
+        "start": 97.18,
+        "end": 97.6
+      },
+      {
+        "text": "made",
+        "start": 97.6,
+        "end": 97.8
+      },
+      {
+        "text": "to",
+        "start": 97.8,
+        "end": 97.96
+      },
+      {
+        "text": "meet",
+        "start": 97.96,
+        "end": 98.12
+      },
+      {
+        "text": "the",
+        "start": 98.12,
+        "end": 98.28
+      },
+      {
+        "text": "exacting",
+        "start": 98.28,
+        "end": 98.8
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "startTime": 98.8,
+    "endTime": 101.78,
+    "fullText": "standards that the galaxy's richest men naturally came to",
+    "words": [
+      {
+        "text": "standards",
+        "start": 98.8,
+        "end": 99.14
+      },
+      {
+        "text": "that",
+        "start": 99.14,
+        "end": 99.44
+      },
+      {
+        "text": "the",
+        "start": 99.44,
+        "end": 99.56
+      },
+      {
+        "text": "galaxy's",
+        "start": 99.56,
+        "end": 100.14
+      },
+      {
+        "text": "richest",
+        "start": 100.14,
+        "end": 100.46
+      },
+      {
+        "text": "men",
+        "start": 100.46,
+        "end": 100.76
+      },
+      {
+        "text": "naturally",
+        "start": 100.76,
+        "end": 101.2
+      },
+      {
+        "text": "came",
+        "start": 101.2,
+        "end": 101.58
+      },
+      {
+        "text": "to",
+        "start": 101.58,
+        "end": 101.78
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "startTime": 101.78,
+    "endTime": 105.22,
+    "fullText": "expect. But so successful was this venture that Magrathia",
+    "words": [
+      {
+        "text": "expect.",
+        "start": 101.78,
+        "end": 102.36
+      },
+      {
+        "text": "But",
+        "start": 102.78,
+        "end": 102.9
+      },
+      {
+        "text": "so",
+        "start": 102.9,
+        "end": 103.1
+      },
+      {
+        "text": "successful",
+        "start": 103.1,
+        "end": 103.62
+      },
+      {
+        "text": "was",
+        "start": 103.62,
+        "end": 103.92
+      },
+      {
+        "text": "this",
+        "start": 103.92,
+        "end": 104.12
+      },
+      {
+        "text": "venture",
+        "start": 104.12,
+        "end": 104.4
+      },
+      {
+        "text": "that",
+        "start": 104.4,
+        "end": 104.62
+      },
+      {
+        "text": "Magrathia",
+        "start": 104.62,
+        "end": 105.22
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "startTime": 105.22,
+    "endTime": 108.0,
+    "fullText": "itself soon became the richest planet of all time",
+    "words": [
+      {
+        "text": "itself",
+        "start": 105.22,
+        "end": 105.58
+      },
+      {
+        "text": "soon",
+        "start": 105.58,
+        "end": 106.02
+      },
+      {
+        "text": "became",
+        "start": 106.02,
+        "end": 106.36
+      },
+      {
+        "text": "the",
+        "start": 106.36,
+        "end": 106.54
+      },
+      {
+        "text": "richest",
+        "start": 106.54,
+        "end": 106.82
+      },
+      {
+        "text": "planet",
+        "start": 106.82,
+        "end": 107.22
+      },
+      {
+        "text": "of",
+        "start": 107.22,
+        "end": 107.42
+      },
+      {
+        "text": "all",
+        "start": 107.42,
+        "end": 107.64
+      },
+      {
+        "text": "time",
+        "start": 107.64,
+        "end": 108.0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "startTime": 108.04,
+    "endTime": 110.2,
+    "fullText": "and the rest of the galaxy was reduced to",
+    "words": [
+      {
+        "text": "and",
+        "start": 108.04,
+        "end": 108.38
+      },
+      {
+        "text": "the",
+        "start": 108.38,
+        "end": 108.5
+      },
+      {
+        "text": "rest",
+        "start": 108.5,
+        "end": 108.66
+      },
+      {
+        "text": "of",
+        "start": 108.66,
+        "end": 108.82
+      },
+      {
+        "text": "the",
+        "start": 108.82,
+        "end": 108.92
+      },
+      {
+        "text": "galaxy",
+        "start": 108.92,
+        "end": 109.34
+      },
+      {
+        "text": "was",
+        "start": 109.34,
+        "end": 109.68
+      },
+      {
+        "text": "reduced",
+        "start": 109.68,
+        "end": 109.96
+      },
+      {
+        "text": "to",
+        "start": 109.96,
+        "end": 110.2
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "startTime": 110.2,
+    "endTime": 113.22,
+    "fullText": "abject poverty. And so the system broke down,",
+    "words": [
+      {
+        "text": "abject",
+        "start": 110.2,
+        "end": 110.6
+      },
+      {
+        "text": "poverty.",
+        "start": 110.6,
+        "end": 110.98
+      },
+      {
+        "text": "And",
+        "start": 111.64,
+        "end": 111.66
+      },
+      {
+        "text": "so",
+        "start": 111.66,
+        "end": 111.82
+      },
+      {
+        "text": "the",
+        "start": 111.82,
+        "end": 111.96
+      },
+      {
+        "text": "system",
+        "start": 111.96,
+        "end": 112.26
+      },
+      {
+        "text": "broke",
+        "start": 112.26,
+        "end": 112.52
+      },
+      {
+        "text": "down,",
+        "start": 112.52,
+        "end": 113.22
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "startTime": 113.22,
+    "endTime": 116.36,
+    "fullText": "the empire collapsed, and a long sullen silence settled",
+    "words": [
+      {
+        "text": "the",
+        "start": 113.22,
+        "end": 113.3
+      },
+      {
+        "text": "empire",
+        "start": 113.3,
+        "end": 113.68
+      },
+      {
+        "text": "collapsed,",
+        "start": 113.68,
+        "end": 114.5
+      },
+      {
+        "text": "and",
+        "start": 114.5,
+        "end": 114.86
+      },
+      {
+        "text": "a",
+        "start": 114.86,
+        "end": 115.02
+      },
+      {
+        "text": "long",
+        "start": 115.02,
+        "end": 115.24
+      },
+      {
+        "text": "sullen",
+        "start": 115.24,
+        "end": 115.6
+      },
+      {
+        "text": "silence",
+        "start": 115.6,
+        "end": 116.02
+      },
+      {
+        "text": "settled",
+        "start": 116.02,
+        "end": 116.36
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "startTime": 116.36,
+    "endTime": 119.82,
+    "fullText": "over a billion worlds, disturbed only by the pin-scratchings",
+    "words": [
+      {
+        "text": "over",
+        "start": 116.36,
+        "end": 116.66
+      },
+      {
+        "text": "a",
+        "start": 116.66,
+        "end": 116.84
+      },
+      {
+        "text": "billion",
+        "start": 116.84,
+        "end": 117.08
+      },
+      {
+        "text": "worlds,",
+        "start": 117.08,
+        "end": 117.9
+      },
+      {
+        "text": "disturbed",
+        "start": 117.9,
+        "end": 118.28
+      },
+      {
+        "text": "only",
+        "start": 118.28,
+        "end": 118.72
+      },
+      {
+        "text": "by",
+        "start": 118.72,
+        "end": 118.94
+      },
+      {
+        "text": "the",
+        "start": 118.94,
+        "end": 119.12
+      },
+      {
+        "text": "pin-scratchings",
+        "start": 119.12,
+        "end": 119.82
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "startTime": 119.82,
+    "endTime": 122.1,
+    "fullText": "of scholars as they labored into the night over",
+    "words": [
+      {
+        "text": "of",
+        "start": 119.82,
+        "end": 120.0
+      },
+      {
+        "text": "scholars",
+        "start": 120.0,
+        "end": 120.42
+      },
+      {
+        "text": "as",
+        "start": 120.42,
+        "end": 120.76
+      },
+      {
+        "text": "they",
+        "start": 120.76,
+        "end": 120.9
+      },
+      {
+        "text": "labored",
+        "start": 120.9,
+        "end": 121.24
+      },
+      {
+        "text": "into",
+        "start": 121.24,
+        "end": 121.48
+      },
+      {
+        "text": "the",
+        "start": 121.48,
+        "end": 121.64
+      },
+      {
+        "text": "night",
+        "start": 121.64,
+        "end": 121.84
+      },
+      {
+        "text": "over",
+        "start": 121.84,
+        "end": 122.1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "startTime": 122.1,
+    "endTime": 124.44,
+    "fullText": "smug little treaties on the value of a planned",
+    "words": [
+      {
+        "text": "smug",
+        "start": 122.1,
+        "end": 122.58
+      },
+      {
+        "text": "little",
+        "start": 122.58,
+        "end": 122.84
+      },
+      {
+        "text": "treaties",
+        "start": 122.84,
+        "end": 123.2
+      },
+      {
+        "text": "on",
+        "start": 123.2,
+        "end": 123.42
+      },
+      {
+        "text": "the",
+        "start": 123.42,
+        "end": 123.52
+      },
+      {
+        "text": "value",
+        "start": 123.52,
+        "end": 123.86
+      },
+      {
+        "text": "of",
+        "start": 123.86,
+        "end": 124.04
+      },
+      {
+        "text": "a",
+        "start": 124.04,
+        "end": 124.14
+      },
+      {
+        "text": "planned",
+        "start": 124.14,
+        "end": 124.44
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "startTime": 124.44,
+    "endTime": 128.34,
+    "fullText": "political economy. Magrathia itself disappeared and its memory",
+    "words": [
+      {
+        "text": "political",
+        "start": 124.44,
+        "end": 124.84
+      },
+      {
+        "text": "economy.",
+        "start": 124.84,
+        "end": 125.66
+      },
+      {
+        "text": "Magrathia",
+        "start": 125.98,
+        "end": 126.44
+      },
+      {
+        "text": "itself",
+        "start": 126.44,
+        "end": 126.82
+      },
+      {
+        "text": "disappeared",
+        "start": 126.82,
+        "end": 127.36
+      },
+      {
+        "text": "and",
+        "start": 127.36,
+        "end": 127.8
+      },
+      {
+        "text": "its",
+        "start": 127.8,
+        "end": 127.96
+      },
+      {
+        "text": "memory",
+        "start": 127.96,
+        "end": 128.34
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "startTime": 128.34,
+    "endTime": 130.78,
+    "fullText": "soon passed into the obscurity of legend.",
+    "words": [
+      {
+        "text": "soon",
+        "start": 128.34,
+        "end": 128.74
+      },
+      {
+        "text": "passed",
+        "start": 128.74,
+        "end": 129.12
+      },
+      {
+        "text": "into",
+        "start": 129.12,
+        "end": 129.36
+      },
+      {
+        "text": "the",
+        "start": 129.36,
+        "end": 129.54
+      },
+      {
+        "text": "obscurity",
+        "start": 129.54,
+        "end": 130.04
+      },
+      {
+        "text": "of",
+        "start": 130.04,
+        "end": 130.28
+      },
+      {
+        "text": "legend.",
+        "start": 130.28,
+        "end": 130.78
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "startTime": 131.16,
+    "endTime": 133.54,
+    "fullText": "In these enlightened days, of course, no one believes",
+    "words": [
+      {
+        "text": "In",
+        "start": 131.16,
+        "end": 131.3
+      },
+      {
+        "text": "these",
+        "start": 131.3,
+        "end": 131.46
+      },
+      {
+        "text": "enlightened",
+        "start": 131.46,
+        "end": 131.84
+      },
+      {
+        "text": "days,",
+        "start": 131.84,
+        "end": 132.3
+      },
+      {
+        "text": "of",
+        "start": 132.3,
+        "end": 132.34
+      },
+      {
+        "text": "course,",
+        "start": 132.34,
+        "end": 132.84
+      },
+      {
+        "text": "no",
+        "start": 132.84,
+        "end": 133.1
+      },
+      {
+        "text": "one",
+        "start": 133.1,
+        "end": 133.24
+      },
+      {
+        "text": "believes",
+        "start": 133.24,
+        "end": 133.54
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "startTime": 133.54,
+    "endTime": 134.22,
+    "fullText": "a word of it.",
+    "words": [
+      {
+        "text": "a",
+        "start": 133.54,
+        "end": 133.74
+      },
+      {
+        "text": "word",
+        "start": 133.74,
+        "end": 133.9
+      },
+      {
+        "text": "of",
+        "start": 133.9,
+        "end": 134.06
+      },
+      {
+        "text": "it.",
+        "start": 134.06,
+        "end": 134.22
+      }
+    ]
+  }
+]

@@ -1,0 +1,8643 @@
+[
+  {
+    "id": 0,
+    "startTime": 0.336,
+    "endTime": 2.896,
+    "fullText": "chatted to itself an alarm as it noticed an",
+    "words": [
+      {
+        "text": "chatted",
+        "start": 0.336,
+        "end": 0.716
+      },
+      {
+        "text": "to",
+        "start": 0.716,
+        "end": 0.896
+      },
+      {
+        "text": "itself",
+        "start": 0.896,
+        "end": 1.256
+      },
+      {
+        "text": "an",
+        "start": 1.256,
+        "end": 1.436
+      },
+      {
+        "text": "alarm",
+        "start": 1.436,
+        "end": 1.776
+      },
+      {
+        "text": "as",
+        "start": 1.776,
+        "end": 2.216
+      },
+      {
+        "text": "it",
+        "start": 2.216,
+        "end": 2.296
+      },
+      {
+        "text": "noticed",
+        "start": 2.096,
+        "end": 2.676
+      },
+      {
+        "text": "an",
+        "start": 2.676,
+        "end": 2.896
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "startTime": 2.896,
+    "endTime": 5.596,
+    "fullText": "airlock open and close itself for no apparent reason.",
+    "words": [
+      {
+        "text": "airlock",
+        "start": 2.896,
+        "end": 3.276
+      },
+      {
+        "text": "open",
+        "start": 3.276,
+        "end": 3.596
+      },
+      {
+        "text": "and",
+        "start": 3.596,
+        "end": 3.856
+      },
+      {
+        "text": "close",
+        "start": 3.856,
+        "end": 4.136
+      },
+      {
+        "text": "itself",
+        "start": 4.136,
+        "end": 4.516
+      },
+      {
+        "text": "for",
+        "start": 4.516,
+        "end": 4.756
+      },
+      {
+        "text": "no",
+        "start": 4.756,
+        "end": 4.896
+      },
+      {
+        "text": "apparent",
+        "start": 4.896,
+        "end": 5.276
+      },
+      {
+        "text": "reason.",
+        "start": 5.276,
+        "end": 5.596
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "startTime": 5.596,
+    "endTime": 8.076,
+    "fullText": "This was because reason was in fact out to",
+    "words": [
+      {
+        "text": "This",
+        "start": 5.596,
+        "end": 6.276
+      },
+      {
+        "text": "was",
+        "start": 6.276,
+        "end": 6.436
+      },
+      {
+        "text": "because",
+        "start": 6.436,
+        "end": 6.656
+      },
+      {
+        "text": "reason",
+        "start": 6.656,
+        "end": 7.076
+      },
+      {
+        "text": "was",
+        "start": 7.076,
+        "end": 7.276
+      },
+      {
+        "text": "in",
+        "start": 7.276,
+        "end": 7.416
+      },
+      {
+        "text": "fact",
+        "start": 6.956,
+        "end": 7.736
+      },
+      {
+        "text": "out",
+        "start": 7.736,
+        "end": 7.916
+      },
+      {
+        "text": "to",
+        "start": 7.916,
+        "end": 8.076
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "startTime": 8.076,
+    "endTime": 10.876,
+    "fullText": "launch. A hole had just appeared in the galaxy.",
+    "words": [
+      {
+        "text": "launch.",
+        "start": 8.076,
+        "end": 8.536
+      },
+      {
+        "text": "A",
+        "start": 8.536,
+        "end": 9.036
+      },
+      {
+        "text": "hole",
+        "start": 9.036,
+        "end": 9.236
+      },
+      {
+        "text": "had",
+        "start": 9.236,
+        "end": 9.416
+      },
+      {
+        "text": "just",
+        "start": 9.416,
+        "end": 9.576
+      },
+      {
+        "text": "appeared",
+        "start": 9.576,
+        "end": 9.936
+      },
+      {
+        "text": "in",
+        "start": 9.936,
+        "end": 10.116
+      },
+      {
+        "text": "the",
+        "start": 10.116,
+        "end": 10.196
+      },
+      {
+        "text": "galaxy.",
+        "start": 10.196,
+        "end": 10.876
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startTime": 10.876,
+    "endTime": 13.816,
+    "fullText": "It was exactly a nothingth of a second long,",
+    "words": [
+      {
+        "text": "It",
+        "start": 10.876,
+        "end": 11.316
+      },
+      {
+        "text": "was",
+        "start": 11.316,
+        "end": 11.456
+      },
+      {
+        "text": "exactly",
+        "start": 11.456,
+        "end": 11.836
+      },
+      {
+        "text": "a",
+        "start": 11.836,
+        "end": 12.056
+      },
+      {
+        "text": "nothingth",
+        "start": 12.056,
+        "end": 12.416
+      },
+      {
+        "text": "of",
+        "start": 12.416,
+        "end": 12.536
+      },
+      {
+        "text": "a",
+        "start": 12.536,
+        "end": 12.676
+      },
+      {
+        "text": "second",
+        "start": 12.676,
+        "end": 12.936
+      },
+      {
+        "text": "long,",
+        "start": 12.976,
+        "end": 13.816
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "startTime": 13.816,
+    "endTime": 15.836,
+    "fullText": "a nothingth of an inch wide, and quite a",
+    "words": [
+      {
+        "text": "a",
+        "start": 13.816,
+        "end": 13.916
+      },
+      {
+        "text": "nothingth",
+        "start": 13.916,
+        "end": 14.156
+      },
+      {
+        "text": "of",
+        "start": 14.156,
+        "end": 14.276
+      },
+      {
+        "text": "an",
+        "start": 14.276,
+        "end": 14.416
+      },
+      {
+        "text": "inch",
+        "start": 14.416,
+        "end": 14.536
+      },
+      {
+        "text": "wide,",
+        "start": 14.536,
+        "end": 15.036
+      },
+      {
+        "text": "and",
+        "start": 15.036,
+        "end": 15.416
+      },
+      {
+        "text": "quite",
+        "start": 15.416,
+        "end": 15.636
+      },
+      {
+        "text": "a",
+        "start": 15.636,
+        "end": 15.836
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "startTime": 15.836,
+    "endTime": 17.756,
+    "fullText": "lot of million light years from end to end.",
+    "words": [
+      {
+        "text": "lot",
+        "start": 15.836,
+        "end": 15.976
+      },
+      {
+        "text": "of",
+        "start": 15.976,
+        "end": 16.136
+      },
+      {
+        "text": "million",
+        "start": 16.136,
+        "end": 16.356
+      },
+      {
+        "text": "light",
+        "start": 16.356,
+        "end": 16.696
+      },
+      {
+        "text": "years",
+        "start": 16.696,
+        "end": 16.896
+      },
+      {
+        "text": "from",
+        "start": 16.896,
+        "end": 17.136
+      },
+      {
+        "text": "end",
+        "start": 17.136,
+        "end": 17.316
+      },
+      {
+        "text": "to",
+        "start": 17.316,
+        "end": 17.416
+      },
+      {
+        "text": "end.",
+        "start": 17.416,
+        "end": 17.756
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "startTime": 18.116,
+    "endTime": 20.136,
+    "fullText": "As it closed up, lots of paper hats and",
+    "words": [
+      {
+        "text": "As",
+        "start": 18.116,
+        "end": 18.296
+      },
+      {
+        "text": "it",
+        "start": 18.296,
+        "end": 18.356
+      },
+      {
+        "text": "closed",
+        "start": 18.356,
+        "end": 18.656
+      },
+      {
+        "text": "up,",
+        "start": 18.656,
+        "end": 18.976
+      },
+      {
+        "text": "lots",
+        "start": 18.976,
+        "end": 19.136
+      },
+      {
+        "text": "of",
+        "start": 19.136,
+        "end": 19.336
+      },
+      {
+        "text": "paper",
+        "start": 19.336,
+        "end": 19.656
+      },
+      {
+        "text": "hats",
+        "start": 19.656,
+        "end": 19.936
+      },
+      {
+        "text": "and",
+        "start": 19.936,
+        "end": 20.136
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "startTime": 20.136,
+    "endTime": 22.376,
+    "fullText": "party balloons fell out of it and drifted off",
+    "words": [
+      {
+        "text": "party",
+        "start": 20.136,
+        "end": 20.436
+      },
+      {
+        "text": "balloons",
+        "start": 20.436,
+        "end": 20.816
+      },
+      {
+        "text": "fell",
+        "start": 20.816,
+        "end": 21.096
+      },
+      {
+        "text": "out",
+        "start": 21.096,
+        "end": 21.316
+      },
+      {
+        "text": "of",
+        "start": 21.316,
+        "end": 21.436
+      },
+      {
+        "text": "it",
+        "start": 21.436,
+        "end": 21.516
+      },
+      {
+        "text": "and",
+        "start": 21.516,
+        "end": 21.716
+      },
+      {
+        "text": "drifted",
+        "start": 21.716,
+        "end": 22.196
+      },
+      {
+        "text": "off",
+        "start": 22.196,
+        "end": 22.376
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "startTime": 22.376,
+    "endTime": 25.876,
+    "fullText": "through the universe. A team of seven three-foot-high market",
+    "words": [
+      {
+        "text": "through",
+        "start": 22.376,
+        "end": 22.576
+      },
+      {
+        "text": "the",
+        "start": 22.216,
+        "end": 22.716
+      },
+      {
+        "text": "universe.",
+        "start": 22.716,
+        "end": 22.976
+      },
+      {
+        "text": "A",
+        "start": 22.976,
+        "end": 23.856
+      },
+      {
+        "text": "team",
+        "start": 23.856,
+        "end": 24.036
+      },
+      {
+        "text": "of",
+        "start": 24.036,
+        "end": 24.176
+      },
+      {
+        "text": "seven",
+        "start": 24.176,
+        "end": 24.456
+      },
+      {
+        "text": "three-foot-high",
+        "start": 24.456,
+        "end": 25.516
+      },
+      {
+        "text": "market",
+        "start": 25.516,
+        "end": 25.876
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "startTime": 25.876,
+    "endTime": 27.596,
+    "fullText": "analysts fell out of it and died,",
+    "words": [
+      {
+        "text": "analysts",
+        "start": 25.876,
+        "end": 26.256
+      },
+      {
+        "text": "fell",
+        "start": 26.256,
+        "end": 26.556
+      },
+      {
+        "text": "out",
+        "start": 26.556,
+        "end": 26.776
+      },
+      {
+        "text": "of",
+        "start": 26.776,
+        "end": 26.856
+      },
+      {
+        "text": "it",
+        "start": 26.856,
+        "end": 26.956
+      },
+      {
+        "text": "and",
+        "start": 26.956,
+        "end": 27.216
+      },
+      {
+        "text": "died,",
+        "start": 27.216,
+        "end": 27.596
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "startTime": 28.036,
+    "endTime": 31.116,
+    "fullText": "partly of asphyxication, partly of surprise.",
+    "words": [
+      {
+        "text": "partly",
+        "start": 28.036,
+        "end": 28.276
+      },
+      {
+        "text": "of",
+        "start": 28.276,
+        "end": 28.496
+      },
+      {
+        "text": "asphyxication,",
+        "start": 28.496,
+        "end": 29.756
+      },
+      {
+        "text": "partly",
+        "start": 29.756,
+        "end": 29.956
+      },
+      {
+        "text": "of",
+        "start": 29.956,
+        "end": 30.176
+      },
+      {
+        "text": "surprise.",
+        "start": 30.176,
+        "end": 31.116
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "startTime": 31.116,
+    "endTime": 34.776,
+    "fullText": "239,000 lightly fried eggs fell out of it too,",
+    "words": [
+      {
+        "text": "239,000",
+        "start": 31.116,
+        "end": 32.776
+      },
+      {
+        "text": "lightly",
+        "start": 32.776,
+        "end": 33.116
+      },
+      {
+        "text": "fried",
+        "start": 33.116,
+        "end": 33.436
+      },
+      {
+        "text": "eggs",
+        "start": 33.436,
+        "end": 33.776
+      },
+      {
+        "text": "fell",
+        "start": 33.776,
+        "end": 34.016
+      },
+      {
+        "text": "out",
+        "start": 34.016,
+        "end": 34.196
+      },
+      {
+        "text": "of",
+        "start": 34.196,
+        "end": 34.276
+      },
+      {
+        "text": "it",
+        "start": 34.276,
+        "end": 34.356
+      },
+      {
+        "text": "too,",
+        "start": 34.356,
+        "end": 34.776
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "startTime": 35.116,
+    "endTime": 38.076,
+    "fullText": "materializing in a large wubly heap on the famine,",
+    "words": [
+      {
+        "text": "materializing",
+        "start": 35.116,
+        "end": 35.736
+      },
+      {
+        "text": "in",
+        "start": 35.736,
+        "end": 35.936
+      },
+      {
+        "text": "a",
+        "start": 35.936,
+        "end": 36.056
+      },
+      {
+        "text": "large",
+        "start": 36.056,
+        "end": 36.436
+      },
+      {
+        "text": "wubly",
+        "start": 36.436,
+        "end": 36.796
+      },
+      {
+        "text": "heap",
+        "start": 36.796,
+        "end": 37.096
+      },
+      {
+        "text": "on",
+        "start": 37.096,
+        "end": 37.256
+      },
+      {
+        "text": "the",
+        "start": 37.256,
+        "end": 37.356
+      },
+      {
+        "text": "famine,",
+        "start": 37.356,
+        "end": 38.076
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "startTime": 38.076,
+    "endTime": 40.256,
+    "fullText": "struck land of Pogrill in the Pancel system.",
+    "words": [
+      {
+        "text": "struck",
+        "start": 38.076,
+        "end": 38.416
+      },
+      {
+        "text": "land",
+        "start": 38.416,
+        "end": 38.696
+      },
+      {
+        "text": "of",
+        "start": 38.696,
+        "end": 38.836
+      },
+      {
+        "text": "Pogrill",
+        "start": 38.836,
+        "end": 39.216
+      },
+      {
+        "text": "in",
+        "start": 39.216,
+        "end": 39.376
+      },
+      {
+        "text": "the",
+        "start": 39.376,
+        "end": 39.456
+      },
+      {
+        "text": "Pancel",
+        "start": 39.456,
+        "end": 39.876
+      },
+      {
+        "text": "system.",
+        "start": 39.876,
+        "end": 40.256
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "startTime": 40.296,
+    "endTime": 43.056,
+    "fullText": "The whole Pogrel tribe had died out from famine",
+    "words": [
+      {
+        "text": "The",
+        "start": 40.296,
+        "end": 40.896
+      },
+      {
+        "text": "whole",
+        "start": 40.896,
+        "end": 41.136
+      },
+      {
+        "text": "Pogrel",
+        "start": 41.136,
+        "end": 41.456
+      },
+      {
+        "text": "tribe",
+        "start": 41.456,
+        "end": 41.776
+      },
+      {
+        "text": "had",
+        "start": 41.776,
+        "end": 42.056
+      },
+      {
+        "text": "died",
+        "start": 42.056,
+        "end": 42.276
+      },
+      {
+        "text": "out",
+        "start": 42.276,
+        "end": 42.536
+      },
+      {
+        "text": "from",
+        "start": 42.536,
+        "end": 42.696
+      },
+      {
+        "text": "famine",
+        "start": 42.696,
+        "end": 43.056
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "startTime": 43.056,
+    "endTime": 45.276,
+    "fullText": "except for one last man who died of cholesterol",
+    "words": [
+      {
+        "text": "except",
+        "start": 43.056,
+        "end": 43.396
+      },
+      {
+        "text": "for",
+        "start": 43.396,
+        "end": 43.636
+      },
+      {
+        "text": "one",
+        "start": 43.636,
+        "end": 43.856
+      },
+      {
+        "text": "last",
+        "start": 43.856,
+        "end": 44.136
+      },
+      {
+        "text": "man",
+        "start": 44.136,
+        "end": 44.396
+      },
+      {
+        "text": "who",
+        "start": 44.396,
+        "end": 44.576
+      },
+      {
+        "text": "died",
+        "start": 44.576,
+        "end": 44.756
+      },
+      {
+        "text": "of",
+        "start": 44.756,
+        "end": 44.936
+      },
+      {
+        "text": "cholesterol",
+        "start": 44.936,
+        "end": 45.276
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "startTime": 45.416,
+    "endTime": 46.776,
+    "fullText": "poisoning some weeks later.",
+    "words": [
+      {
+        "text": "poisoning",
+        "start": 45.416,
+        "end": 45.956
+      },
+      {
+        "text": "some",
+        "start": 45.956,
+        "end": 46.256
+      },
+      {
+        "text": "weeks",
+        "start": 46.256,
+        "end": 46.496
+      },
+      {
+        "text": "later.",
+        "start": 46.496,
+        "end": 46.776
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "startTime": 46.776,
+    "endTime": 49.216,
+    "fullText": "The nothingth of a second for which the whole",
+    "words": [
+      {
+        "text": "The",
+        "start": 46.776,
+        "end": 47.496
+      },
+      {
+        "text": "nothingth",
+        "start": 47.496,
+        "end": 47.796
+      },
+      {
+        "text": "of",
+        "start": 47.796,
+        "end": 47.936
+      },
+      {
+        "text": "a",
+        "start": 47.936,
+        "end": 48.056
+      },
+      {
+        "text": "second",
+        "start": 48.056,
+        "end": 48.356
+      },
+      {
+        "text": "for",
+        "start": 48.356,
+        "end": 48.596
+      },
+      {
+        "text": "which",
+        "start": 48.596,
+        "end": 48.776
+      },
+      {
+        "text": "the",
+        "start": 48.776,
+        "end": 48.976
+      },
+      {
+        "text": "whole",
+        "start": 48.976,
+        "end": 49.216
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "startTime": 49.216,
+    "endTime": 52.376,
+    "fullText": "existed reverberated backwards and forwards through time in a",
+    "words": [
+      {
+        "text": "existed",
+        "start": 49.216,
+        "end": 49.576
+      },
+      {
+        "text": "reverberated",
+        "start": 49.576,
+        "end": 50.376
+      },
+      {
+        "text": "backwards",
+        "start": 49.916,
+        "end": 50.796
+      },
+      {
+        "text": "and",
+        "start": 50.796,
+        "end": 51.056
+      },
+      {
+        "text": "forwards",
+        "start": 51.056,
+        "end": 51.496
+      },
+      {
+        "text": "through",
+        "start": 51.496,
+        "end": 51.796
+      },
+      {
+        "text": "time",
+        "start": 51.796,
+        "end": 52.076
+      },
+      {
+        "text": "in",
+        "start": 52.076,
+        "end": 52.296
+      },
+      {
+        "text": "a",
+        "start": 52.296,
+        "end": 52.376
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "startTime": 52.376,
+    "endTime": 55.876,
+    "fullText": "most improbable fashion. Somewhere in the deeply remote past",
+    "words": [
+      {
+        "text": "most",
+        "start": 52.376,
+        "end": 52.636
+      },
+      {
+        "text": "improbable",
+        "start": 52.636,
+        "end": 53.216
+      },
+      {
+        "text": "fashion.",
+        "start": 53.216,
+        "end": 53.816
+      },
+      {
+        "text": "Somewhere",
+        "start": 53.816,
+        "end": 54.476
+      },
+      {
+        "text": "in",
+        "start": 54.476,
+        "end": 54.696
+      },
+      {
+        "text": "the",
+        "start": 54.696,
+        "end": 54.776
+      },
+      {
+        "text": "deeply",
+        "start": 54.776,
+        "end": 55.056
+      },
+      {
+        "text": "remote",
+        "start": 54.596,
+        "end": 55.496
+      },
+      {
+        "text": "past",
+        "start": 55.496,
+        "end": 55.876
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "startTime": 55.876,
+    "endTime": 58.876,
+    "fullText": "it seriously traumatized a small random group of atoms",
+    "words": [
+      {
+        "text": "it",
+        "start": 55.876,
+        "end": 56.056
+      },
+      {
+        "text": "seriously",
+        "start": 56.056,
+        "end": 56.536
+      },
+      {
+        "text": "traumatized",
+        "start": 56.536,
+        "end": 57.336
+      },
+      {
+        "text": "a",
+        "start": 57.336,
+        "end": 57.476
+      },
+      {
+        "text": "small",
+        "start": 57.476,
+        "end": 57.816
+      },
+      {
+        "text": "random",
+        "start": 57.816,
+        "end": 58.096
+      },
+      {
+        "text": "group",
+        "start": 58.096,
+        "end": 58.376
+      },
+      {
+        "text": "of",
+        "start": 58.376,
+        "end": 58.576
+      },
+      {
+        "text": "atoms",
+        "start": 58.576,
+        "end": 58.876
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "startTime": 58.876,
+    "endTime": 61.616,
+    "fullText": "drifting through the empty sterility of space and made",
+    "words": [
+      {
+        "text": "drifting",
+        "start": 58.876,
+        "end": 59.276
+      },
+      {
+        "text": "through",
+        "start": 59.276,
+        "end": 59.516
+      },
+      {
+        "text": "the",
+        "start": 59.516,
+        "end": 59.636
+      },
+      {
+        "text": "empty",
+        "start": 59.636,
+        "end": 59.876
+      },
+      {
+        "text": "sterility",
+        "start": 59.436,
+        "end": 60.376
+      },
+      {
+        "text": "of",
+        "start": 60.376,
+        "end": 60.616
+      },
+      {
+        "text": "space",
+        "start": 60.616,
+        "end": 61.036
+      },
+      {
+        "text": "and",
+        "start": 61.036,
+        "end": 61.416
+      },
+      {
+        "text": "made",
+        "start": 61.416,
+        "end": 61.616
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "startTime": 61.616,
+    "endTime": 65.236,
+    "fullText": "them cling together in the most extraordinarily unlikely patterns.",
+    "words": [
+      {
+        "text": "them",
+        "start": 61.616,
+        "end": 61.796
+      },
+      {
+        "text": "cling",
+        "start": 61.796,
+        "end": 62.056
+      },
+      {
+        "text": "together",
+        "start": 62.056,
+        "end": 62.396
+      },
+      {
+        "text": "in",
+        "start": 62.396,
+        "end": 62.676
+      },
+      {
+        "text": "the",
+        "start": 62.676,
+        "end": 62.776
+      },
+      {
+        "text": "most",
+        "start": 62.776,
+        "end": 62.976
+      },
+      {
+        "text": "extraordinarily",
+        "start": 62.976,
+        "end": 63.536
+      },
+      {
+        "text": "unlikely",
+        "start": 63.536,
+        "end": 64.276
+      },
+      {
+        "text": "patterns.",
+        "start": 64.276,
+        "end": 65.236
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "startTime": 65.536,
+    "endTime": 67.696,
+    "fullText": "These patterns quickly learned to copy themselves.",
+    "words": [
+      {
+        "text": "These",
+        "start": 65.536,
+        "end": 65.776
+      },
+      {
+        "text": "patterns",
+        "start": 65.776,
+        "end": 66.136
+      },
+      {
+        "text": "quickly",
+        "start": 66.136,
+        "end": 66.516
+      },
+      {
+        "text": "learned",
+        "start": 66.516,
+        "end": 66.916
+      },
+      {
+        "text": "to",
+        "start": 66.916,
+        "end": 67.056
+      },
+      {
+        "text": "copy",
+        "start": 67.056,
+        "end": 67.336
+      },
+      {
+        "text": "themselves.",
+        "start": 67.336,
+        "end": 67.696
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "startTime": 67.696,
+    "endTime": 70.276,
+    "fullText": "This was part of what was so extraordinary of",
+    "words": [
+      {
+        "text": "This",
+        "start": 67.696,
+        "end": 68.356
+      },
+      {
+        "text": "was",
+        "start": 68.356,
+        "end": 68.516
+      },
+      {
+        "text": "part",
+        "start": 68.516,
+        "end": 68.776
+      },
+      {
+        "text": "of",
+        "start": 68.776,
+        "end": 68.896
+      },
+      {
+        "text": "what",
+        "start": 68.896,
+        "end": 68.996
+      },
+      {
+        "text": "was",
+        "start": 68.996,
+        "end": 69.156
+      },
+      {
+        "text": "so",
+        "start": 69.156,
+        "end": 69.356
+      },
+      {
+        "text": "extraordinary",
+        "start": 69.356,
+        "end": 69.876
+      },
+      {
+        "text": "of",
+        "start": 69.876,
+        "end": 70.276
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "startTime": 70.276,
+    "endTime": 72.836,
+    "fullText": "the patterns and went on to cause massive trouble",
+    "words": [
+      {
+        "text": "the",
+        "start": 70.276,
+        "end": 70.396
+      },
+      {
+        "text": "patterns",
+        "start": 70.396,
+        "end": 70.716
+      },
+      {
+        "text": "and",
+        "start": 70.716,
+        "end": 71.316
+      },
+      {
+        "text": "went",
+        "start": 71.316,
+        "end": 71.496
+      },
+      {
+        "text": "on",
+        "start": 71.496,
+        "end": 71.636
+      },
+      {
+        "text": "to",
+        "start": 71.636,
+        "end": 71.776
+      },
+      {
+        "text": "cause",
+        "start": 71.776,
+        "end": 72.016
+      },
+      {
+        "text": "massive",
+        "start": 72.016,
+        "end": 72.436
+      },
+      {
+        "text": "trouble",
+        "start": 72.436,
+        "end": 72.836
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "startTime": 72.836,
+    "endTime": 74.816,
+    "fullText": "on every planet they drifted onto.",
+    "words": [
+      {
+        "text": "on",
+        "start": 72.836,
+        "end": 73.056
+      },
+      {
+        "text": "every",
+        "start": 73.056,
+        "end": 73.316
+      },
+      {
+        "text": "planet",
+        "start": 73.316,
+        "end": 73.656
+      },
+      {
+        "text": "they",
+        "start": 73.656,
+        "end": 73.896
+      },
+      {
+        "text": "drifted",
+        "start": 73.896,
+        "end": 74.336
+      },
+      {
+        "text": "onto.",
+        "start": 74.336,
+        "end": 74.816
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "startTime": 75.056,
+    "endTime": 76.716,
+    "fullText": "That was how life began in the universe.",
+    "words": [
+      {
+        "text": "That",
+        "start": 75.056,
+        "end": 75.276
+      },
+      {
+        "text": "was",
+        "start": 75.276,
+        "end": 75.376
+      },
+      {
+        "text": "how",
+        "start": 75.376,
+        "end": 75.516
+      },
+      {
+        "text": "life",
+        "start": 75.516,
+        "end": 75.816
+      },
+      {
+        "text": "began",
+        "start": 75.816,
+        "end": 76.136
+      },
+      {
+        "text": "in",
+        "start": 76.136,
+        "end": 76.336
+      },
+      {
+        "text": "the",
+        "start": 76.336,
+        "end": 76.396
+      },
+      {
+        "text": "universe.",
+        "start": 76.396,
+        "end": 76.716
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "startTime": 76.716,
+    "endTime": 80.536,
+    "fullText": "Five wild event maelstrom swirled in vicious storms of",
+    "words": [
+      {
+        "text": "Five",
+        "start": 76.716,
+        "end": 77.796
+      },
+      {
+        "text": "wild",
+        "start": 77.796,
+        "end": 78.116
+      },
+      {
+        "text": "event",
+        "start": 78.116,
+        "end": 78.416
+      },
+      {
+        "text": "maelstrom",
+        "start": 78.416,
+        "end": 78.916
+      },
+      {
+        "text": "swirled",
+        "start": 78.916,
+        "end": 79.456
+      },
+      {
+        "text": "in",
+        "start": 79.456,
+        "end": 79.656
+      },
+      {
+        "text": "vicious",
+        "start": 79.656,
+        "end": 79.876
+      },
+      {
+        "text": "storms",
+        "start": 79.876,
+        "end": 80.296
+      },
+      {
+        "text": "of",
+        "start": 80.036,
+        "end": 80.536
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "startTime": 80.536,
+    "endTime": 82.536,
+    "fullText": "unreason and spewed up a pavement.",
+    "words": [
+      {
+        "text": "unreason",
+        "start": 80.536,
+        "end": 80.996
+      },
+      {
+        "text": "and",
+        "start": 80.996,
+        "end": 81.336
+      },
+      {
+        "text": "spewed",
+        "start": 81.336,
+        "end": 81.716
+      },
+      {
+        "text": "up",
+        "start": 81.716,
+        "end": 81.876
+      },
+      {
+        "text": "a",
+        "start": 81.876,
+        "end": 81.976
+      },
+      {
+        "text": "pavement.",
+        "start": 81.976,
+        "end": 82.536
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "startTime": 82.536,
+    "endTime": 85.556,
+    "fullText": "On the pavement lay Ford Prefect and Arthur Dent",
+    "words": [
+      {
+        "text": "On",
+        "start": 82.536,
+        "end": 83.076
+      },
+      {
+        "text": "the",
+        "start": 83.076,
+        "end": 83.176
+      },
+      {
+        "text": "pavement",
+        "start": 83.176,
+        "end": 83.496
+      },
+      {
+        "text": "lay",
+        "start": 83.496,
+        "end": 83.776
+      },
+      {
+        "text": "Ford",
+        "start": 83.776,
+        "end": 84.096
+      },
+      {
+        "text": "Prefect",
+        "start": 84.096,
+        "end": 84.656
+      },
+      {
+        "text": "and",
+        "start": 84.656,
+        "end": 84.916
+      },
+      {
+        "text": "Arthur",
+        "start": 84.916,
+        "end": 85.236
+      },
+      {
+        "text": "Dent",
+        "start": 85.236,
+        "end": 85.556
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "startTime": 85.556,
+    "endTime": 87.096,
+    "fullText": "gulping like half-spent fish.",
+    "words": [
+      {
+        "text": "gulping",
+        "start": 85.556,
+        "end": 85.916
+      },
+      {
+        "text": "like",
+        "start": 85.476,
+        "end": 86.216
+      },
+      {
+        "text": "half-spent",
+        "start": 86.216,
+        "end": 86.696
+      },
+      {
+        "text": "fish.",
+        "start": 86.696,
+        "end": 87.096
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "startTime": 87.096,
+    "endTime": 90.496,
+    "fullText": "There you are, gasped Ford, scrabbling for a finger",
+    "words": [
+      {
+        "text": "There",
+        "start": 87.096,
+        "end": 87.776
+      },
+      {
+        "text": "you",
+        "start": 87.776,
+        "end": 87.936
+      },
+      {
+        "text": "are,",
+        "start": 87.936,
+        "end": 88.416
+      },
+      {
+        "text": "gasped",
+        "start": 88.416,
+        "end": 88.716
+      },
+      {
+        "text": "Ford,",
+        "start": 88.716,
+        "end": 89.576
+      },
+      {
+        "text": "scrabbling",
+        "start": 89.576,
+        "end": 89.856
+      },
+      {
+        "text": "for",
+        "start": 89.856,
+        "end": 90.036
+      },
+      {
+        "text": "a",
+        "start": 90.036,
+        "end": 90.196
+      },
+      {
+        "text": "finger",
+        "start": 90.196,
+        "end": 90.496
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "startTime": 90.496,
+    "endTime": 92.476,
+    "fullText": "hold on the pavement as it raised through the",
+    "words": [
+      {
+        "text": "hold",
+        "start": 90.496,
+        "end": 90.756
+      },
+      {
+        "text": "on",
+        "start": 90.756,
+        "end": 90.916
+      },
+      {
+        "text": "the",
+        "start": 90.916,
+        "end": 90.996
+      },
+      {
+        "text": "pavement",
+        "start": 90.996,
+        "end": 91.316
+      },
+      {
+        "text": "as",
+        "start": 91.316,
+        "end": 91.656
+      },
+      {
+        "text": "it",
+        "start": 91.536,
+        "end": 91.796
+      },
+      {
+        "text": "raised",
+        "start": 91.796,
+        "end": 92.076
+      },
+      {
+        "text": "through",
+        "start": 92.076,
+        "end": 92.296
+      },
+      {
+        "text": "the",
+        "start": 92.296,
+        "end": 92.476
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "startTime": 92.476,
+    "endTime": 93.616,
+    "fullText": "third reach of the unknown.",
+    "words": [
+      {
+        "text": "third",
+        "start": 92.476,
+        "end": 92.736
+      },
+      {
+        "text": "reach",
+        "start": 92.736,
+        "end": 92.956
+      },
+      {
+        "text": "of",
+        "start": 92.956,
+        "end": 93.136
+      },
+      {
+        "text": "the",
+        "start": 93.136,
+        "end": 93.256
+      },
+      {
+        "text": "unknown.",
+        "start": 93.256,
+        "end": 93.616
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "startTime": 93.616,
+    "endTime": 95.536,
+    "fullText": "I told you I'd think of something.",
+    "words": [
+      {
+        "text": "I",
+        "start": 93.616,
+        "end": 94.356
+      },
+      {
+        "text": "told",
+        "start": 94.356,
+        "end": 94.536
+      },
+      {
+        "text": "you",
+        "start": 94.536,
+        "end": 94.696
+      },
+      {
+        "text": "I'd",
+        "start": 94.696,
+        "end": 94.896
+      },
+      {
+        "text": "think",
+        "start": 94.896,
+        "end": 95.096
+      },
+      {
+        "text": "of",
+        "start": 95.096,
+        "end": 95.216
+      },
+      {
+        "text": "something.",
+        "start": 95.216,
+        "end": 95.536
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "startTime": 95.536,
+    "endTime": 98.276,
+    "fullText": "Oh sure, said Arthur, sure.",
+    "words": [
+      {
+        "text": "Oh",
+        "start": 95.536,
+        "end": 96.156
+      },
+      {
+        "text": "sure,",
+        "start": 96.156,
+        "end": 96.616
+      },
+      {
+        "text": "said",
+        "start": 96.616,
+        "end": 96.856
+      },
+      {
+        "text": "Arthur,",
+        "start": 96.916,
+        "end": 97.576
+      },
+      {
+        "text": "sure.",
+        "start": 97.576,
+        "end": 98.276
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "startTime": 98.276,
+    "endTime": 100.996,
+    "fullText": "Bright idea of mine, said Ford, to find a",
+    "words": [
+      {
+        "text": "Bright",
+        "start": 98.276,
+        "end": 98.536
+      },
+      {
+        "text": "idea",
+        "start": 98.536,
+        "end": 98.916
+      },
+      {
+        "text": "of",
+        "start": 98.916,
+        "end": 99.136
+      },
+      {
+        "text": "mine,",
+        "start": 99.136,
+        "end": 99.576
+      },
+      {
+        "text": "said",
+        "start": 99.576,
+        "end": 99.896
+      },
+      {
+        "text": "Ford,",
+        "start": 99.896,
+        "end": 100.436
+      },
+      {
+        "text": "to",
+        "start": 100.436,
+        "end": 100.656
+      },
+      {
+        "text": "find",
+        "start": 100.656,
+        "end": 100.876
+      },
+      {
+        "text": "a",
+        "start": 100.876,
+        "end": 100.996
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "startTime": 100.996,
+    "endTime": 103.156,
+    "fullText": "passing spaceship and get rescued by it.",
+    "words": [
+      {
+        "text": "passing",
+        "start": 100.996,
+        "end": 101.336
+      },
+      {
+        "text": "spaceship",
+        "start": 101.336,
+        "end": 101.856
+      },
+      {
+        "text": "and",
+        "start": 101.856,
+        "end": 102.176
+      },
+      {
+        "text": "get",
+        "start": 102.176,
+        "end": 102.356
+      },
+      {
+        "text": "rescued",
+        "start": 102.356,
+        "end": 102.676
+      },
+      {
+        "text": "by",
+        "start": 102.676,
+        "end": 102.916
+      },
+      {
+        "text": "it.",
+        "start": 102.916,
+        "end": 103.156
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "startTime": 102.636,
+    "endTime": 106.236,
+    "fullText": "The real universe arched sickeningly away beneath them.",
+    "words": [
+      {
+        "text": "The",
+        "start": 102.636,
+        "end": 103.696
+      },
+      {
+        "text": "real",
+        "start": 103.696,
+        "end": 103.916
+      },
+      {
+        "text": "universe",
+        "start": 103.916,
+        "end": 104.296
+      },
+      {
+        "text": "arched",
+        "start": 104.296,
+        "end": 104.796
+      },
+      {
+        "text": "sickeningly",
+        "start": 104.796,
+        "end": 105.196
+      },
+      {
+        "text": "away",
+        "start": 105.196,
+        "end": 105.456
+      },
+      {
+        "text": "beneath",
+        "start": 105.456,
+        "end": 105.776
+      },
+      {
+        "text": "them.",
+        "start": 105.776,
+        "end": 106.236
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "startTime": 106.236,
+    "endTime": 110.076,
+    "fullText": "Various pretend ones flitted silently by, like mountain goats.",
+    "words": [
+      {
+        "text": "Various",
+        "start": 106.236,
+        "end": 106.916
+      },
+      {
+        "text": "pretend",
+        "start": 106.916,
+        "end": 107.256
+      },
+      {
+        "text": "ones",
+        "start": 107.256,
+        "end": 107.476
+      },
+      {
+        "text": "flitted",
+        "start": 107.476,
+        "end": 107.776
+      },
+      {
+        "text": "silently",
+        "start": 107.776,
+        "end": 108.216
+      },
+      {
+        "text": "by,",
+        "start": 108.216,
+        "end": 108.756
+      },
+      {
+        "text": "like",
+        "start": 108.916,
+        "end": 109.096
+      },
+      {
+        "text": "mountain",
+        "start": 109.096,
+        "end": 109.396
+      },
+      {
+        "text": "goats.",
+        "start": 109.396,
+        "end": 110.076
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "startTime": 110.076,
+    "endTime": 113.896,
+    "fullText": "Primal light exploded, splattering space-time as with gobbets of",
+    "words": [
+      {
+        "text": "Primal",
+        "start": 110.076,
+        "end": 110.636
+      },
+      {
+        "text": "light",
+        "start": 110.636,
+        "end": 110.876
+      },
+      {
+        "text": "exploded,",
+        "start": 110.876,
+        "end": 111.916
+      },
+      {
+        "text": "splattering",
+        "start": 111.916,
+        "end": 112.276
+      },
+      {
+        "text": "space-time",
+        "start": 112.276,
+        "end": 112.956
+      },
+      {
+        "text": "as",
+        "start": 112.956,
+        "end": 113.216
+      },
+      {
+        "text": "with",
+        "start": 113.216,
+        "end": 113.356
+      },
+      {
+        "text": "gobbets",
+        "start": 113.356,
+        "end": 113.716
+      },
+      {
+        "text": "of",
+        "start": 113.716,
+        "end": 113.896
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "startTime": 113.896,
+    "endTime": 116.436,
+    "fullText": "junket. Time blossomed, matter shrank away.",
+    "words": [
+      {
+        "text": "junket.",
+        "start": 113.896,
+        "end": 114.416
+      },
+      {
+        "text": "Time",
+        "start": 114.756,
+        "end": 114.976
+      },
+      {
+        "text": "blossomed,",
+        "start": 114.976,
+        "end": 115.596
+      },
+      {
+        "text": "matter",
+        "start": 115.596,
+        "end": 115.756
+      },
+      {
+        "text": "shrank",
+        "start": 115.756,
+        "end": 115.996
+      },
+      {
+        "text": "away.",
+        "start": 115.996,
+        "end": 116.436
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "startTime": 116.436,
+    "endTime": 119.316,
+    "fullText": "The highest prime number coalesced quietly in a corner",
+    "words": [
+      {
+        "text": "The",
+        "start": 116.436,
+        "end": 116.916
+      },
+      {
+        "text": "highest",
+        "start": 116.916,
+        "end": 117.216
+      },
+      {
+        "text": "prime",
+        "start": 117.216,
+        "end": 117.516
+      },
+      {
+        "text": "number",
+        "start": 117.516,
+        "end": 117.776
+      },
+      {
+        "text": "coalesced",
+        "start": 117.776,
+        "end": 118.376
+      },
+      {
+        "text": "quietly",
+        "start": 118.376,
+        "end": 118.756
+      },
+      {
+        "text": "in",
+        "start": 118.756,
+        "end": 118.996
+      },
+      {
+        "text": "a",
+        "start": 118.996,
+        "end": 119.056
+      },
+      {
+        "text": "corner",
+        "start": 119.056,
+        "end": 119.316
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "startTime": 119.316,
+    "endTime": 121.056,
+    "fullText": "and hid itself away forever.",
+    "words": [
+      {
+        "text": "and",
+        "start": 119.316,
+        "end": 119.696
+      },
+      {
+        "text": "hid",
+        "start": 119.216,
+        "end": 119.856
+      },
+      {
+        "text": "itself",
+        "start": 119.856,
+        "end": 120.136
+      },
+      {
+        "text": "away",
+        "start": 120.136,
+        "end": 120.416
+      },
+      {
+        "text": "forever.",
+        "start": 120.416,
+        "end": 121.056
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "startTime": 121.056,
+    "endTime": 123.856,
+    "fullText": "Oh, come off it, said Arthur, the chances against",
+    "words": [
+      {
+        "text": "Oh,",
+        "start": 121.056,
+        "end": 121.556
+      },
+      {
+        "text": "come",
+        "start": 121.556,
+        "end": 121.696
+      },
+      {
+        "text": "off",
+        "start": 121.696,
+        "end": 121.916
+      },
+      {
+        "text": "it,",
+        "start": 121.916,
+        "end": 122.156
+      },
+      {
+        "text": "said",
+        "start": 122.156,
+        "end": 122.496
+      },
+      {
+        "text": "Arthur,",
+        "start": 122.496,
+        "end": 123.056
+      },
+      {
+        "text": "the",
+        "start": 123.056,
+        "end": 123.236
+      },
+      {
+        "text": "chances",
+        "start": 123.236,
+        "end": 123.536
+      },
+      {
+        "text": "against",
+        "start": 123.536,
+        "end": 123.856
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "startTime": 123.856,
+    "endTime": 126.596,
+    "fullText": "it were astronomical. Don't knock it, it worked,",
+    "words": [
+      {
+        "text": "it",
+        "start": 123.856,
+        "end": 124.076
+      },
+      {
+        "text": "were",
+        "start": 124.076,
+        "end": 124.196
+      },
+      {
+        "text": "astronomical.",
+        "start": 124.196,
+        "end": 125.076
+      },
+      {
+        "text": "Don't",
+        "start": 125.436,
+        "end": 125.576
+      },
+      {
+        "text": "knock",
+        "start": 125.576,
+        "end": 125.776
+      },
+      {
+        "text": "it,",
+        "start": 125.776,
+        "end": 126.056
+      },
+      {
+        "text": "it",
+        "start": 126.056,
+        "end": 126.116
+      },
+      {
+        "text": "worked,",
+        "start": 126.116,
+        "end": 126.596
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "startTime": 126.596,
+    "endTime": 128.836,
+    "fullText": "said Ford What sort of ship are we in?",
+    "words": [
+      {
+        "text": "said",
+        "start": 126.596,
+        "end": 126.756
+      },
+      {
+        "text": "Ford",
+        "start": 126.756,
+        "end": 126.976
+      },
+      {
+        "text": "What",
+        "start": 127.516,
+        "end": 127.676
+      },
+      {
+        "text": "sort",
+        "start": 127.676,
+        "end": 127.896
+      },
+      {
+        "text": "of",
+        "start": 127.896,
+        "end": 127.996
+      },
+      {
+        "text": "ship",
+        "start": 127.996,
+        "end": 128.156
+      },
+      {
+        "text": "are",
+        "start": 128.156,
+        "end": 128.356
+      },
+      {
+        "text": "we",
+        "start": 128.356,
+        "end": 128.456
+      },
+      {
+        "text": "in?",
+        "start": 128.456,
+        "end": 128.836
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "startTime": 129.136,
+    "endTime": 131.316,
+    "fullText": "Asked Arthur as the pit of eternity yawned beneath",
+    "words": [
+      {
+        "text": "Asked",
+        "start": 129.136,
+        "end": 129.476
+      },
+      {
+        "text": "Arthur",
+        "start": 129.476,
+        "end": 129.736
+      },
+      {
+        "text": "as",
+        "start": 129.736,
+        "end": 129.976
+      },
+      {
+        "text": "the",
+        "start": 129.976,
+        "end": 130.116
+      },
+      {
+        "text": "pit",
+        "start": 130.116,
+        "end": 130.256
+      },
+      {
+        "text": "of",
+        "start": 130.256,
+        "end": 130.356
+      },
+      {
+        "text": "eternity",
+        "start": 130.356,
+        "end": 130.656
+      },
+      {
+        "text": "yawned",
+        "start": 130.656,
+        "end": 131.096
+      },
+      {
+        "text": "beneath",
+        "start": 131.096,
+        "end": 131.316
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "startTime": 131.316,
+    "endTime": 134.116,
+    "fullText": "them I don't know, said Ford I haven't opened",
+    "words": [
+      {
+        "text": "them",
+        "start": 131.316,
+        "end": 131.596
+      },
+      {
+        "text": "I",
+        "start": 131.596,
+        "end": 132.156
+      },
+      {
+        "text": "don't",
+        "start": 132.156,
+        "end": 132.336
+      },
+      {
+        "text": "know,",
+        "start": 132.336,
+        "end": 132.656
+      },
+      {
+        "text": "said",
+        "start": 132.656,
+        "end": 132.796
+      },
+      {
+        "text": "Ford",
+        "start": 132.796,
+        "end": 133.076
+      },
+      {
+        "text": "I",
+        "start": 132.636,
+        "end": 133.596
+      },
+      {
+        "text": "haven't",
+        "start": 133.596,
+        "end": 133.876
+      },
+      {
+        "text": "opened",
+        "start": 133.876,
+        "end": 134.116
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "startTime": 134.116,
+    "endTime": 136.596,
+    "fullText": "my eyes yet No, nor have I,",
+    "words": [
+      {
+        "text": "my",
+        "start": 134.116,
+        "end": 134.296
+      },
+      {
+        "text": "eyes",
+        "start": 134.296,
+        "end": 134.556
+      },
+      {
+        "text": "yet",
+        "start": 134.556,
+        "end": 134.796
+      },
+      {
+        "text": "No,",
+        "start": 135.316,
+        "end": 136.056
+      },
+      {
+        "text": "nor",
+        "start": 136.056,
+        "end": 136.176
+      },
+      {
+        "text": "have",
+        "start": 136.176,
+        "end": 136.376
+      },
+      {
+        "text": "I,",
+        "start": 136.376,
+        "end": 136.596
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "startTime": 136.596,
+    "endTime": 140.436,
+    "fullText": "said Arthur The universe jumped, froze, quivered and splayed",
+    "words": [
+      {
+        "text": "said",
+        "start": 136.596,
+        "end": 136.716
+      },
+      {
+        "text": "Arthur",
+        "start": 136.716,
+        "end": 136.956
+      },
+      {
+        "text": "The",
+        "start": 136.536,
+        "end": 137.696
+      },
+      {
+        "text": "universe",
+        "start": 137.696,
+        "end": 138.056
+      },
+      {
+        "text": "jumped,",
+        "start": 138.056,
+        "end": 138.776
+      },
+      {
+        "text": "froze,",
+        "start": 138.776,
+        "end": 139.436
+      },
+      {
+        "text": "quivered",
+        "start": 139.436,
+        "end": 139.836
+      },
+      {
+        "text": "and",
+        "start": 139.836,
+        "end": 139.996
+      },
+      {
+        "text": "splayed",
+        "start": 139.996,
+        "end": 140.436
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "startTime": 140.436,
+    "endTime": 144.096,
+    "fullText": "out in several unexpected directions Arthur and Ford opened",
+    "words": [
+      {
+        "text": "out",
+        "start": 140.436,
+        "end": 140.576
+      },
+      {
+        "text": "in",
+        "start": 140.576,
+        "end": 140.716
+      },
+      {
+        "text": "several",
+        "start": 140.716,
+        "end": 141.076
+      },
+      {
+        "text": "unexpected",
+        "start": 141.076,
+        "end": 141.476
+      },
+      {
+        "text": "directions",
+        "start": 141.476,
+        "end": 142.096
+      },
+      {
+        "text": "Arthur",
+        "start": 141.776,
+        "end": 143.136
+      },
+      {
+        "text": "and",
+        "start": 143.136,
+        "end": 143.416
+      },
+      {
+        "text": "Ford",
+        "start": 143.416,
+        "end": 143.716
+      },
+      {
+        "text": "opened",
+        "start": 143.716,
+        "end": 144.096
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "startTime": 144.096,
+    "endTime": 147.236,
+    "fullText": "their eyes and looked about in considerable surprise Good",
+    "words": [
+      {
+        "text": "their",
+        "start": 144.096,
+        "end": 144.276
+      },
+      {
+        "text": "eyes",
+        "start": 144.276,
+        "end": 144.536
+      },
+      {
+        "text": "and",
+        "start": 144.536,
+        "end": 144.816
+      },
+      {
+        "text": "looked",
+        "start": 144.816,
+        "end": 144.976
+      },
+      {
+        "text": "about",
+        "start": 144.976,
+        "end": 145.196
+      },
+      {
+        "text": "in",
+        "start": 145.196,
+        "end": 145.356
+      },
+      {
+        "text": "considerable",
+        "start": 145.356,
+        "end": 145.856
+      },
+      {
+        "text": "surprise",
+        "start": 145.856,
+        "end": 146.356
+      },
+      {
+        "text": "Good",
+        "start": 147.076,
+        "end": 147.236
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "startTime": 147.236,
+    "endTime": 149.536,
+    "fullText": "God, said Arthur It looks just like the sea",
+    "words": [
+      {
+        "text": "God,",
+        "start": 147.236,
+        "end": 147.716
+      },
+      {
+        "text": "said",
+        "start": 147.716,
+        "end": 147.876
+      },
+      {
+        "text": "Arthur",
+        "start": 147.876,
+        "end": 148.156
+      },
+      {
+        "text": "It",
+        "start": 147.716,
+        "end": 148.676
+      },
+      {
+        "text": "looks",
+        "start": 148.676,
+        "end": 148.856
+      },
+      {
+        "text": "just",
+        "start": 148.856,
+        "end": 149.036
+      },
+      {
+        "text": "like",
+        "start": 149.036,
+        "end": 149.176
+      },
+      {
+        "text": "the",
+        "start": 149.176,
+        "end": 149.316
+      },
+      {
+        "text": "sea",
+        "start": 149.316,
+        "end": 149.536
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "startTime": 149.616,
+    "endTime": 153.376,
+    "fullText": "South end Front end Hell, I'm relieved to hear",
+    "words": [
+      {
+        "text": "South",
+        "start": 149.616,
+        "end": 150.396
+      },
+      {
+        "text": "end",
+        "start": 150.396,
+        "end": 150.596
+      },
+      {
+        "text": "Front",
+        "start": 150.156,
+        "end": 151.316
+      },
+      {
+        "text": "end",
+        "start": 151.316,
+        "end": 151.516
+      },
+      {
+        "text": "Hell,",
+        "start": 151.056,
+        "end": 152.396
+      },
+      {
+        "text": "I'm",
+        "start": 152.396,
+        "end": 152.796
+      },
+      {
+        "text": "relieved",
+        "start": 152.796,
+        "end": 153.076
+      },
+      {
+        "text": "to",
+        "start": 153.076,
+        "end": 153.256
+      },
+      {
+        "text": "hear",
+        "start": 153.256,
+        "end": 153.376
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "startTime": 153.376,
+    "endTime": 155.416,
+    "fullText": "you say that, said Ford Why?",
+    "words": [
+      {
+        "text": "you",
+        "start": 153.376,
+        "end": 153.536
+      },
+      {
+        "text": "say",
+        "start": 153.536,
+        "end": 153.776
+      },
+      {
+        "text": "that,",
+        "start": 153.776,
+        "end": 154.076
+      },
+      {
+        "text": "said",
+        "start": 154.076,
+        "end": 154.156
+      },
+      {
+        "text": "Ford",
+        "start": 154.156,
+        "end": 154.436
+      },
+      {
+        "text": "Why?",
+        "start": 154.956,
+        "end": 155.416
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "startTime": 155.416,
+    "endTime": 157.456,
+    "fullText": "Because I thought I must be going mad.",
+    "words": [
+      {
+        "text": "Because",
+        "start": 155.416,
+        "end": 155.856
+      },
+      {
+        "text": "I",
+        "start": 155.856,
+        "end": 156.036
+      },
+      {
+        "text": "thought",
+        "start": 156.036,
+        "end": 156.216
+      },
+      {
+        "text": "I",
+        "start": 156.216,
+        "end": 156.316
+      },
+      {
+        "text": "must",
+        "start": 156.316,
+        "end": 156.476
+      },
+      {
+        "text": "be",
+        "start": 156.476,
+        "end": 156.616
+      },
+      {
+        "text": "going",
+        "start": 156.616,
+        "end": 156.816
+      },
+      {
+        "text": "mad.",
+        "start": 156.816,
+        "end": 157.456
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "startTime": 157.456,
+    "endTime": 160.196,
+    "fullText": "Perhaps you are. Perhaps you only thought I said",
+    "words": [
+      {
+        "text": "Perhaps",
+        "start": 157.456,
+        "end": 157.936
+      },
+      {
+        "text": "you",
+        "start": 157.936,
+        "end": 158.176
+      },
+      {
+        "text": "are.",
+        "start": 158.176,
+        "end": 158.636
+      },
+      {
+        "text": "Perhaps",
+        "start": 158.636,
+        "end": 159.156
+      },
+      {
+        "text": "you",
+        "start": 159.156,
+        "end": 159.396
+      },
+      {
+        "text": "only",
+        "start": 159.396,
+        "end": 159.576
+      },
+      {
+        "text": "thought",
+        "start": 159.576,
+        "end": 159.796
+      },
+      {
+        "text": "I",
+        "start": 159.796,
+        "end": 159.936
+      },
+      {
+        "text": "said",
+        "start": 159.476,
+        "end": 160.196
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "startTime": 160.196,
+    "endTime": 162.196,
+    "fullText": "it. Ford thought about this.",
+    "words": [
+      {
+        "text": "it.",
+        "start": 160.196,
+        "end": 160.736
+      },
+      {
+        "text": "Ford",
+        "start": 160.736,
+        "end": 160.976
+      },
+      {
+        "text": "thought",
+        "start": 160.976,
+        "end": 161.196
+      },
+      {
+        "text": "about",
+        "start": 161.196,
+        "end": 161.396
+      },
+      {
+        "text": "this.",
+        "start": 161.396,
+        "end": 162.196
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "startTime": 162.196,
+    "endTime": 164.356,
+    "fullText": "Well, did you say it, or didn't you?",
+    "words": [
+      {
+        "text": "Well,",
+        "start": 162.196,
+        "end": 162.676
+      },
+      {
+        "text": "did",
+        "start": 162.676,
+        "end": 163.016
+      },
+      {
+        "text": "you",
+        "start": 163.016,
+        "end": 163.116
+      },
+      {
+        "text": "say",
+        "start": 163.116,
+        "end": 163.356
+      },
+      {
+        "text": "it,",
+        "start": 163.356,
+        "end": 163.556
+      },
+      {
+        "text": "or",
+        "start": 163.556,
+        "end": 163.816
+      },
+      {
+        "text": "didn't",
+        "start": 163.816,
+        "end": 164.036
+      },
+      {
+        "text": "you?",
+        "start": 164.036,
+        "end": 164.356
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "startTime": 164.356,
+    "endTime": 167.076,
+    "fullText": "He asked. I think so, said Arthur.",
+    "words": [
+      {
+        "text": "He",
+        "start": 164.356,
+        "end": 164.596
+      },
+      {
+        "text": "asked.",
+        "start": 164.596,
+        "end": 165.236
+      },
+      {
+        "text": "I",
+        "start": 165.496,
+        "end": 165.636
+      },
+      {
+        "text": "think",
+        "start": 165.636,
+        "end": 165.816
+      },
+      {
+        "text": "so,",
+        "start": 165.816,
+        "end": 166.176
+      },
+      {
+        "text": "said",
+        "start": 166.176,
+        "end": 166.356
+      },
+      {
+        "text": "Arthur.",
+        "start": 166.356,
+        "end": 167.076
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "startTime": 167.076,
+    "endTime": 169.296,
+    "fullText": "Well, perhaps we're both going mad.",
+    "words": [
+      {
+        "text": "Well,",
+        "start": 167.076,
+        "end": 167.596
+      },
+      {
+        "text": "perhaps",
+        "start": 167.596,
+        "end": 168.016
+      },
+      {
+        "text": "we're",
+        "start": 168.016,
+        "end": 168.236
+      },
+      {
+        "text": "both",
+        "start": 168.236,
+        "end": 168.456
+      },
+      {
+        "text": "going",
+        "start": 168.456,
+        "end": 168.736
+      },
+      {
+        "text": "mad.",
+        "start": 168.736,
+        "end": 169.296
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "startTime": 169.676,
+    "endTime": 173.236,
+    "fullText": "Yes, said Arthur. We'd be mad, all things considered,",
+    "words": [
+      {
+        "text": "Yes,",
+        "start": 169.676,
+        "end": 170.176
+      },
+      {
+        "text": "said",
+        "start": 170.176,
+        "end": 170.596
+      },
+      {
+        "text": "Arthur.",
+        "start": 170.596,
+        "end": 171.176
+      },
+      {
+        "text": "We'd",
+        "start": 171.176,
+        "end": 171.476
+      },
+      {
+        "text": "be",
+        "start": 171.476,
+        "end": 171.516
+      },
+      {
+        "text": "mad,",
+        "start": 171.516,
+        "end": 172.156
+      },
+      {
+        "text": "all",
+        "start": 172.156,
+        "end": 172.516
+      },
+      {
+        "text": "things",
+        "start": 172.516,
+        "end": 172.796
+      },
+      {
+        "text": "considered,",
+        "start": 172.796,
+        "end": 173.236
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "startTime": 173.236,
+    "endTime": 174.816,
+    "fullText": "to think this was South End.",
+    "words": [
+      {
+        "text": "to",
+        "start": 173.236,
+        "end": 173.696
+      },
+      {
+        "text": "think",
+        "start": 173.696,
+        "end": 173.876
+      },
+      {
+        "text": "this",
+        "start": 173.876,
+        "end": 174.036
+      },
+      {
+        "text": "was",
+        "start": 174.036,
+        "end": 174.176
+      },
+      {
+        "text": "South",
+        "start": 174.176,
+        "end": 174.456
+      },
+      {
+        "text": "End.",
+        "start": 174.456,
+        "end": 174.816
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "startTime": 175.196,
+    "endTime": 176.976,
+    "fullText": "Well, do you think this is South End?",
+    "words": [
+      {
+        "text": "Well,",
+        "start": 175.196,
+        "end": 175.656
+      },
+      {
+        "text": "do",
+        "start": 175.656,
+        "end": 175.816
+      },
+      {
+        "text": "you",
+        "start": 175.816,
+        "end": 175.916
+      },
+      {
+        "text": "think",
+        "start": 175.916,
+        "end": 176.076
+      },
+      {
+        "text": "this",
+        "start": 176.076,
+        "end": 176.236
+      },
+      {
+        "text": "is",
+        "start": 176.236,
+        "end": 176.356
+      },
+      {
+        "text": "South",
+        "start": 176.356,
+        "end": 176.616
+      },
+      {
+        "text": "End?",
+        "start": 176.616,
+        "end": 176.976
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "startTime": 176.976,
+    "endTime": 179.056,
+    "fullText": "Oh yes. So do I.",
+    "words": [
+      {
+        "text": "Oh",
+        "start": 176.976,
+        "end": 177.456
+      },
+      {
+        "text": "yes.",
+        "start": 177.456,
+        "end": 177.696
+      },
+      {
+        "text": "So",
+        "start": 177.696,
+        "end": 178.476
+      },
+      {
+        "text": "do",
+        "start": 178.476,
+        "end": 178.636
+      },
+      {
+        "text": "I.",
+        "start": 178.636,
+        "end": 179.056
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "startTime": 179.056,
+    "endTime": 181.016,
+    "fullText": "Therefore we must be mad.",
+    "words": [
+      {
+        "text": "Therefore",
+        "start": 179.056,
+        "end": 179.656
+      },
+      {
+        "text": "we",
+        "start": 179.656,
+        "end": 179.916
+      },
+      {
+        "text": "must",
+        "start": 179.916,
+        "end": 180.116
+      },
+      {
+        "text": "be",
+        "start": 180.116,
+        "end": 180.256
+      },
+      {
+        "text": "mad.",
+        "start": 180.256,
+        "end": 181.016
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "startTime": 181.236,
+    "endTime": 184.056,
+    "fullText": "nice day for it yes said a passing maniac",
+    "words": [
+      {
+        "text": "nice",
+        "start": 181.236,
+        "end": 181.356
+      },
+      {
+        "text": "day",
+        "start": 181.356,
+        "end": 181.636
+      },
+      {
+        "text": "for",
+        "start": 181.636,
+        "end": 181.836
+      },
+      {
+        "text": "it",
+        "start": 181.836,
+        "end": 182.016
+      },
+      {
+        "text": "yes",
+        "start": 182.016,
+        "end": 182.696
+      },
+      {
+        "text": "said",
+        "start": 182.696,
+        "end": 183.236
+      },
+      {
+        "text": "a",
+        "start": 183.236,
+        "end": 183.376
+      },
+      {
+        "text": "passing",
+        "start": 183.376,
+        "end": 183.676
+      },
+      {
+        "text": "maniac",
+        "start": 183.676,
+        "end": 184.056
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "startTime": 184.056,
+    "endTime": 187.496,
+    "fullText": "who is that asked arthur who the man with",
+    "words": [
+      {
+        "text": "who",
+        "start": 184.056,
+        "end": 184.876
+      },
+      {
+        "text": "is",
+        "start": 184.876,
+        "end": 185.016
+      },
+      {
+        "text": "that",
+        "start": 185.016,
+        "end": 185.256
+      },
+      {
+        "text": "asked",
+        "start": 185.256,
+        "end": 186.056
+      },
+      {
+        "text": "arthur",
+        "start": 186.056,
+        "end": 186.316
+      },
+      {
+        "text": "who",
+        "start": 186.316,
+        "end": 187.016
+      },
+      {
+        "text": "the",
+        "start": 187.016,
+        "end": 187.176
+      },
+      {
+        "text": "man",
+        "start": 187.176,
+        "end": 187.356
+      },
+      {
+        "text": "with",
+        "start": 187.356,
+        "end": 187.496
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "startTime": 187.496,
+    "endTime": 189.696,
+    "fullText": "the five heads and the elderberry bush full of",
+    "words": [
+      {
+        "text": "the",
+        "start": 187.496,
+        "end": 187.676
+      },
+      {
+        "text": "five",
+        "start": 187.676,
+        "end": 187.916
+      },
+      {
+        "text": "heads",
+        "start": 187.916,
+        "end": 188.176
+      },
+      {
+        "text": "and",
+        "start": 187.736,
+        "end": 188.476
+      },
+      {
+        "text": "the",
+        "start": 188.476,
+        "end": 188.616
+      },
+      {
+        "text": "elderberry",
+        "start": 188.616,
+        "end": 189.056
+      },
+      {
+        "text": "bush",
+        "start": 189.056,
+        "end": 189.296
+      },
+      {
+        "text": "full",
+        "start": 189.296,
+        "end": 189.556
+      },
+      {
+        "text": "of",
+        "start": 189.556,
+        "end": 189.696
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "startTime": 189.696,
+    "endTime": 193.716,
+    "fullText": "kippers yes i don't know just someone ah",
+    "words": [
+      {
+        "text": "kippers",
+        "start": 189.696,
+        "end": 189.956
+      },
+      {
+        "text": "yes",
+        "start": 189.956,
+        "end": 190.856
+      },
+      {
+        "text": "i",
+        "start": 190.856,
+        "end": 191.596
+      },
+      {
+        "text": "don't",
+        "start": 191.596,
+        "end": 191.756
+      },
+      {
+        "text": "know",
+        "start": 191.756,
+        "end": 192.036
+      },
+      {
+        "text": "just",
+        "start": 192.036,
+        "end": 192.696
+      },
+      {
+        "text": "someone",
+        "start": 192.696,
+        "end": 193.016
+      },
+      {
+        "text": "ah",
+        "start": 193.016,
+        "end": 193.716
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "startTime": 193.716,
+    "endTime": 196.316,
+    "fullText": "they both sat on the pavement and watched with",
+    "words": [
+      {
+        "text": "they",
+        "start": 193.716,
+        "end": 194.316
+      },
+      {
+        "text": "both",
+        "start": 194.316,
+        "end": 194.516
+      },
+      {
+        "text": "sat",
+        "start": 194.516,
+        "end": 194.816
+      },
+      {
+        "text": "on",
+        "start": 194.816,
+        "end": 194.956
+      },
+      {
+        "text": "the",
+        "start": 194.956,
+        "end": 195.056
+      },
+      {
+        "text": "pavement",
+        "start": 194.596,
+        "end": 195.376
+      },
+      {
+        "text": "and",
+        "start": 195.376,
+        "end": 195.816
+      },
+      {
+        "text": "watched",
+        "start": 195.816,
+        "end": 196.156
+      },
+      {
+        "text": "with",
+        "start": 196.156,
+        "end": 196.316
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "startTime": 196.316,
+    "endTime": 199.216,
+    "fullText": "a certain unease as huge children bounced heavily along",
+    "words": [
+      {
+        "text": "a",
+        "start": 196.316,
+        "end": 196.456
+      },
+      {
+        "text": "certain",
+        "start": 196.456,
+        "end": 196.716
+      },
+      {
+        "text": "unease",
+        "start": 196.716,
+        "end": 197.116
+      },
+      {
+        "text": "as",
+        "start": 197.116,
+        "end": 197.316
+      },
+      {
+        "text": "huge",
+        "start": 197.316,
+        "end": 197.636
+      },
+      {
+        "text": "children",
+        "start": 197.636,
+        "end": 198.056
+      },
+      {
+        "text": "bounced",
+        "start": 198.056,
+        "end": 198.496
+      },
+      {
+        "text": "heavily",
+        "start": 198.496,
+        "end": 198.816
+      },
+      {
+        "text": "along",
+        "start": 198.816,
+        "end": 199.216
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "startTime": 199.216,
+    "endTime": 201.856,
+    "fullText": "the sand and wild horses thundered through the sky",
+    "words": [
+      {
+        "text": "the",
+        "start": 199.216,
+        "end": 199.416
+      },
+      {
+        "text": "sand",
+        "start": 199.416,
+        "end": 199.736
+      },
+      {
+        "text": "and",
+        "start": 199.736,
+        "end": 199.956
+      },
+      {
+        "text": "wild",
+        "start": 199.956,
+        "end": 200.316
+      },
+      {
+        "text": "horses",
+        "start": 199.896,
+        "end": 200.816
+      },
+      {
+        "text": "thundered",
+        "start": 200.816,
+        "end": 201.196
+      },
+      {
+        "text": "through",
+        "start": 201.196,
+        "end": 201.476
+      },
+      {
+        "text": "the",
+        "start": 201.476,
+        "end": 201.636
+      },
+      {
+        "text": "sky",
+        "start": 201.636,
+        "end": 201.856
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "startTime": 201.856,
+    "endTime": 205.156,
+    "fullText": "taking fresh supplies of reinforced railings to the uncertain",
+    "words": [
+      {
+        "text": "taking",
+        "start": 201.856,
+        "end": 202.276
+      },
+      {
+        "text": "fresh",
+        "start": 202.276,
+        "end": 202.616
+      },
+      {
+        "text": "supplies",
+        "start": 202.616,
+        "end": 203.016
+      },
+      {
+        "text": "of",
+        "start": 203.016,
+        "end": 203.316
+      },
+      {
+        "text": "reinforced",
+        "start": 203.316,
+        "end": 203.896
+      },
+      {
+        "text": "railings",
+        "start": 203.896,
+        "end": 204.496
+      },
+      {
+        "text": "to",
+        "start": 204.496,
+        "end": 204.676
+      },
+      {
+        "text": "the",
+        "start": 204.676,
+        "end": 204.796
+      },
+      {
+        "text": "uncertain",
+        "start": 204.796,
+        "end": 205.156
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "startTime": 205.216,
+    "endTime": 208.456,
+    "fullText": "Marius. You know, said Arthur with a slight cough,",
+    "words": [
+      {
+        "text": "Marius.",
+        "start": 205.216,
+        "end": 205.996
+      },
+      {
+        "text": "You",
+        "start": 205.996,
+        "end": 206.376
+      },
+      {
+        "text": "know,",
+        "start": 206.376,
+        "end": 206.756
+      },
+      {
+        "text": "said",
+        "start": 206.756,
+        "end": 207.036
+      },
+      {
+        "text": "Arthur",
+        "start": 207.036,
+        "end": 207.316
+      },
+      {
+        "text": "with",
+        "start": 207.316,
+        "end": 207.516
+      },
+      {
+        "text": "a",
+        "start": 207.516,
+        "end": 207.656
+      },
+      {
+        "text": "slight",
+        "start": 207.656,
+        "end": 207.916
+      },
+      {
+        "text": "cough,",
+        "start": 207.916,
+        "end": 208.456
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "startTime": 208.456,
+    "endTime": 210.716,
+    "fullText": "if this is South End, there's something very odd",
+    "words": [
+      {
+        "text": "if",
+        "start": 208.456,
+        "end": 208.696
+      },
+      {
+        "text": "this",
+        "start": 208.696,
+        "end": 208.856
+      },
+      {
+        "text": "is",
+        "start": 208.856,
+        "end": 208.976
+      },
+      {
+        "text": "South",
+        "start": 208.976,
+        "end": 209.256
+      },
+      {
+        "text": "End,",
+        "start": 209.256,
+        "end": 209.616
+      },
+      {
+        "text": "there's",
+        "start": 209.616,
+        "end": 209.996
+      },
+      {
+        "text": "something",
+        "start": 209.996,
+        "end": 210.216
+      },
+      {
+        "text": "very",
+        "start": 209.876,
+        "end": 210.516
+      },
+      {
+        "text": "odd",
+        "start": 210.516,
+        "end": 210.716
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "startTime": 210.716,
+    "endTime": 213.256,
+    "fullText": "about it. You mean the way the sea stays",
+    "words": [
+      {
+        "text": "about",
+        "start": 210.716,
+        "end": 210.916
+      },
+      {
+        "text": "it.",
+        "start": 210.916,
+        "end": 211.416
+      },
+      {
+        "text": "You",
+        "start": 211.416,
+        "end": 212.196
+      },
+      {
+        "text": "mean",
+        "start": 212.196,
+        "end": 212.356
+      },
+      {
+        "text": "the",
+        "start": 212.356,
+        "end": 212.476
+      },
+      {
+        "text": "way",
+        "start": 212.476,
+        "end": 212.576
+      },
+      {
+        "text": "the",
+        "start": 212.576,
+        "end": 212.756
+      },
+      {
+        "text": "sea",
+        "start": 212.756,
+        "end": 212.956
+      },
+      {
+        "text": "stays",
+        "start": 212.956,
+        "end": 213.256
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "startTime": 213.256,
+    "endTime": 215.756,
+    "fullText": "steady and the buildings keep washing up and down?",
+    "words": [
+      {
+        "text": "steady",
+        "start": 213.256,
+        "end": 213.636
+      },
+      {
+        "text": "and",
+        "start": 213.636,
+        "end": 213.876
+      },
+      {
+        "text": "the",
+        "start": 213.876,
+        "end": 213.976
+      },
+      {
+        "text": "buildings",
+        "start": 213.976,
+        "end": 214.276
+      },
+      {
+        "text": "keep",
+        "start": 214.276,
+        "end": 214.556
+      },
+      {
+        "text": "washing",
+        "start": 214.556,
+        "end": 214.836
+      },
+      {
+        "text": "up",
+        "start": 214.836,
+        "end": 215.096
+      },
+      {
+        "text": "and",
+        "start": 215.096,
+        "end": 215.256
+      },
+      {
+        "text": "down?",
+        "start": 215.256,
+        "end": 215.756
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "startTime": 216.076,
+    "endTime": 218.542,
+    "fullText": "Said Ford. Yes, I thought that was odd too.",
+    "words": [
+      {
+        "text": "Said",
+        "start": 216.076,
+        "end": 216.296
+      },
+      {
+        "text": "Ford.",
+        "start": 216.282,
+        "end": 217.062
+      },
+      {
+        "text": "Yes,",
+        "start": 217.142,
+        "end": 217.342
+      },
+      {
+        "text": "I",
+        "start": 217.342,
+        "end": 217.422
+      },
+      {
+        "text": "thought",
+        "start": 217.422,
+        "end": 217.622
+      },
+      {
+        "text": "that",
+        "start": 217.622,
+        "end": 217.782
+      },
+      {
+        "text": "was",
+        "start": 217.782,
+        "end": 217.902
+      },
+      {
+        "text": "odd",
+        "start": 217.902,
+        "end": 218.102
+      },
+      {
+        "text": "too.",
+        "start": 218.102,
+        "end": 218.542
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "startTime": 218.902,
+    "endTime": 221.342,
+    "fullText": "In fact, he continued as with a huge bang",
+    "words": [
+      {
+        "text": "In",
+        "start": 218.902,
+        "end": 219.042
+      },
+      {
+        "text": "fact,",
+        "start": 219.042,
+        "end": 219.502
+      },
+      {
+        "text": "he",
+        "start": 219.502,
+        "end": 219.702
+      },
+      {
+        "text": "continued",
+        "start": 219.702,
+        "end": 220.122
+      },
+      {
+        "text": "as",
+        "start": 220.122,
+        "end": 220.342
+      },
+      {
+        "text": "with",
+        "start": 220.342,
+        "end": 220.442
+      },
+      {
+        "text": "a",
+        "start": 220.442,
+        "end": 220.562
+      },
+      {
+        "text": "huge",
+        "start": 220.562,
+        "end": 221.102
+      },
+      {
+        "text": "bang",
+        "start": 221.102,
+        "end": 221.342
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "startTime": 221.342,
+    "endTime": 224.102,
+    "fullText": "south end split itself into six equal segments which",
+    "words": [
+      {
+        "text": "south",
+        "start": 221.342,
+        "end": 221.702
+      },
+      {
+        "text": "end",
+        "start": 221.702,
+        "end": 221.902
+      },
+      {
+        "text": "split",
+        "start": 221.902,
+        "end": 222.222
+      },
+      {
+        "text": "itself",
+        "start": 222.222,
+        "end": 222.542
+      },
+      {
+        "text": "into",
+        "start": 222.542,
+        "end": 222.822
+      },
+      {
+        "text": "six",
+        "start": 222.822,
+        "end": 223.142
+      },
+      {
+        "text": "equal",
+        "start": 223.142,
+        "end": 223.442
+      },
+      {
+        "text": "segments",
+        "start": 223.442,
+        "end": 223.802
+      },
+      {
+        "text": "which",
+        "start": 223.802,
+        "end": 224.102
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "startTime": 224.102,
+    "endTime": 226.742,
+    "fullText": "danced and spanned giddily round each other in lewd",
+    "words": [
+      {
+        "text": "danced",
+        "start": 224.102,
+        "end": 224.482
+      },
+      {
+        "text": "and",
+        "start": 224.482,
+        "end": 224.822
+      },
+      {
+        "text": "spanned",
+        "start": 224.822,
+        "end": 225.162
+      },
+      {
+        "text": "giddily",
+        "start": 225.162,
+        "end": 225.462
+      },
+      {
+        "text": "round",
+        "start": 225.462,
+        "end": 225.802
+      },
+      {
+        "text": "each",
+        "start": 225.802,
+        "end": 226.022
+      },
+      {
+        "text": "other",
+        "start": 226.022,
+        "end": 226.222
+      },
+      {
+        "text": "in",
+        "start": 226.222,
+        "end": 226.442
+      },
+      {
+        "text": "lewd",
+        "start": 226.442,
+        "end": 226.742
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "startTime": 226.742,
+    "endTime": 230.282,
+    "fullText": "and licentious formation. There is something altogether very strange",
+    "words": [
+      {
+        "text": "and",
+        "start": 226.742,
+        "end": 226.962
+      },
+      {
+        "text": "licentious",
+        "start": 226.962,
+        "end": 227.462
+      },
+      {
+        "text": "formation.",
+        "start": 227.462,
+        "end": 227.882
+      },
+      {
+        "text": "There",
+        "start": 228.482,
+        "end": 228.642
+      },
+      {
+        "text": "is",
+        "start": 228.642,
+        "end": 228.782
+      },
+      {
+        "text": "something",
+        "start": 228.782,
+        "end": 229.022
+      },
+      {
+        "text": "altogether",
+        "start": 229.022,
+        "end": 229.402
+      },
+      {
+        "text": "very",
+        "start": 229.402,
+        "end": 229.862
+      },
+      {
+        "text": "strange",
+        "start": 229.862,
+        "end": 230.282
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "startTime": 230.282,
+    "endTime": 233.602,
+    "fullText": "going on. Wild yowling noises of pipes and strings",
+    "words": [
+      {
+        "text": "going",
+        "start": 230.282,
+        "end": 230.542
+      },
+      {
+        "text": "on.",
+        "start": 230.542,
+        "end": 230.942
+      },
+      {
+        "text": "Wild",
+        "start": 231.422,
+        "end": 231.662
+      },
+      {
+        "text": "yowling",
+        "start": 231.662,
+        "end": 232.062
+      },
+      {
+        "text": "noises",
+        "start": 232.062,
+        "end": 232.402
+      },
+      {
+        "text": "of",
+        "start": 232.402,
+        "end": 232.642
+      },
+      {
+        "text": "pipes",
+        "start": 232.642,
+        "end": 232.942
+      },
+      {
+        "text": "and",
+        "start": 232.942,
+        "end": 233.242
+      },
+      {
+        "text": "strings",
+        "start": 233.242,
+        "end": 233.602
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "startTime": 233.602,
+    "endTime": 234.662,
+    "fullText": "seared through the wind.",
+    "words": [
+      {
+        "text": "seared",
+        "start": 233.602,
+        "end": 233.902
+      },
+      {
+        "text": "through",
+        "start": 233.902,
+        "end": 234.082
+      },
+      {
+        "text": "the",
+        "start": 234.082,
+        "end": 234.222
+      },
+      {
+        "text": "wind.",
+        "start": 234.222,
+        "end": 234.662
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "startTime": 234.882,
+    "endTime": 236.922,
+    "fullText": "Hot donuts popped out of the road for ten",
+    "words": [
+      {
+        "text": "Hot",
+        "start": 234.882,
+        "end": 235.102
+      },
+      {
+        "text": "donuts",
+        "start": 235.102,
+        "end": 235.422
+      },
+      {
+        "text": "popped",
+        "start": 235.422,
+        "end": 235.762
+      },
+      {
+        "text": "out",
+        "start": 235.762,
+        "end": 235.982
+      },
+      {
+        "text": "of",
+        "start": 235.982,
+        "end": 236.082
+      },
+      {
+        "text": "the",
+        "start": 236.082,
+        "end": 236.182
+      },
+      {
+        "text": "road",
+        "start": 236.182,
+        "end": 236.422
+      },
+      {
+        "text": "for",
+        "start": 236.422,
+        "end": 236.662
+      },
+      {
+        "text": "ten",
+        "start": 236.662,
+        "end": 236.922
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "startTime": 236.922,
+    "endTime": 239.382,
+    "fullText": "pence each. horrid fish stormed out of the sky",
+    "words": [
+      {
+        "text": "pence",
+        "start": 236.922,
+        "end": 237.202
+      },
+      {
+        "text": "each.",
+        "start": 237.202,
+        "end": 237.662
+      },
+      {
+        "text": "horrid",
+        "start": 237.822,
+        "end": 238.162
+      },
+      {
+        "text": "fish",
+        "start": 238.162,
+        "end": 238.462
+      },
+      {
+        "text": "stormed",
+        "start": 238.462,
+        "end": 238.842
+      },
+      {
+        "text": "out",
+        "start": 238.842,
+        "end": 238.962
+      },
+      {
+        "text": "of",
+        "start": 238.962,
+        "end": 239.062
+      },
+      {
+        "text": "the",
+        "start": 239.062,
+        "end": 239.162
+      },
+      {
+        "text": "sky",
+        "start": 239.162,
+        "end": 239.382
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "startTime": 239.382,
+    "endTime": 241.842,
+    "fullText": "and Arthur and Ford decided to make a run",
+    "words": [
+      {
+        "text": "and",
+        "start": 239.382,
+        "end": 239.682
+      },
+      {
+        "text": "Arthur",
+        "start": 239.682,
+        "end": 240.002
+      },
+      {
+        "text": "and",
+        "start": 240.002,
+        "end": 240.402
+      },
+      {
+        "text": "Ford",
+        "start": 240.402,
+        "end": 240.702
+      },
+      {
+        "text": "decided",
+        "start": 240.702,
+        "end": 241.142
+      },
+      {
+        "text": "to",
+        "start": 241.142,
+        "end": 241.442
+      },
+      {
+        "text": "make",
+        "start": 241.442,
+        "end": 241.562
+      },
+      {
+        "text": "a",
+        "start": 241.562,
+        "end": 241.702
+      },
+      {
+        "text": "run",
+        "start": 241.702,
+        "end": 241.842
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "startTime": 241.842,
+    "endTime": 244.682,
+    "fullText": "for it. They plunged through heavy walls of sound,",
+    "words": [
+      {
+        "text": "for",
+        "start": 241.842,
+        "end": 242.042
+      },
+      {
+        "text": "it.",
+        "start": 242.042,
+        "end": 242.322
+      },
+      {
+        "text": "They",
+        "start": 242.662,
+        "end": 242.802
+      },
+      {
+        "text": "plunged",
+        "start": 242.802,
+        "end": 243.202
+      },
+      {
+        "text": "through",
+        "start": 243.202,
+        "end": 243.302
+      },
+      {
+        "text": "heavy",
+        "start": 243.302,
+        "end": 243.562
+      },
+      {
+        "text": "walls",
+        "start": 243.562,
+        "end": 243.842
+      },
+      {
+        "text": "of",
+        "start": 243.842,
+        "end": 244.042
+      },
+      {
+        "text": "sound,",
+        "start": 244.042,
+        "end": 244.682
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "startTime": 244.682,
+    "endTime": 247.842,
+    "fullText": "mountains of archaic thought, valleys of mood music,",
+    "words": [
+      {
+        "text": "mountains",
+        "start": 244.682,
+        "end": 244.982
+      },
+      {
+        "text": "of",
+        "start": 244.982,
+        "end": 245.182
+      },
+      {
+        "text": "archaic",
+        "start": 245.182,
+        "end": 245.602
+      },
+      {
+        "text": "thought,",
+        "start": 245.602,
+        "end": 246.362
+      },
+      {
+        "text": "valleys",
+        "start": 246.342,
+        "end": 246.622
+      },
+      {
+        "text": "of",
+        "start": 246.622,
+        "end": 246.802
+      },
+      {
+        "text": "mood",
+        "start": 246.802,
+        "end": 247.062
+      },
+      {
+        "text": "music,",
+        "start": 247.062,
+        "end": 247.842
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "startTime": 247.842,
+    "endTime": 250.422,
+    "fullText": "bad shoe sessions and footling bats and suddenly heard",
+    "words": [
+      {
+        "text": "bad",
+        "start": 247.842,
+        "end": 248.082
+      },
+      {
+        "text": "shoe",
+        "start": 248.082,
+        "end": 248.282
+      },
+      {
+        "text": "sessions",
+        "start": 248.282,
+        "end": 248.642
+      },
+      {
+        "text": "and",
+        "start": 248.642,
+        "end": 248.882
+      },
+      {
+        "text": "footling",
+        "start": 248.882,
+        "end": 249.242
+      },
+      {
+        "text": "bats",
+        "start": 249.242,
+        "end": 249.562
+      },
+      {
+        "text": "and",
+        "start": 249.562,
+        "end": 249.802
+      },
+      {
+        "text": "suddenly",
+        "start": 249.802,
+        "end": 250.162
+      },
+      {
+        "text": "heard",
+        "start": 250.162,
+        "end": 250.422
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "startTime": 250.422,
+    "endTime": 253.342,
+    "fullText": "a girl's voice. It sounded quite a sensible voice,",
+    "words": [
+      {
+        "text": "a",
+        "start": 250.422,
+        "end": 250.542
+      },
+      {
+        "text": "girl's",
+        "start": 250.542,
+        "end": 250.862
+      },
+      {
+        "text": "voice.",
+        "start": 250.862,
+        "end": 251.142
+      },
+      {
+        "text": "It",
+        "start": 251.762,
+        "end": 251.922
+      },
+      {
+        "text": "sounded",
+        "start": 251.922,
+        "end": 252.162
+      },
+      {
+        "text": "quite",
+        "start": 252.162,
+        "end": 252.422
+      },
+      {
+        "text": "a",
+        "start": 252.422,
+        "end": 252.582
+      },
+      {
+        "text": "sensible",
+        "start": 252.582,
+        "end": 252.862
+      },
+      {
+        "text": "voice,",
+        "start": 252.862,
+        "end": 253.342
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "startTime": 253.342,
+    "endTime": 255.722,
+    "fullText": "but it just said, two to the power of",
+    "words": [
+      {
+        "text": "but",
+        "start": 253.342,
+        "end": 253.862
+      },
+      {
+        "text": "it",
+        "start": 253.862,
+        "end": 253.962
+      },
+      {
+        "text": "just",
+        "start": 253.962,
+        "end": 254.142
+      },
+      {
+        "text": "said,",
+        "start": 254.142,
+        "end": 254.622
+      },
+      {
+        "text": "two",
+        "start": 254.782,
+        "end": 254.982
+      },
+      {
+        "text": "to",
+        "start": 254.982,
+        "end": 255.082
+      },
+      {
+        "text": "the",
+        "start": 255.082,
+        "end": 255.182
+      },
+      {
+        "text": "power",
+        "start": 255.182,
+        "end": 255.502
+      },
+      {
+        "text": "of",
+        "start": 255.502,
+        "end": 255.722
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "startTime": 255.722,
+    "endTime": 258.062,
+    "fullText": "one hundred thousand to one against and falling,",
+    "words": [
+      {
+        "text": "one",
+        "start": 255.722,
+        "end": 255.902
+      },
+      {
+        "text": "hundred",
+        "start": 255.902,
+        "end": 256.122
+      },
+      {
+        "text": "thousand",
+        "start": 256.122,
+        "end": 256.542
+      },
+      {
+        "text": "to",
+        "start": 256.542,
+        "end": 256.762
+      },
+      {
+        "text": "one",
+        "start": 256.762,
+        "end": 256.902
+      },
+      {
+        "text": "against",
+        "start": 256.902,
+        "end": 257.202
+      },
+      {
+        "text": "and",
+        "start": 257.202,
+        "end": 257.442
+      },
+      {
+        "text": "falling,",
+        "start": 257.442,
+        "end": 258.062
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "startTime": 258.062,
+    "endTime": 259.002,
+    "fullText": "and that was all.",
+    "words": [
+      {
+        "text": "and",
+        "start": 258.062,
+        "end": 258.342
+      },
+      {
+        "text": "that",
+        "start": 258.342,
+        "end": 258.482
+      },
+      {
+        "text": "was",
+        "start": 258.482,
+        "end": 258.602
+      },
+      {
+        "text": "all.",
+        "start": 258.602,
+        "end": 259.002
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "startTime": 259.402,
+    "endTime": 261.562,
+    "fullText": "Ford skidded down a beam of light and spanned",
+    "words": [
+      {
+        "text": "Ford",
+        "start": 259.402,
+        "end": 259.642
+      },
+      {
+        "text": "skidded",
+        "start": 259.642,
+        "end": 260.042
+      },
+      {
+        "text": "down",
+        "start": 260.042,
+        "end": 260.242
+      },
+      {
+        "text": "a",
+        "start": 260.242,
+        "end": 260.382
+      },
+      {
+        "text": "beam",
+        "start": 260.382,
+        "end": 260.542
+      },
+      {
+        "text": "of",
+        "start": 260.542,
+        "end": 260.722
+      },
+      {
+        "text": "light",
+        "start": 260.722,
+        "end": 261.022
+      },
+      {
+        "text": "and",
+        "start": 261.022,
+        "end": 261.222
+      },
+      {
+        "text": "spanned",
+        "start": 261.222,
+        "end": 261.562
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "startTime": 261.562,
+    "endTime": 263.922,
+    "fullText": "round trying to find a source for the voice,",
+    "words": [
+      {
+        "text": "round",
+        "start": 261.562,
+        "end": 261.882
+      },
+      {
+        "text": "trying",
+        "start": 261.882,
+        "end": 262.182
+      },
+      {
+        "text": "to",
+        "start": 262.182,
+        "end": 262.382
+      },
+      {
+        "text": "find",
+        "start": 262.382,
+        "end": 262.622
+      },
+      {
+        "text": "a",
+        "start": 262.622,
+        "end": 262.782
+      },
+      {
+        "text": "source",
+        "start": 262.782,
+        "end": 263.022
+      },
+      {
+        "text": "for",
+        "start": 263.022,
+        "end": 263.222
+      },
+      {
+        "text": "the",
+        "start": 263.222,
+        "end": 263.342
+      },
+      {
+        "text": "voice,",
+        "start": 263.342,
+        "end": 263.922
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "startTime": 263.222,
+    "endTime": 266.282,
+    "fullText": "but could see nothing he could seriously believe in.",
+    "words": [
+      {
+        "text": "but",
+        "start": 263.222,
+        "end": 264.002
+      },
+      {
+        "text": "could",
+        "start": 264.002,
+        "end": 264.122
+      },
+      {
+        "text": "see",
+        "start": 264.122,
+        "end": 264.282
+      },
+      {
+        "text": "nothing",
+        "start": 264.282,
+        "end": 264.542
+      },
+      {
+        "text": "he",
+        "start": 264.542,
+        "end": 264.742
+      },
+      {
+        "text": "could",
+        "start": 264.742,
+        "end": 264.902
+      },
+      {
+        "text": "seriously",
+        "start": 264.902,
+        "end": 265.402
+      },
+      {
+        "text": "believe",
+        "start": 265.402,
+        "end": 265.802
+      },
+      {
+        "text": "in.",
+        "start": 265.802,
+        "end": 266.282
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "startTime": 266.562,
+    "endTime": 267.562,
+    "fullText": "What was that voice?",
+    "words": [
+      {
+        "text": "What",
+        "start": 266.562,
+        "end": 266.662
+      },
+      {
+        "text": "was",
+        "start": 266.662,
+        "end": 266.802
+      },
+      {
+        "text": "that",
+        "start": 266.802,
+        "end": 266.962
+      },
+      {
+        "text": "voice?",
+        "start": 266.962,
+        "end": 267.562
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "startTime": 267.562,
+    "endTime": 270.622,
+    "fullText": "shouted Arthur. I don't know, yelled Ford.",
+    "words": [
+      {
+        "text": "shouted",
+        "start": 267.562,
+        "end": 267.922
+      },
+      {
+        "text": "Arthur.",
+        "start": 267.922,
+        "end": 268.882
+      },
+      {
+        "text": "I",
+        "start": 268.882,
+        "end": 268.982
+      },
+      {
+        "text": "don't",
+        "start": 268.982,
+        "end": 269.202
+      },
+      {
+        "text": "know,",
+        "start": 269.202,
+        "end": 269.802
+      },
+      {
+        "text": "yelled",
+        "start": 269.802,
+        "end": 270.022
+      },
+      {
+        "text": "Ford.",
+        "start": 270.022,
+        "end": 270.622
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "startTime": 270.622,
+    "endTime": 273.142,
+    "fullText": "I don't know. It sounded like a measurement of",
+    "words": [
+      {
+        "text": "I",
+        "start": 270.622,
+        "end": 270.882
+      },
+      {
+        "text": "don't",
+        "start": 270.882,
+        "end": 271.082
+      },
+      {
+        "text": "know.",
+        "start": 271.082,
+        "end": 271.502
+      },
+      {
+        "text": "It",
+        "start": 271.802,
+        "end": 271.922
+      },
+      {
+        "text": "sounded",
+        "start": 271.922,
+        "end": 272.182
+      },
+      {
+        "text": "like",
+        "start": 272.182,
+        "end": 272.402
+      },
+      {
+        "text": "a",
+        "start": 272.402,
+        "end": 272.522
+      },
+      {
+        "text": "measurement",
+        "start": 272.522,
+        "end": 272.882
+      },
+      {
+        "text": "of",
+        "start": 272.882,
+        "end": 273.142
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "startTime": 273.142,
+    "endTime": 276.062,
+    "fullText": "probability. Probability? What do you mean?",
+    "words": [
+      {
+        "text": "probability.",
+        "start": 273.142,
+        "end": 274.022
+      },
+      {
+        "text": "Probability?",
+        "start": 274.022,
+        "end": 275.102
+      },
+      {
+        "text": "What",
+        "start": 275.102,
+        "end": 275.502
+      },
+      {
+        "text": "do",
+        "start": 275.502,
+        "end": 275.582
+      },
+      {
+        "text": "you",
+        "start": 275.582,
+        "end": 275.662
+      },
+      {
+        "text": "mean?",
+        "start": 275.662,
+        "end": 276.062
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "startTime": 276.062,
+    "endTime": 279.202,
+    "fullText": "Probability. You know, like two to one,",
+    "words": [
+      {
+        "text": "Probability.",
+        "start": 276.062,
+        "end": 277.122
+      },
+      {
+        "text": "You",
+        "start": 277.522,
+        "end": 277.642
+      },
+      {
+        "text": "know,",
+        "start": 277.642,
+        "end": 277.962
+      },
+      {
+        "text": "like",
+        "start": 277.962,
+        "end": 278.322
+      },
+      {
+        "text": "two",
+        "start": 278.322,
+        "end": 278.502
+      },
+      {
+        "text": "to",
+        "start": 278.502,
+        "end": 278.602
+      },
+      {
+        "text": "one,",
+        "start": 278.602,
+        "end": 279.202
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "startTime": 279.202,
+    "endTime": 281.362,
+    "fullText": "three to one, five to four against.",
+    "words": [
+      {
+        "text": "three",
+        "start": 279.202,
+        "end": 279.442
+      },
+      {
+        "text": "to",
+        "start": 279.442,
+        "end": 279.602
+      },
+      {
+        "text": "one,",
+        "start": 279.602,
+        "end": 280.282
+      },
+      {
+        "text": "five",
+        "start": 280.282,
+        "end": 280.482
+      },
+      {
+        "text": "to",
+        "start": 280.482,
+        "end": 280.642
+      },
+      {
+        "text": "four",
+        "start": 280.642,
+        "end": 280.782
+      },
+      {
+        "text": "against.",
+        "start": 280.782,
+        "end": 281.362
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "startTime": 281.362,
+    "endTime": 283.442,
+    "fullText": "It said two to the power of one hundred",
+    "words": [
+      {
+        "text": "It",
+        "start": 281.362,
+        "end": 281.822
+      },
+      {
+        "text": "said",
+        "start": 281.822,
+        "end": 282.022
+      },
+      {
+        "text": "two",
+        "start": 282.022,
+        "end": 282.262
+      },
+      {
+        "text": "to",
+        "start": 282.262,
+        "end": 282.362
+      },
+      {
+        "text": "the",
+        "start": 282.362,
+        "end": 282.502
+      },
+      {
+        "text": "power",
+        "start": 282.502,
+        "end": 282.802
+      },
+      {
+        "text": "of",
+        "start": 282.802,
+        "end": 283.022
+      },
+      {
+        "text": "one",
+        "start": 282.542,
+        "end": 283.202
+      },
+      {
+        "text": "hundred",
+        "start": 283.202,
+        "end": 283.442
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "startTime": 283.442,
+    "endTime": 284.722,
+    "fullText": "thousand to one against.",
+    "words": [
+      {
+        "text": "thousand",
+        "start": 283.442,
+        "end": 283.822
+      },
+      {
+        "text": "to",
+        "start": 283.822,
+        "end": 284.042
+      },
+      {
+        "text": "one",
+        "start": 284.042,
+        "end": 284.182
+      },
+      {
+        "text": "against.",
+        "start": 284.182,
+        "end": 284.722
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "startTime": 284.722,
+    "endTime": 286.542,
+    "fullText": "That's pretty improbable, you know.",
+    "words": [
+      {
+        "text": "That's",
+        "start": 284.722,
+        "end": 285.302
+      },
+      {
+        "text": "pretty",
+        "start": 285.302,
+        "end": 285.522
+      },
+      {
+        "text": "improbable,",
+        "start": 285.522,
+        "end": 286.142
+      },
+      {
+        "text": "you",
+        "start": 286.142,
+        "end": 286.182
+      },
+      {
+        "text": "know.",
+        "start": 286.182,
+        "end": 286.542
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "startTime": 286.542,
+    "endTime": 289.462,
+    "fullText": "A million gallon vat of custard upended itself over",
+    "words": [
+      {
+        "text": "A",
+        "start": 286.542,
+        "end": 286.962
+      },
+      {
+        "text": "million",
+        "start": 286.962,
+        "end": 287.202
+      },
+      {
+        "text": "gallon",
+        "start": 287.202,
+        "end": 287.522
+      },
+      {
+        "text": "vat",
+        "start": 287.082,
+        "end": 287.782
+      },
+      {
+        "text": "of",
+        "start": 287.782,
+        "end": 287.922
+      },
+      {
+        "text": "custard",
+        "start": 287.922,
+        "end": 288.302
+      },
+      {
+        "text": "upended",
+        "start": 288.302,
+        "end": 288.822
+      },
+      {
+        "text": "itself",
+        "start": 288.822,
+        "end": 289.222
+      },
+      {
+        "text": "over",
+        "start": 289.222,
+        "end": 289.462
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "startTime": 289.462,
+    "endTime": 291.702,
+    "fullText": "them without warning. But what does it mean?",
+    "words": [
+      {
+        "text": "them",
+        "start": 289.462,
+        "end": 289.642
+      },
+      {
+        "text": "without",
+        "start": 289.642,
+        "end": 289.922
+      },
+      {
+        "text": "warning.",
+        "start": 289.922,
+        "end": 290.282
+      },
+      {
+        "text": "But",
+        "start": 290.282,
+        "end": 290.902
+      },
+      {
+        "text": "what",
+        "start": 290.902,
+        "end": 291.042
+      },
+      {
+        "text": "does",
+        "start": 291.042,
+        "end": 291.182
+      },
+      {
+        "text": "it",
+        "start": 291.182,
+        "end": 291.262
+      },
+      {
+        "text": "mean?",
+        "start": 291.262,
+        "end": 291.702
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "startTime": 291.702,
+    "endTime": 294.202,
+    "fullText": "cried Arthur. What? The custard?",
+    "words": [
+      {
+        "text": "cried",
+        "start": 291.702,
+        "end": 292.202
+      },
+      {
+        "text": "Arthur.",
+        "start": 292.202,
+        "end": 292.942
+      },
+      {
+        "text": "What?",
+        "start": 293.142,
+        "end": 293.442
+      },
+      {
+        "text": "The",
+        "start": 293.442,
+        "end": 293.562
+      },
+      {
+        "text": "custard?",
+        "start": 293.562,
+        "end": 294.202
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "startTime": 294.202,
+    "endTime": 297.562,
+    "fullText": "No, the measurement of probability I don't know.",
+    "words": [
+      {
+        "text": "No,",
+        "start": 294.202,
+        "end": 294.962
+      },
+      {
+        "text": "the",
+        "start": 294.962,
+        "end": 295.122
+      },
+      {
+        "text": "measurement",
+        "start": 295.122,
+        "end": 295.402
+      },
+      {
+        "text": "of",
+        "start": 295.402,
+        "end": 295.642
+      },
+      {
+        "text": "probability",
+        "start": 295.642,
+        "end": 296.062
+      },
+      {
+        "text": "I",
+        "start": 296.142,
+        "end": 296.902
+      },
+      {
+        "text": "don't",
+        "start": 296.902,
+        "end": 297.082
+      },
+      {
+        "text": "know.",
+        "start": 297.082,
+        "end": 297.562
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "startTime": 297.562,
+    "endTime": 299.722,
+    "fullText": "I don't know at all I think we're on",
+    "words": [
+      {
+        "text": "I",
+        "start": 297.562,
+        "end": 297.922
+      },
+      {
+        "text": "don't",
+        "start": 297.922,
+        "end": 298.062
+      },
+      {
+        "text": "know",
+        "start": 298.062,
+        "end": 298.262
+      },
+      {
+        "text": "at",
+        "start": 298.262,
+        "end": 298.382
+      },
+      {
+        "text": "all",
+        "start": 298.382,
+        "end": 298.582
+      },
+      {
+        "text": "I",
+        "start": 298.142,
+        "end": 299.242
+      },
+      {
+        "text": "think",
+        "start": 299.242,
+        "end": 299.422
+      },
+      {
+        "text": "we're",
+        "start": 299.422,
+        "end": 299.582
+      },
+      {
+        "text": "on",
+        "start": 299.582,
+        "end": 299.722
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "startTime": 299.722,
+    "endTime": 302.222,
+    "fullText": "some kind of spaceship I can only assume,",
+    "words": [
+      {
+        "text": "some",
+        "start": 299.722,
+        "end": 299.882
+      },
+      {
+        "text": "kind",
+        "start": 299.882,
+        "end": 300.082
+      },
+      {
+        "text": "of",
+        "start": 300.082,
+        "end": 300.182
+      },
+      {
+        "text": "spaceship",
+        "start": 300.182,
+        "end": 300.542
+      },
+      {
+        "text": "I",
+        "start": 301.102,
+        "end": 301.282
+      },
+      {
+        "text": "can",
+        "start": 301.282,
+        "end": 301.422
+      },
+      {
+        "text": "only",
+        "start": 301.422,
+        "end": 301.582
+      },
+      {
+        "text": "assume,",
+        "start": 301.582,
+        "end": 302.222
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "startTime": 302.222,
+    "endTime": 304.562,
+    "fullText": "said Arthur, that this is not the first class",
+    "words": [
+      {
+        "text": "said",
+        "start": 302.222,
+        "end": 302.382
+      },
+      {
+        "text": "Arthur,",
+        "start": 302.382,
+        "end": 303.042
+      },
+      {
+        "text": "that",
+        "start": 303.042,
+        "end": 303.142
+      },
+      {
+        "text": "this",
+        "start": 303.142,
+        "end": 303.302
+      },
+      {
+        "text": "is",
+        "start": 303.302,
+        "end": 303.462
+      },
+      {
+        "text": "not",
+        "start": 303.462,
+        "end": 303.622
+      },
+      {
+        "text": "the",
+        "start": 303.622,
+        "end": 303.802
+      },
+      {
+        "text": "first",
+        "start": 303.802,
+        "end": 304.182
+      },
+      {
+        "text": "class",
+        "start": 304.182,
+        "end": 304.562
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "startTime": 304.562,
+    "endTime": 308.482,
+    "fullText": "compartment Bulges appeared in the fabric of space-time Great",
+    "words": [
+      {
+        "text": "compartment",
+        "start": 304.562,
+        "end": 305.022
+      },
+      {
+        "text": "Bulges",
+        "start": 305.622,
+        "end": 305.922
+      },
+      {
+        "text": "appeared",
+        "start": 305.922,
+        "end": 306.302
+      },
+      {
+        "text": "in",
+        "start": 306.302,
+        "end": 306.502
+      },
+      {
+        "text": "the",
+        "start": 306.502,
+        "end": 306.582
+      },
+      {
+        "text": "fabric",
+        "start": 306.582,
+        "end": 306.942
+      },
+      {
+        "text": "of",
+        "start": 306.942,
+        "end": 307.162
+      },
+      {
+        "text": "space-time",
+        "start": 307.162,
+        "end": 307.722
+      },
+      {
+        "text": "Great",
+        "start": 307.842,
+        "end": 308.482
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "startTime": 308.482,
+    "endTime": 312.302,
+    "fullText": "ugly bulges Hey, Auerk Said Arthur as he felt",
+    "words": [
+      {
+        "text": "ugly",
+        "start": 308.482,
+        "end": 308.742
+      },
+      {
+        "text": "bulges",
+        "start": 308.742,
+        "end": 309.202
+      },
+      {
+        "text": "Hey,",
+        "start": 309.722,
+        "end": 310.042
+      },
+      {
+        "text": "Auerk",
+        "start": 310.042,
+        "end": 310.302
+      },
+      {
+        "text": "Said",
+        "start": 311.202,
+        "end": 311.442
+      },
+      {
+        "text": "Arthur",
+        "start": 311.442,
+        "end": 311.742
+      },
+      {
+        "text": "as",
+        "start": 311.742,
+        "end": 311.982
+      },
+      {
+        "text": "he",
+        "start": 311.982,
+        "end": 312.062
+      },
+      {
+        "text": "felt",
+        "start": 312.062,
+        "end": 312.302
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "startTime": 312.302,
+    "endTime": 316.282,
+    "fullText": "his body softening And bending in unusual directions South",
+    "words": [
+      {
+        "text": "his",
+        "start": 312.302,
+        "end": 312.482
+      },
+      {
+        "text": "body",
+        "start": 312.482,
+        "end": 312.782
+      },
+      {
+        "text": "softening",
+        "start": 312.782,
+        "end": 313.242
+      },
+      {
+        "text": "And",
+        "start": 313.742,
+        "end": 313.902
+      },
+      {
+        "text": "bending",
+        "start": 313.902,
+        "end": 314.122
+      },
+      {
+        "text": "in",
+        "start": 314.122,
+        "end": 314.282
+      },
+      {
+        "text": "unusual",
+        "start": 314.282,
+        "end": 314.682
+      },
+      {
+        "text": "directions",
+        "start": 314.682,
+        "end": 315.202
+      },
+      {
+        "text": "South",
+        "start": 315.982,
+        "end": 316.282
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "startTime": 316.282,
+    "endTime": 319.462,
+    "fullText": "end seems to be Melting away The stars are",
+    "words": [
+      {
+        "text": "end",
+        "start": 316.282,
+        "end": 316.422
+      },
+      {
+        "text": "seems",
+        "start": 316.422,
+        "end": 316.682
+      },
+      {
+        "text": "to",
+        "start": 316.682,
+        "end": 316.842
+      },
+      {
+        "text": "be",
+        "start": 316.842,
+        "end": 317.002
+      },
+      {
+        "text": "Melting",
+        "start": 317.462,
+        "end": 317.722
+      },
+      {
+        "text": "away",
+        "start": 317.722,
+        "end": 317.982
+      },
+      {
+        "text": "The",
+        "start": 318.762,
+        "end": 319.002
+      },
+      {
+        "text": "stars",
+        "start": 319.002,
+        "end": 319.282
+      },
+      {
+        "text": "are",
+        "start": 319.282,
+        "end": 319.462
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "startTime": 319.462,
+    "endTime": 323.402,
+    "fullText": "swirling A dust bowl My legs are drifting off",
+    "words": [
+      {
+        "text": "swirling",
+        "start": 319.462,
+        "end": 319.942
+      },
+      {
+        "text": "A",
+        "start": 320.742,
+        "end": 320.922
+      },
+      {
+        "text": "dust",
+        "start": 320.922,
+        "end": 321.162
+      },
+      {
+        "text": "bowl",
+        "start": 321.162,
+        "end": 321.342
+      },
+      {
+        "text": "My",
+        "start": 322.362,
+        "end": 322.442
+      },
+      {
+        "text": "legs",
+        "start": 322.442,
+        "end": 322.722
+      },
+      {
+        "text": "are",
+        "start": 322.722,
+        "end": 322.862
+      },
+      {
+        "text": "drifting",
+        "start": 322.862,
+        "end": 323.102
+      },
+      {
+        "text": "off",
+        "start": 323.102,
+        "end": 323.402
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "startTime": 323.402,
+    "endTime": 326.362,
+    "fullText": "into the sunset My left arms come off too",
+    "words": [
+      {
+        "text": "into",
+        "start": 323.402,
+        "end": 323.562
+      },
+      {
+        "text": "the",
+        "start": 323.562,
+        "end": 323.702
+      },
+      {
+        "text": "sunset",
+        "start": 323.702,
+        "end": 324.002
+      },
+      {
+        "text": "My",
+        "start": 324.042,
+        "end": 325.282
+      },
+      {
+        "text": "left",
+        "start": 325.282,
+        "end": 325.482
+      },
+      {
+        "text": "arms",
+        "start": 325.482,
+        "end": 325.742
+      },
+      {
+        "text": "come",
+        "start": 325.742,
+        "end": 325.902
+      },
+      {
+        "text": "off",
+        "start": 325.902,
+        "end": 326.102
+      },
+      {
+        "text": "too",
+        "start": 326.102,
+        "end": 326.362
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "startTime": 326.862,
+    "endTime": 330.602,
+    "fullText": "Hey Frightening thought struck him Hell, he said How",
+    "words": [
+      {
+        "text": "Hey",
+        "start": 326.862,
+        "end": 327.122
+      },
+      {
+        "text": "Frightening",
+        "start": 327.622,
+        "end": 327.962
+      },
+      {
+        "text": "thought",
+        "start": 327.962,
+        "end": 328.202
+      },
+      {
+        "text": "struck",
+        "start": 328.202,
+        "end": 328.422
+      },
+      {
+        "text": "him",
+        "start": 328.422,
+        "end": 328.642
+      },
+      {
+        "text": "Hell,",
+        "start": 329.042,
+        "end": 329.542
+      },
+      {
+        "text": "he",
+        "start": 329.542,
+        "end": 329.762
+      },
+      {
+        "text": "said",
+        "start": 329.762,
+        "end": 330.042
+      },
+      {
+        "text": "How",
+        "start": 329.622,
+        "end": 330.602
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "startTime": 330.602,
+    "endTime": 332.622,
+    "fullText": "am I going to operate my digital watch now?",
+    "words": [
+      {
+        "text": "am",
+        "start": 330.602,
+        "end": 330.722
+      },
+      {
+        "text": "I",
+        "start": 330.722,
+        "end": 330.742
+      },
+      {
+        "text": "going",
+        "start": 330.742,
+        "end": 330.922
+      },
+      {
+        "text": "to",
+        "start": 330.922,
+        "end": 331.062
+      },
+      {
+        "text": "operate",
+        "start": 331.062,
+        "end": 331.362
+      },
+      {
+        "text": "my",
+        "start": 331.362,
+        "end": 331.602
+      },
+      {
+        "text": "digital",
+        "start": 331.602,
+        "end": 331.882
+      },
+      {
+        "text": "watch",
+        "start": 331.882,
+        "end": 332.182
+      },
+      {
+        "text": "now?",
+        "start": 332.182,
+        "end": 332.622
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "startTime": 332.942,
+    "endTime": 335.542,
+    "fullText": "He wound his eyes desperately around in Ford's direction",
+    "words": [
+      {
+        "text": "He",
+        "start": 332.942,
+        "end": 333.122
+      },
+      {
+        "text": "wound",
+        "start": 333.122,
+        "end": 333.262
+      },
+      {
+        "text": "his",
+        "start": 333.262,
+        "end": 333.462
+      },
+      {
+        "text": "eyes",
+        "start": 333.462,
+        "end": 333.682
+      },
+      {
+        "text": "desperately",
+        "start": 333.682,
+        "end": 334.102
+      },
+      {
+        "text": "around",
+        "start": 334.102,
+        "end": 334.622
+      },
+      {
+        "text": "in",
+        "start": 334.622,
+        "end": 334.842
+      },
+      {
+        "text": "Ford's",
+        "start": 334.842,
+        "end": 335.162
+      },
+      {
+        "text": "direction",
+        "start": 335.162,
+        "end": 335.542
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "startTime": 336.162,
+    "endTime": 339.262,
+    "fullText": "Ford, he said You're turning into a penguin Stop",
+    "words": [
+      {
+        "text": "Ford,",
+        "start": 336.162,
+        "end": 336.682
+      },
+      {
+        "text": "he",
+        "start": 336.682,
+        "end": 336.802
+      },
+      {
+        "text": "said",
+        "start": 336.802,
+        "end": 337.062
+      },
+      {
+        "text": "You're",
+        "start": 336.682,
+        "end": 337.582
+      },
+      {
+        "text": "turning",
+        "start": 337.582,
+        "end": 337.802
+      },
+      {
+        "text": "into",
+        "start": 337.802,
+        "end": 338.062
+      },
+      {
+        "text": "a",
+        "start": 338.062,
+        "end": 338.222
+      },
+      {
+        "text": "penguin",
+        "start": 338.222,
+        "end": 338.462
+      },
+      {
+        "text": "Stop",
+        "start": 338.042,
+        "end": 339.262
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "startTime": 339.262,
+    "endTime": 342.182,
+    "fullText": "it Again came the voice Two to the power",
+    "words": [
+      {
+        "text": "it",
+        "start": 339.262,
+        "end": 339.482
+      },
+      {
+        "text": "Again",
+        "start": 339.102,
+        "end": 340.202
+      },
+      {
+        "text": "came",
+        "start": 340.202,
+        "end": 340.502
+      },
+      {
+        "text": "the",
+        "start": 340.502,
+        "end": 340.622
+      },
+      {
+        "text": "voice",
+        "start": 340.622,
+        "end": 340.902
+      },
+      {
+        "text": "Two",
+        "start": 341.502,
+        "end": 341.682
+      },
+      {
+        "text": "to",
+        "start": 341.682,
+        "end": 341.762
+      },
+      {
+        "text": "the",
+        "start": 341.762,
+        "end": 341.882
+      },
+      {
+        "text": "power",
+        "start": 341.882,
+        "end": 342.182
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "startTime": 342.182,
+    "endTime": 345.862,
+    "fullText": "of 75,000 to one against and falling Ford waddled",
+    "words": [
+      {
+        "text": "of",
+        "start": 342.182,
+        "end": 342.422
+      },
+      {
+        "text": "75,000",
+        "start": 342.422,
+        "end": 343.502
+      },
+      {
+        "text": "to",
+        "start": 343.502,
+        "end": 343.722
+      },
+      {
+        "text": "one",
+        "start": 343.722,
+        "end": 343.862
+      },
+      {
+        "text": "against",
+        "start": 343.862,
+        "end": 344.142
+      },
+      {
+        "text": "and",
+        "start": 344.142,
+        "end": 344.382
+      },
+      {
+        "text": "falling",
+        "start": 344.382,
+        "end": 344.742
+      },
+      {
+        "text": "Ford",
+        "start": 345.282,
+        "end": 345.542
+      },
+      {
+        "text": "waddled",
+        "start": 345.542,
+        "end": 345.862
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "startTime": 345.862,
+    "endTime": 348.702,
+    "fullText": "around his pond in a furious circle Hey,",
+    "words": [
+      {
+        "text": "around",
+        "start": 345.862,
+        "end": 346.142
+      },
+      {
+        "text": "his",
+        "start": 346.142,
+        "end": 346.342
+      },
+      {
+        "text": "pond",
+        "start": 346.342,
+        "end": 346.662
+      },
+      {
+        "text": "in",
+        "start": 346.662,
+        "end": 346.882
+      },
+      {
+        "text": "a",
+        "start": 346.882,
+        "end": 346.942
+      },
+      {
+        "text": "furious",
+        "start": 346.942,
+        "end": 347.242
+      },
+      {
+        "text": "circle",
+        "start": 347.242,
+        "end": 347.622
+      },
+      {
+        "text": "Hey,",
+        "start": 347.662,
+        "end": 348.702
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "startTime": 348.702,
+    "endTime": 350.682,
+    "fullText": "who are you? he quacked Where are you?",
+    "words": [
+      {
+        "text": "who",
+        "start": 348.702,
+        "end": 348.922
+      },
+      {
+        "text": "are",
+        "start": 348.922,
+        "end": 349.082
+      },
+      {
+        "text": "you?",
+        "start": 349.082,
+        "end": 349.282
+      },
+      {
+        "text": "he",
+        "start": 349.282,
+        "end": 349.322
+      },
+      {
+        "text": "quacked",
+        "start": 349.322,
+        "end": 349.602
+      },
+      {
+        "text": "Where",
+        "start": 349.222,
+        "end": 350.282
+      },
+      {
+        "text": "are",
+        "start": 350.282,
+        "end": 350.422
+      },
+      {
+        "text": "you?",
+        "start": 350.422,
+        "end": 350.682
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "startTime": 351.062,
+    "endTime": 352.642,
+    "fullText": "What's going on and is there any way of",
+    "words": [
+      {
+        "text": "What's",
+        "start": 351.062,
+        "end": 351.242
+      },
+      {
+        "text": "going",
+        "start": 351.242,
+        "end": 351.422
+      },
+      {
+        "text": "on",
+        "start": 351.422,
+        "end": 351.762
+      },
+      {
+        "text": "and",
+        "start": 351.762,
+        "end": 351.982
+      },
+      {
+        "text": "is",
+        "start": 351.982,
+        "end": 352.122
+      },
+      {
+        "text": "there",
+        "start": 352.122,
+        "end": 352.242
+      },
+      {
+        "text": "any",
+        "start": 352.242,
+        "end": 352.382
+      },
+      {
+        "text": "way",
+        "start": 352.382,
+        "end": 352.522
+      },
+      {
+        "text": "of",
+        "start": 352.522,
+        "end": 352.642
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "startTime": 352.642,
+    "endTime": 355.862,
+    "fullText": "stopping it? Please relax, said the voice pleasantly,",
+    "words": [
+      {
+        "text": "stopping",
+        "start": 352.642,
+        "end": 352.902
+      },
+      {
+        "text": "it?",
+        "start": 352.902,
+        "end": 353.322
+      },
+      {
+        "text": "Please",
+        "start": 353.642,
+        "end": 353.822
+      },
+      {
+        "text": "relax,",
+        "start": 353.822,
+        "end": 354.722
+      },
+      {
+        "text": "said",
+        "start": 354.722,
+        "end": 354.862
+      },
+      {
+        "text": "the",
+        "start": 354.862,
+        "end": 354.982
+      },
+      {
+        "text": "voice",
+        "start": 354.982,
+        "end": 355.182
+      },
+      {
+        "text": "pleasantly,",
+        "start": 355.182,
+        "end": 355.862
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "startTime": 355.862,
+    "endTime": 358.322,
+    "fullText": "like a stewardess in an airliner with only one",
+    "words": [
+      {
+        "text": "like",
+        "start": 355.862,
+        "end": 356.162
+      },
+      {
+        "text": "a",
+        "start": 356.162,
+        "end": 356.282
+      },
+      {
+        "text": "stewardess",
+        "start": 356.282,
+        "end": 356.842
+      },
+      {
+        "text": "in",
+        "start": 356.842,
+        "end": 357.002
+      },
+      {
+        "text": "an",
+        "start": 357.002,
+        "end": 357.122
+      },
+      {
+        "text": "airliner",
+        "start": 357.122,
+        "end": 357.542
+      },
+      {
+        "text": "with",
+        "start": 357.542,
+        "end": 357.802
+      },
+      {
+        "text": "only",
+        "start": 357.802,
+        "end": 358.062
+      },
+      {
+        "text": "one",
+        "start": 358.062,
+        "end": 358.322
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "startTime": 358.322,
+    "endTime": 360.122,
+    "fullText": "wing and two engines one of which is on",
+    "words": [
+      {
+        "text": "wing",
+        "start": 358.322,
+        "end": 358.562
+      },
+      {
+        "text": "and",
+        "start": 358.142,
+        "end": 358.902
+      },
+      {
+        "text": "two",
+        "start": 358.902,
+        "end": 359.122
+      },
+      {
+        "text": "engines",
+        "start": 359.122,
+        "end": 359.442
+      },
+      {
+        "text": "one",
+        "start": 359.442,
+        "end": 359.642
+      },
+      {
+        "text": "of",
+        "start": 359.642,
+        "end": 359.762
+      },
+      {
+        "text": "which",
+        "start": 359.762,
+        "end": 359.882
+      },
+      {
+        "text": "is",
+        "start": 359.882,
+        "end": 360.022
+      },
+      {
+        "text": "on",
+        "start": 360.022,
+        "end": 360.122
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "startTime": 360.122,
+    "endTime": 362.222,
+    "fullText": "fire, you are perfectly safe.",
+    "words": [
+      {
+        "text": "fire,",
+        "start": 360.122,
+        "end": 360.962
+      },
+      {
+        "text": "you",
+        "start": 360.962,
+        "end": 361.062
+      },
+      {
+        "text": "are",
+        "start": 361.062,
+        "end": 361.182
+      },
+      {
+        "text": "perfectly",
+        "start": 361.182,
+        "end": 361.562
+      },
+      {
+        "text": "safe.",
+        "start": 361.562,
+        "end": 362.222
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "startTime": 362.622,
+    "endTime": 364.662,
+    "fullText": "But that's not the point, raged Ford.",
+    "words": [
+      {
+        "text": "But",
+        "start": 362.622,
+        "end": 362.722
+      },
+      {
+        "text": "that's",
+        "start": 362.722,
+        "end": 362.942
+      },
+      {
+        "text": "not",
+        "start": 362.942,
+        "end": 363.062
+      },
+      {
+        "text": "the",
+        "start": 363.062,
+        "end": 363.182
+      },
+      {
+        "text": "point,",
+        "start": 363.182,
+        "end": 364.022
+      },
+      {
+        "text": "raged",
+        "start": 364.022,
+        "end": 364.282
+      },
+      {
+        "text": "Ford.",
+        "start": 364.282,
+        "end": 364.662
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "startTime": 365.002,
+    "endTime": 366.782,
+    "fullText": "The point is that I am now a perfectly",
+    "words": [
+      {
+        "text": "The",
+        "start": 365.002,
+        "end": 365.182
+      },
+      {
+        "text": "point",
+        "start": 365.182,
+        "end": 365.442
+      },
+      {
+        "text": "is",
+        "start": 365.442,
+        "end": 365.602
+      },
+      {
+        "text": "that",
+        "start": 365.602,
+        "end": 365.742
+      },
+      {
+        "text": "I",
+        "start": 365.742,
+        "end": 365.882
+      },
+      {
+        "text": "am",
+        "start": 365.882,
+        "end": 366.002
+      },
+      {
+        "text": "now",
+        "start": 366.002,
+        "end": 366.202
+      },
+      {
+        "text": "a",
+        "start": 366.202,
+        "end": 366.362
+      },
+      {
+        "text": "perfectly",
+        "start": 366.362,
+        "end": 366.782
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "startTime": 366.782,
+    "endTime": 369.842,
+    "fullText": "safe penguin and my colleague here is rapidly running",
+    "words": [
+      {
+        "text": "safe",
+        "start": 366.782,
+        "end": 367.202
+      },
+      {
+        "text": "penguin",
+        "start": 367.202,
+        "end": 367.522
+      },
+      {
+        "text": "and",
+        "start": 367.522,
+        "end": 368.162
+      },
+      {
+        "text": "my",
+        "start": 368.162,
+        "end": 368.342
+      },
+      {
+        "text": "colleague",
+        "start": 368.342,
+        "end": 368.682
+      },
+      {
+        "text": "here",
+        "start": 368.682,
+        "end": 369.002
+      },
+      {
+        "text": "is",
+        "start": 369.002,
+        "end": 369.122
+      },
+      {
+        "text": "rapidly",
+        "start": 369.122,
+        "end": 369.462
+      },
+      {
+        "text": "running",
+        "start": 369.462,
+        "end": 369.842
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "startTime": 369.402,
+    "endTime": 372.582,
+    "fullText": "out of limbs. It's alright, I've got them back",
+    "words": [
+      {
+        "text": "out",
+        "start": 369.402,
+        "end": 370.062
+      },
+      {
+        "text": "of",
+        "start": 370.062,
+        "end": 370.182
+      },
+      {
+        "text": "limbs.",
+        "start": 370.182,
+        "end": 370.462
+      },
+      {
+        "text": "It's",
+        "start": 371.082,
+        "end": 371.302
+      },
+      {
+        "text": "alright,",
+        "start": 371.302,
+        "end": 371.902
+      },
+      {
+        "text": "I've",
+        "start": 371.902,
+        "end": 372.082
+      },
+      {
+        "text": "got",
+        "start": 372.082,
+        "end": 372.222
+      },
+      {
+        "text": "them",
+        "start": 372.222,
+        "end": 372.382
+      },
+      {
+        "text": "back",
+        "start": 372.382,
+        "end": 372.582
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "startTime": 372.582,
+    "endTime": 375.082,
+    "fullText": "now, said Arthur. Two to the power of fifty",
+    "words": [
+      {
+        "text": "now,",
+        "start": 372.582,
+        "end": 372.962
+      },
+      {
+        "text": "said",
+        "start": 372.962,
+        "end": 373.122
+      },
+      {
+        "text": "Arthur.",
+        "start": 373.122,
+        "end": 373.382
+      },
+      {
+        "text": "Two",
+        "start": 373.982,
+        "end": 374.122
+      },
+      {
+        "text": "to",
+        "start": 374.122,
+        "end": 374.202
+      },
+      {
+        "text": "the",
+        "start": 374.202,
+        "end": 374.322
+      },
+      {
+        "text": "power",
+        "start": 374.322,
+        "end": 374.622
+      },
+      {
+        "text": "of",
+        "start": 374.622,
+        "end": 374.882
+      },
+      {
+        "text": "fifty",
+        "start": 374.882,
+        "end": 375.082
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "startTime": 375.082,
+    "endTime": 377.522,
+    "fullText": "thousand to one against and falling, said the voice.",
+    "words": [
+      {
+        "text": "thousand",
+        "start": 375.082,
+        "end": 375.482
+      },
+      {
+        "text": "to",
+        "start": 375.482,
+        "end": 375.702
+      },
+      {
+        "text": "one",
+        "start": 375.702,
+        "end": 375.842
+      },
+      {
+        "text": "against",
+        "start": 375.842,
+        "end": 376.142
+      },
+      {
+        "text": "and",
+        "start": 376.142,
+        "end": 376.342
+      },
+      {
+        "text": "falling,",
+        "start": 376.342,
+        "end": 377.022
+      },
+      {
+        "text": "said",
+        "start": 377.022,
+        "end": 377.162
+      },
+      {
+        "text": "the",
+        "start": 377.162,
+        "end": 377.282
+      },
+      {
+        "text": "voice.",
+        "start": 377.282,
+        "end": 377.522
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "startTime": 378.202,
+    "endTime": 381.162,
+    "fullText": "Admittedly, said Arthur, they're longer than I usually like",
+    "words": [
+      {
+        "text": "Admittedly,",
+        "start": 378.202,
+        "end": 378.942
+      },
+      {
+        "text": "said",
+        "start": 378.942,
+        "end": 379.102
+      },
+      {
+        "text": "Arthur,",
+        "start": 379.102,
+        "end": 379.642
+      },
+      {
+        "text": "they're",
+        "start": 379.642,
+        "end": 379.882
+      },
+      {
+        "text": "longer",
+        "start": 379.882,
+        "end": 380.122
+      },
+      {
+        "text": "than",
+        "start": 380.122,
+        "end": 380.362
+      },
+      {
+        "text": "I",
+        "start": 380.362,
+        "end": 380.462
+      },
+      {
+        "text": "usually",
+        "start": 380.462,
+        "end": 380.762
+      },
+      {
+        "text": "like",
+        "start": 380.762,
+        "end": 381.162
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "startTime": 381.162,
+    "endTime": 385.062,
+    "fullText": "them. But. Isn't there anything, squawked Ford in avian",
+    "words": [
+      {
+        "text": "them.",
+        "start": 381.162,
+        "end": 381.602
+      },
+      {
+        "text": "But.",
+        "start": 381.762,
+        "end": 381.922
+      },
+      {
+        "text": "Isn't",
+        "start": 382.902,
+        "end": 383.122
+      },
+      {
+        "text": "there",
+        "start": 383.122,
+        "end": 383.262
+      },
+      {
+        "text": "anything,",
+        "start": 383.262,
+        "end": 384.142
+      },
+      {
+        "text": "squawked",
+        "start": 384.142,
+        "end": 384.442
+      },
+      {
+        "text": "Ford",
+        "start": 384.442,
+        "end": 384.582
+      },
+      {
+        "text": "in",
+        "start": 384.582,
+        "end": 384.742
+      },
+      {
+        "text": "avian",
+        "start": 384.742,
+        "end": 385.062
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "startTime": 385.062,
+    "endTime": 387.222,
+    "fullText": "fury, you feel you ought to be telling us?",
+    "words": [
+      {
+        "text": "fury,",
+        "start": 385.062,
+        "end": 385.562
+      },
+      {
+        "text": "you",
+        "start": 385.562,
+        "end": 385.862
+      },
+      {
+        "text": "feel",
+        "start": 385.862,
+        "end": 386.062
+      },
+      {
+        "text": "you",
+        "start": 386.062,
+        "end": 386.222
+      },
+      {
+        "text": "ought",
+        "start": 386.222,
+        "end": 386.382
+      },
+      {
+        "text": "to",
+        "start": 386.382,
+        "end": 386.522
+      },
+      {
+        "text": "be",
+        "start": 386.522,
+        "end": 386.622
+      },
+      {
+        "text": "telling",
+        "start": 386.622,
+        "end": 386.822
+      },
+      {
+        "text": "us?",
+        "start": 386.822,
+        "end": 387.222
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "startTime": 387.602,
+    "endTime": 388.782,
+    "fullText": "The voice cleared its throat.",
+    "words": [
+      {
+        "text": "The",
+        "start": 387.602,
+        "end": 387.762
+      },
+      {
+        "text": "voice",
+        "start": 387.762,
+        "end": 388.022
+      },
+      {
+        "text": "cleared",
+        "start": 388.022,
+        "end": 388.322
+      },
+      {
+        "text": "its",
+        "start": 388.322,
+        "end": 388.502
+      },
+      {
+        "text": "throat.",
+        "start": 388.502,
+        "end": 388.782
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "startTime": 389.302,
+    "endTime": 391.662,
+    "fullText": "A giant Petit Four lolloped off into the distance.",
+    "words": [
+      {
+        "text": "A",
+        "start": 389.302,
+        "end": 389.462
+      },
+      {
+        "text": "giant",
+        "start": 389.462,
+        "end": 389.782
+      },
+      {
+        "text": "Petit",
+        "start": 389.782,
+        "end": 390.122
+      },
+      {
+        "text": "Four",
+        "start": 390.122,
+        "end": 390.382
+      },
+      {
+        "text": "lolloped",
+        "start": 390.382,
+        "end": 390.822
+      },
+      {
+        "text": "off",
+        "start": 390.822,
+        "end": 391.042
+      },
+      {
+        "text": "into",
+        "start": 391.042,
+        "end": 391.242
+      },
+      {
+        "text": "the",
+        "start": 391.242,
+        "end": 391.362
+      },
+      {
+        "text": "distance.",
+        "start": 391.362,
+        "end": 391.662
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "startTime": 392.382,
+    "endTime": 394.782,
+    "fullText": "Welcome, the voice said, to the starship heart of",
+    "words": [
+      {
+        "text": "Welcome,",
+        "start": 392.382,
+        "end": 392.882
+      },
+      {
+        "text": "the",
+        "start": 392.882,
+        "end": 393.002
+      },
+      {
+        "text": "voice",
+        "start": 393.002,
+        "end": 393.222
+      },
+      {
+        "text": "said,",
+        "start": 393.222,
+        "end": 393.622
+      },
+      {
+        "text": "to",
+        "start": 393.622,
+        "end": 393.902
+      },
+      {
+        "text": "the",
+        "start": 393.902,
+        "end": 394.042
+      },
+      {
+        "text": "starship",
+        "start": 394.042,
+        "end": 394.462
+      },
+      {
+        "text": "heart",
+        "start": 394.462,
+        "end": 394.642
+      },
+      {
+        "text": "of",
+        "start": 394.642,
+        "end": 394.782
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "startTime": 394.782,
+    "endTime": 396.742,
+    "fullText": "gold. The voice continued.",
+    "words": [
+      {
+        "text": "gold.",
+        "start": 394.782,
+        "end": 395.242
+      },
+      {
+        "text": "The",
+        "start": 395.562,
+        "end": 395.702
+      },
+      {
+        "text": "voice",
+        "start": 395.702,
+        "end": 395.942
+      },
+      {
+        "text": "continued.",
+        "start": 395.942,
+        "end": 396.742
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "startTime": 396.922,
+    "endTime": 398.982,
+    "fullText": "Please do not be alarmed, it said,",
+    "words": [
+      {
+        "text": "Please",
+        "start": 396.922,
+        "end": 397.142
+      },
+      {
+        "text": "do",
+        "start": 397.142,
+        "end": 397.342
+      },
+      {
+        "text": "not",
+        "start": 397.342,
+        "end": 397.482
+      },
+      {
+        "text": "be",
+        "start": 397.482,
+        "end": 397.642
+      },
+      {
+        "text": "alarmed,",
+        "start": 397.642,
+        "end": 398.242
+      },
+      {
+        "text": "it",
+        "start": 398.242,
+        "end": 398.542
+      },
+      {
+        "text": "said,",
+        "start": 398.542,
+        "end": 398.982
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "startTime": 398.982,
+    "endTime": 401.242,
+    "fullText": "by anything you see or hear around you.",
+    "words": [
+      {
+        "text": "by",
+        "start": 398.982,
+        "end": 399.362
+      },
+      {
+        "text": "anything",
+        "start": 399.362,
+        "end": 399.702
+      },
+      {
+        "text": "you",
+        "start": 399.702,
+        "end": 399.942
+      },
+      {
+        "text": "see",
+        "start": 399.942,
+        "end": 400.222
+      },
+      {
+        "text": "or",
+        "start": 400.222,
+        "end": 400.522
+      },
+      {
+        "text": "hear",
+        "start": 400.522,
+        "end": 400.662
+      },
+      {
+        "text": "around",
+        "start": 400.662,
+        "end": 401.002
+      },
+      {
+        "text": "you.",
+        "start": 401.002,
+        "end": 401.242
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "startTime": 401.682,
+    "endTime": 403.462,
+    "fullText": "You are bound to feel some initial ill effects",
+    "words": [
+      {
+        "text": "You",
+        "start": 401.682,
+        "end": 401.842
+      },
+      {
+        "text": "are",
+        "start": 401.842,
+        "end": 401.942
+      },
+      {
+        "text": "bound",
+        "start": 401.942,
+        "end": 402.122
+      },
+      {
+        "text": "to",
+        "start": 402.122,
+        "end": 402.282
+      },
+      {
+        "text": "feel",
+        "start": 402.282,
+        "end": 402.462
+      },
+      {
+        "text": "some",
+        "start": 402.462,
+        "end": 402.662
+      },
+      {
+        "text": "initial",
+        "start": 402.662,
+        "end": 403.042
+      },
+      {
+        "text": "ill",
+        "start": 403.042,
+        "end": 403.202
+      },
+      {
+        "text": "effects",
+        "start": 403.202,
+        "end": 403.462
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "startTime": 403.462,
+    "endTime": 405.722,
+    "fullText": "as you have been rescued from certain death at",
+    "words": [
+      {
+        "text": "as",
+        "start": 403.462,
+        "end": 403.782
+      },
+      {
+        "text": "you",
+        "start": 403.782,
+        "end": 403.902
+      },
+      {
+        "text": "have",
+        "start": 403.902,
+        "end": 404.022
+      },
+      {
+        "text": "been",
+        "start": 404.022,
+        "end": 404.142
+      },
+      {
+        "text": "rescued",
+        "start": 404.142,
+        "end": 404.502
+      },
+      {
+        "text": "from",
+        "start": 404.502,
+        "end": 404.762
+      },
+      {
+        "text": "certain",
+        "start": 404.762,
+        "end": 405.082
+      },
+      {
+        "text": "death",
+        "start": 405.082,
+        "end": 405.442
+      },
+      {
+        "text": "at",
+        "start": 405.502,
+        "end": 405.722
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "startTime": 405.722,
+    "endTime": 408.182,
+    "fullText": "an improbability level of 2 to the power of",
+    "words": [
+      {
+        "text": "an",
+        "start": 405.722,
+        "end": 405.822
+      },
+      {
+        "text": "improbability",
+        "start": 405.822,
+        "end": 406.522
+      },
+      {
+        "text": "level",
+        "start": 406.522,
+        "end": 406.862
+      },
+      {
+        "text": "of",
+        "start": 406.862,
+        "end": 407.062
+      },
+      {
+        "text": "2",
+        "start": 407.062,
+        "end": 407.322
+      },
+      {
+        "text": "to",
+        "start": 407.322,
+        "end": 407.462
+      },
+      {
+        "text": "the",
+        "start": 407.462,
+        "end": 407.582
+      },
+      {
+        "text": "power",
+        "start": 407.582,
+        "end": 407.902
+      },
+      {
+        "text": "of",
+        "start": 407.902,
+        "end": 408.182
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "startTime": 408.182,
+    "endTime": 412.282,
+    "fullText": "276,000 to 1 against, possibly much higher.",
+    "words": [
+      {
+        "text": "276,000",
+        "start": 408.182,
+        "end": 409.962
+      },
+      {
+        "text": "to",
+        "start": 409.962,
+        "end": 410.202
+      },
+      {
+        "text": "1",
+        "start": 410.202,
+        "end": 410.322
+      },
+      {
+        "text": "against,",
+        "start": 410.322,
+        "end": 410.882
+      },
+      {
+        "text": "possibly",
+        "start": 410.882,
+        "end": 411.482
+      },
+      {
+        "text": "much",
+        "start": 411.482,
+        "end": 411.802
+      },
+      {
+        "text": "higher.",
+        "start": 411.802,
+        "end": 412.282
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "startTime": 412.742,
+    "endTime": 414.342,
+    "fullText": "We are now cruising at a level of 2",
+    "words": [
+      {
+        "text": "We",
+        "start": 412.742,
+        "end": 412.842
+      },
+      {
+        "text": "are",
+        "start": 412.842,
+        "end": 412.962
+      },
+      {
+        "text": "now",
+        "start": 412.962,
+        "end": 413.122
+      },
+      {
+        "text": "cruising",
+        "start": 413.122,
+        "end": 413.422
+      },
+      {
+        "text": "at",
+        "start": 413.422,
+        "end": 413.662
+      },
+      {
+        "text": "a",
+        "start": 413.662,
+        "end": 413.742
+      },
+      {
+        "text": "level",
+        "start": 413.742,
+        "end": 413.962
+      },
+      {
+        "text": "of",
+        "start": 413.962,
+        "end": 414.142
+      },
+      {
+        "text": "2",
+        "start": 414.142,
+        "end": 414.342
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "startTime": 414.342,
+    "endTime": 416.982,
+    "fullText": "to the power of 25,000 to 1 against and",
+    "words": [
+      {
+        "text": "to",
+        "start": 414.342,
+        "end": 414.502
+      },
+      {
+        "text": "the",
+        "start": 414.502,
+        "end": 414.622
+      },
+      {
+        "text": "power",
+        "start": 414.622,
+        "end": 414.922
+      },
+      {
+        "text": "of",
+        "start": 414.922,
+        "end": 415.162
+      },
+      {
+        "text": "25,000",
+        "start": 415.162,
+        "end": 416.022
+      },
+      {
+        "text": "to",
+        "start": 416.022,
+        "end": 416.242
+      },
+      {
+        "text": "1",
+        "start": 416.242,
+        "end": 416.382
+      },
+      {
+        "text": "against",
+        "start": 416.382,
+        "end": 416.702
+      },
+      {
+        "text": "and",
+        "start": 416.702,
+        "end": 416.982
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "startTime": 416.982,
+    "endTime": 419.802,
+    "fullText": "falling, and we will be restoring normality just as",
+    "words": [
+      {
+        "text": "falling,",
+        "start": 416.982,
+        "end": 417.562
+      },
+      {
+        "text": "and",
+        "start": 417.782,
+        "end": 417.922
+      },
+      {
+        "text": "we",
+        "start": 417.922,
+        "end": 418.042
+      },
+      {
+        "text": "will",
+        "start": 418.042,
+        "end": 418.182
+      },
+      {
+        "text": "be",
+        "start": 418.182,
+        "end": 418.282
+      },
+      {
+        "text": "restoring",
+        "start": 418.282,
+        "end": 418.722
+      },
+      {
+        "text": "normality",
+        "start": 418.722,
+        "end": 419.282
+      },
+      {
+        "text": "just",
+        "start": 419.282,
+        "end": 419.642
+      },
+      {
+        "text": "as",
+        "start": 419.642,
+        "end": 419.802
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "startTime": 419.802,
+    "endTime": 421.842,
+    "fullText": "soon as we are sure what is normal anyway.",
+    "words": [
+      {
+        "text": "soon",
+        "start": 419.802,
+        "end": 420.102
+      },
+      {
+        "text": "as",
+        "start": 420.102,
+        "end": 420.342
+      },
+      {
+        "text": "we",
+        "start": 420.342,
+        "end": 420.482
+      },
+      {
+        "text": "are",
+        "start": 420.482,
+        "end": 420.602
+      },
+      {
+        "text": "sure",
+        "start": 420.602,
+        "end": 420.822
+      },
+      {
+        "text": "what",
+        "start": 420.822,
+        "end": 421.022
+      },
+      {
+        "text": "is",
+        "start": 421.022,
+        "end": 421.162
+      },
+      {
+        "text": "normal",
+        "start": 421.162,
+        "end": 421.442
+      },
+      {
+        "text": "anyway.",
+        "start": 421.442,
+        "end": 421.842
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "startTime": 422.442,
+    "endTime": 424.802,
+    "fullText": "Thank you. 2 to the power of 20,000",
+    "words": [
+      {
+        "text": "Thank",
+        "start": 422.442,
+        "end": 422.662
+      },
+      {
+        "text": "you.",
+        "start": 422.662,
+        "end": 422.842
+      },
+      {
+        "text": "2",
+        "start": 423.302,
+        "end": 423.442
+      },
+      {
+        "text": "to",
+        "start": 423.442,
+        "end": 423.542
+      },
+      {
+        "text": "the",
+        "start": 423.542,
+        "end": 423.642
+      },
+      {
+        "text": "power",
+        "start": 423.642,
+        "end": 423.942
+      },
+      {
+        "text": "of",
+        "start": 423.942,
+        "end": 424.182
+      },
+      {
+        "text": "20,000",
+        "start": 424.182,
+        "end": 424.802
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "startTime": 424.802,
+    "endTime": 426.162,
+    "fullText": "to 1 against and falling.",
+    "words": [
+      {
+        "text": "to",
+        "start": 424.802,
+        "end": 424.982
+      },
+      {
+        "text": "1",
+        "start": 424.982,
+        "end": 425.102
+      },
+      {
+        "text": "against",
+        "start": 425.102,
+        "end": 425.422
+      },
+      {
+        "text": "and",
+        "start": 425.422,
+        "end": 425.642
+      },
+      {
+        "text": "falling.",
+        "start": 425.642,
+        "end": 426.162
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "startTime": 426.462,
+    "endTime": 427.482,
+    "fullText": "The voice cut out.",
+    "words": [
+      {
+        "text": "The",
+        "start": 426.462,
+        "end": 426.642
+      },
+      {
+        "text": "voice",
+        "start": 426.642,
+        "end": 426.902
+      },
+      {
+        "text": "cut",
+        "start": 426.902,
+        "end": 427.082
+      },
+      {
+        "text": "out.",
+        "start": 427.082,
+        "end": 427.482
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "startTime": 427.822,
+    "endTime": 429.982,
+    "fullText": "Ford and Arthur were in a small luminous pink",
+    "words": [
+      {
+        "text": "Ford",
+        "start": 427.822,
+        "end": 428.002
+      },
+      {
+        "text": "and",
+        "start": 428.002,
+        "end": 428.162
+      },
+      {
+        "text": "Arthur",
+        "start": 428.162,
+        "end": 428.482
+      },
+      {
+        "text": "were",
+        "start": 428.482,
+        "end": 428.742
+      },
+      {
+        "text": "in",
+        "start": 428.742,
+        "end": 428.902
+      },
+      {
+        "text": "a",
+        "start": 428.902,
+        "end": 429.002
+      },
+      {
+        "text": "small",
+        "start": 429.002,
+        "end": 429.342
+      },
+      {
+        "text": "luminous",
+        "start": 429.342,
+        "end": 429.782
+      },
+      {
+        "text": "pink",
+        "start": 429.782,
+        "end": 429.982
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "startTime": 429.982,
+    "endTime": 432.662,
+    "fullText": "cubicle. Ford was wildly excited.",
+    "words": [
+      {
+        "text": "cubicle.",
+        "start": 429.982,
+        "end": 430.662
+      },
+      {
+        "text": "Ford",
+        "start": 430.982,
+        "end": 431.162
+      },
+      {
+        "text": "was",
+        "start": 431.162,
+        "end": 431.302
+      },
+      {
+        "text": "wildly",
+        "start": 431.302,
+        "end": 431.682
+      },
+      {
+        "text": "excited.",
+        "start": 431.682,
+        "end": 432.662
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "startTime": 432.782,
+    "endTime": 435.482,
+    "fullText": "Arthur. He said, This is fantastic.",
+    "words": [
+      {
+        "text": "Arthur.",
+        "start": 432.782,
+        "end": 433.022
+      },
+      {
+        "text": "He",
+        "start": 433.562,
+        "end": 433.702
+      },
+      {
+        "text": "said,",
+        "start": 433.702,
+        "end": 434.242
+      },
+      {
+        "text": "This",
+        "start": 433.542,
+        "end": 434.542
+      },
+      {
+        "text": "is",
+        "start": 434.542,
+        "end": 434.662
+      },
+      {
+        "text": "fantastic.",
+        "start": 434.662,
+        "end": 435.482
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "startTime": 435.882,
+    "endTime": 437.122,
+    "fullText": "We've been picked up by A.",
+    "words": [
+      {
+        "text": "We've",
+        "start": 435.882,
+        "end": 436.062
+      },
+      {
+        "text": "been",
+        "start": 436.062,
+        "end": 436.162
+      },
+      {
+        "text": "picked",
+        "start": 436.162,
+        "end": 436.382
+      },
+      {
+        "text": "up",
+        "start": 436.382,
+        "end": 436.562
+      },
+      {
+        "text": "by",
+        "start": 436.562,
+        "end": 436.762
+      },
+      {
+        "text": "A.",
+        "start": 436.762,
+        "end": 437.122
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "startTime": 437.482,
+    "endTime": 440.062,
+    "fullText": "Ship powered by the infinite improbability drive.",
+    "words": [
+      {
+        "text": "Ship",
+        "start": 437.482,
+        "end": 437.662
+      },
+      {
+        "text": "powered",
+        "start": 437.662,
+        "end": 438.002
+      },
+      {
+        "text": "by",
+        "start": 438.002,
+        "end": 438.242
+      },
+      {
+        "text": "the",
+        "start": 438.242,
+        "end": 438.362
+      },
+      {
+        "text": "infinite",
+        "start": 438.362,
+        "end": 438.742
+      },
+      {
+        "text": "improbability",
+        "start": 438.742,
+        "end": 439.502
+      },
+      {
+        "text": "drive.",
+        "start": 439.502,
+        "end": 440.062
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "startTime": 440.422,
+    "endTime": 443.368,
+    "fullText": "This is incredible. I heard rumors about it before.",
+    "words": [
+      {
+        "text": "This",
+        "start": 440.422,
+        "end": 440.602
+      },
+      {
+        "text": "is",
+        "start": 440.602,
+        "end": 440.702
+      },
+      {
+        "text": "incredible.",
+        "start": 440.702,
+        "end": 441.102
+      },
+      {
+        "text": "I",
+        "start": 441.742,
+        "end": 441.862
+      },
+      {
+        "text": "heard",
+        "start": 441.862,
+        "end": 442.062
+      },
+      {
+        "text": "rumors",
+        "start": 442.062,
+        "end": 442.342
+      },
+      {
+        "text": "about",
+        "start": 442.268,
+        "end": 442.588
+      },
+      {
+        "text": "it",
+        "start": 442.128,
+        "end": 442.728
+      },
+      {
+        "text": "before.",
+        "start": 442.728,
+        "end": 443.368
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "startTime": 443.368,
+    "endTime": 445.928,
+    "fullText": "They were all officially denied, but they must have",
+    "words": [
+      {
+        "text": "They",
+        "start": 443.368,
+        "end": 443.788
+      },
+      {
+        "text": "were",
+        "start": 443.788,
+        "end": 443.928
+      },
+      {
+        "text": "all",
+        "start": 443.928,
+        "end": 444.068
+      },
+      {
+        "text": "officially",
+        "start": 444.068,
+        "end": 444.428
+      },
+      {
+        "text": "denied,",
+        "start": 444.428,
+        "end": 445.148
+      },
+      {
+        "text": "but",
+        "start": 445.148,
+        "end": 445.468
+      },
+      {
+        "text": "they",
+        "start": 445.468,
+        "end": 445.608
+      },
+      {
+        "text": "must",
+        "start": 445.608,
+        "end": 445.788
+      },
+      {
+        "text": "have",
+        "start": 445.788,
+        "end": 445.928
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "startTime": 445.928,
+    "endTime": 448.488,
+    "fullText": "done it. They've built the improbability drive.",
+    "words": [
+      {
+        "text": "done",
+        "start": 445.928,
+        "end": 446.088
+      },
+      {
+        "text": "it.",
+        "start": 446.088,
+        "end": 446.408
+      },
+      {
+        "text": "They've",
+        "start": 446.408,
+        "end": 446.888
+      },
+      {
+        "text": "built",
+        "start": 446.888,
+        "end": 447.048
+      },
+      {
+        "text": "the",
+        "start": 447.048,
+        "end": 447.188
+      },
+      {
+        "text": "improbability",
+        "start": 446.728,
+        "end": 447.888
+      },
+      {
+        "text": "drive.",
+        "start": 447.888,
+        "end": 448.488
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "startTime": 448.488,
+    "endTime": 451.148,
+    "fullText": "Arthur, this is. Arthur?",
+    "words": [
+      {
+        "text": "Arthur,",
+        "start": 448.488,
+        "end": 449.388
+      },
+      {
+        "text": "this",
+        "start": 449.388,
+        "end": 449.548
+      },
+      {
+        "text": "is.",
+        "start": 449.548,
+        "end": 449.868
+      },
+      {
+        "text": "Arthur?",
+        "start": 449.868,
+        "end": 451.148
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "startTime": 451.148,
+    "endTime": 454.308,
+    "fullText": "What's happening? Arthur had jammed himself against the door",
+    "words": [
+      {
+        "text": "What's",
+        "start": 451.148,
+        "end": 451.608
+      },
+      {
+        "text": "happening?",
+        "start": 451.608,
+        "end": 452.048
+      },
+      {
+        "text": "Arthur",
+        "start": 452.048,
+        "end": 452.628
+      },
+      {
+        "text": "had",
+        "start": 452.628,
+        "end": 452.868
+      },
+      {
+        "text": "jammed",
+        "start": 452.868,
+        "end": 453.208
+      },
+      {
+        "text": "himself",
+        "start": 453.208,
+        "end": 453.488
+      },
+      {
+        "text": "against",
+        "start": 453.088,
+        "end": 453.908
+      },
+      {
+        "text": "the",
+        "start": 453.908,
+        "end": 454.128
+      },
+      {
+        "text": "door",
+        "start": 454.128,
+        "end": 454.308
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "startTime": 454.308,
+    "endTime": 456.628,
+    "fullText": "to the cubicle, trying to hold it closed,",
+    "words": [
+      {
+        "text": "to",
+        "start": 454.308,
+        "end": 454.468
+      },
+      {
+        "text": "the",
+        "start": 454.468,
+        "end": 454.588
+      },
+      {
+        "text": "cubicle,",
+        "start": 454.588,
+        "end": 455.408
+      },
+      {
+        "text": "trying",
+        "start": 455.408,
+        "end": 455.588
+      },
+      {
+        "text": "to",
+        "start": 455.588,
+        "end": 455.728
+      },
+      {
+        "text": "hold",
+        "start": 455.728,
+        "end": 455.948
+      },
+      {
+        "text": "it",
+        "start": 455.948,
+        "end": 456.088
+      },
+      {
+        "text": "closed,",
+        "start": 456.088,
+        "end": 456.628
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "startTime": 456.628,
+    "endTime": 458.048,
+    "fullText": "but it was ill-fitting.",
+    "words": [
+      {
+        "text": "but",
+        "start": 456.628,
+        "end": 456.988
+      },
+      {
+        "text": "it",
+        "start": 456.988,
+        "end": 457.088
+      },
+      {
+        "text": "was",
+        "start": 457.088,
+        "end": 457.208
+      },
+      {
+        "text": "ill-fitting.",
+        "start": 457.208,
+        "end": 458.048
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "startTime": 458.048,
+    "endTime": 460.748,
+    "fullText": "Tiny furry little hands were squeezing themselves through the",
+    "words": [
+      {
+        "text": "Tiny",
+        "start": 458.048,
+        "end": 458.348
+      },
+      {
+        "text": "furry",
+        "start": 458.348,
+        "end": 458.648
+      },
+      {
+        "text": "little",
+        "start": 458.188,
+        "end": 458.928
+      },
+      {
+        "text": "hands",
+        "start": 458.928,
+        "end": 459.268
+      },
+      {
+        "text": "were",
+        "start": 459.268,
+        "end": 459.448
+      },
+      {
+        "text": "squeezing",
+        "start": 459.448,
+        "end": 459.868
+      },
+      {
+        "text": "themselves",
+        "start": 459.868,
+        "end": 460.308
+      },
+      {
+        "text": "through",
+        "start": 460.308,
+        "end": 460.608
+      },
+      {
+        "text": "the",
+        "start": 460.608,
+        "end": 460.748
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "startTime": 460.748,
+    "endTime": 463.048,
+    "fullText": "cracks. Their fingers were ink-stained.",
+    "words": [
+      {
+        "text": "cracks.",
+        "start": 460.748,
+        "end": 461.328
+      },
+      {
+        "text": "Their",
+        "start": 461.328,
+        "end": 461.588
+      },
+      {
+        "text": "fingers",
+        "start": 461.588,
+        "end": 461.968
+      },
+      {
+        "text": "were",
+        "start": 461.968,
+        "end": 462.208
+      },
+      {
+        "text": "ink-stained.",
+        "start": 462.208,
+        "end": 463.048
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "startTime": 463.148,
+    "endTime": 465.388,
+    "fullText": "Tiny voices chattered insanely.",
+    "words": [
+      {
+        "text": "Tiny",
+        "start": 463.148,
+        "end": 463.468
+      },
+      {
+        "text": "voices",
+        "start": 463.468,
+        "end": 463.868
+      },
+      {
+        "text": "chattered",
+        "start": 463.868,
+        "end": 464.348
+      },
+      {
+        "text": "insanely.",
+        "start": 464.348,
+        "end": 465.388
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "startTime": 465.388,
+    "endTime": 466.968,
+    "fullText": "Arthur looked up. Fort.",
+    "words": [
+      {
+        "text": "Arthur",
+        "start": 465.388,
+        "end": 465.608
+      },
+      {
+        "text": "looked",
+        "start": 465.608,
+        "end": 465.868
+      },
+      {
+        "text": "up.",
+        "start": 465.868,
+        "end": 466.368
+      },
+      {
+        "text": "Fort.",
+        "start": 466.368,
+        "end": 466.968
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "startTime": 466.968,
+    "endTime": 469.968,
+    "fullText": "He said, There's an infinite number of monkeys outside",
+    "words": [
+      {
+        "text": "He",
+        "start": 466.968,
+        "end": 467.448
+      },
+      {
+        "text": "said,",
+        "start": 467.448,
+        "end": 467.828
+      },
+      {
+        "text": "There's",
+        "start": 468.068,
+        "end": 468.248
+      },
+      {
+        "text": "an",
+        "start": 468.248,
+        "end": 468.368
+      },
+      {
+        "text": "infinite",
+        "start": 468.368,
+        "end": 468.708
+      },
+      {
+        "text": "number",
+        "start": 468.708,
+        "end": 469.008
+      },
+      {
+        "text": "of",
+        "start": 469.008,
+        "end": 469.248
+      },
+      {
+        "text": "monkeys",
+        "start": 469.248,
+        "end": 469.528
+      },
+      {
+        "text": "outside",
+        "start": 469.528,
+        "end": 469.968
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "startTime": 469.968,
+    "endTime": 471.528,
+    "fullText": "who want to talk to us about this script",
+    "words": [
+      {
+        "text": "who",
+        "start": 469.968,
+        "end": 470.288
+      },
+      {
+        "text": "want",
+        "start": 470.288,
+        "end": 470.428
+      },
+      {
+        "text": "to",
+        "start": 470.428,
+        "end": 470.508
+      },
+      {
+        "text": "talk",
+        "start": 470.508,
+        "end": 470.628
+      },
+      {
+        "text": "to",
+        "start": 470.628,
+        "end": 470.788
+      },
+      {
+        "text": "us",
+        "start": 470.788,
+        "end": 470.908
+      },
+      {
+        "text": "about",
+        "start": 470.908,
+        "end": 471.108
+      },
+      {
+        "text": "this",
+        "start": 471.108,
+        "end": 471.308
+      },
+      {
+        "text": "script",
+        "start": 471.308,
+        "end": 471.528
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "startTime": 471.528,
+    "endTime": 472.868,
+    "fullText": "for Hamlet they've worked out.",
+    "words": [
+      {
+        "text": "for",
+        "start": 471.528,
+        "end": 471.728
+      },
+      {
+        "text": "Hamlet",
+        "start": 471.288,
+        "end": 472.168
+      },
+      {
+        "text": "they've",
+        "start": 472.168,
+        "end": 472.428
+      },
+      {
+        "text": "worked",
+        "start": 472.428,
+        "end": 472.628
+      },
+      {
+        "text": "out.",
+        "start": 472.628,
+        "end": 472.868
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "startTime": 472.868,
+    "endTime": 473.488,
+    "fullText": "The",
+    "words": [
+      {
+        "text": "The",
+        "start": 472.868,
+        "end": 473.488
+      }
+    ]
+  }
+]

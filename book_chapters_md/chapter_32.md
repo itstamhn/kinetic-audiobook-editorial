@@ -1,0 +1,135 @@
+# Chapter 32
+
+"Emergency! Emergency!" blared the klaxons throughout Magrathea. "Hostile ship has landed on planet. Armed intruders in section 8A. Defence stations, defence stations!"
+
+The two mice sniffed irritably round the fragments of their glass transports where they lay shattered on the floor.
+
+"Damnation," muttered Frankie mouse, "all that fuss over two pounds of Earthling brain." He scuttled round and about, his pink eyes flashing, his fine white coat bristling with static.
+
+"The only thing we can do now," said Benji, crouching and stroking his whiskers in thought, "is to try and fake a question, invent one that will sound plausible."
+
+"Difficult," said Frankie. He thought. "How about What's yellow and dangerous?"
+
+Benji considered this for a moment.
+
+"No, no good," he said. "Doesn't fit the answer."
+
+They sank into silence for a few seconds.
+
+"Alright," said Benji. "What do you get if you multiply six by seven?"
+
+"No, no, too literal, too factual," said Frankie, "wouldn't sustain the punters' interest."
+
+Again they thought.
+
+Then Frankie said: "Here's a thought. How many roads must a man walk down?"
+
+"Ah," said Benji. "Aha, now that does sound promising!" He rolled the phrase around a little. "Yes," he said, "that's excellent! Sounds very significant without actually tying you down to meaning anything at all. How many roads must a man walk down? Forty-two. Excellent, excellent, that'll fox 'em. Frankie baby, we are made!"
+
+They performed a scampering dance in their excitement.
+
+Near them on the floor lay several rather ugly men who had been hit about the head with some heavy design awards.
+
+Half a mile away, four figures pounded up a corridor looking for a way out. They emerged into a wide open-plan computer bay. They glanced about wildly.
+
+"Which way do you reckon Zaphod?" said Ford.
+
+"At a wild guess, I'd say down here," said Zaphod, running off down to the right between a computer bank and the wall. As the others started after him he was brought up short by a Kill-O-Zap energy bolt that cracked through the air inches in front of him and fried a small section of adjacent wall.
+
+A voice on a loud hailer said, "OK Beeblebrox, hold it right there. We've got you covered."
+
+"Cops!" hissed Zaphod, and span around in a crouch. "You want to try a guess at all, Ford?"
+
+"OK, this way," said Ford, and the four of them ran down a gangway between two computer banks.
+
+At the end of the gangway appeared a heavily armoured and spacesuited figure waving a vicious Kill-O-Zap gun.
+
+"We don't want to shoot you, Beeblebrox!" shouted the figure.
+
+"Suits me fine!" shouted Zaphod back and dived down a wide gap between two data process units.
+
+The others swerved in behind him.
+
+"There are two of them," said Trillian. "We're cornered."
+
+They squeezed themselves down in an angle between a large computer data bank and the wall.
+
+They held their breath and waited.
+
+Suddenly the air exploded with energy bolts as both the cops opened fire on them simultaneously.
+
+"Hey, they're shooting at us," said Arthur, crouching in a tight ball, "I thought they said they didn't want to do that."
+
+"Yeah, I thought they said that," agreed Ford.
+
+Zaphod stuck a head up for a dangerous moment.
+
+"Hey," he said, "I thought you said you didn't want to shoot us!" and ducked again.
+
+They waited.
+
+After a moment a voice replied, "It isn't easy being a cop!"
+
+"What did he say?" whispered Ford in astonishment.
+
+"He said it isn't easy being a cop."
+
+"Well surely that's his problem isn't it?"
+
+"I'd have thought so."
+
+Ford shouted out, "Hey listen! I think we've got enough problems on our own having you shooting at us, so if you could avoid laying your problems on us as well, I think we'd all find it easier to cope!"
+
+Another pause, and then the loud hailer again.
+
+"Now see here, guy," said the voice on the loud hailer, "you're not dealing with any dumb two-bit trigger-pumping morons with low hairlines, little piggy eyes and no conversation, we're a couple of intelligent caring guys that you'd probably quite like if you met us socially! I don't go around gratuitously shooting people and then bragging about it afterwards in seedy space-rangers bars, like some cops I could mention! I go around shooting people gratuitously and then I agonize about it afterwards for hours to my girlfriend!"
+
+"And I write novels!" chimed in the other cop. "Though I haven't had any of them published yet, so I better warn you, I'm in a meeeean mood!"
+
+Ford's eyes popped halfway out of their sockets. "Who are these guys?" he said.
+
+"Dunno," said Zaphod, "I think I preferred it when they were shooting."
+
+"So are you going to come quietly," shouted one of the cops again, "or are you going to let us blast you out?"
+
+"Which would you prefer?" shouted Ford.
+
+A millisecond later the air about them started to fry again, as bolt after bolt of Kill-O-Zap hurled itself into the computer bank in front of them.
+
+The fusillade continued for several seconds at unbearable intensity.
+
+When it stopped, there were a few seconds of near quietness ad the echoes died away.
+
+"You still there?" called one of the cops.
+
+"Yes," they called back.
+
+"We didn't enjoy doing that at all," shouted the other cop.
+
+"We could tell," shouted Ford.
+
+"Now, listen to this, Beeblebrox, and you better listen good!"
+
+"Why?" shouted Back Zaphod.
+
+"Because," shouted the cop, "it's going to be very intelligent, and quite interesting and humane! Now either you all give yourselves up now and let us beat you up a bit, though not very much of course because we are firmly opposed to needless violence, or we blow up this entire planet and possibly one or two others we noticed on our way out here!"
+
+"But that's crazy!" cried Trillian. "You wouldn't do that!"
+
+"Oh yes we would," shouted the cop, "wouldn't we?" he asked the other one.
+
+"Oh yes, we'd have to, no question," the other one called back.
+
+"But why?" demanded Trillian.
+
+"Because there are some things you have to do even if you are an enlightened liberal cop who knows all about sensitivity and everything!"
+
+"I just don't believe these guys," muttered Ford, shaking his head.
+
+One cop shouted to the other, "Shall we shoot them again for a bit?"
+
+"Yeah, why not?"
+
+They let fly another electric barra ge.
+
+The heat and noise was quite fantastic. Slowly, the computer bank was beginning to disintegrate. The front had almost all melted away, and thick rivulets of molten metal were winding their way back towards where they were squatting. They huddled further back and waited for the end.

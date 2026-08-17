@@ -1,0 +1,1046 @@
+[
+  {
+    "id": 0,
+    "startTime": 0.002,
+    "endTime": 3.882,
+    "fullText": "Yes, very salutary, said Arthur, after Slardabartfast",
+    "words": [
+      {
+        "text": "Yes,",
+        "start": 0.002,
+        "end": 0.562
+      },
+      {
+        "text": "very",
+        "start": 0.562,
+        "end": 0.842
+      },
+      {
+        "text": "salutary,",
+        "start": 0.842,
+        "end": 1.802
+      },
+      {
+        "text": "said",
+        "start": 1.802,
+        "end": 1.982
+      },
+      {
+        "text": "Arthur,",
+        "start": 1.982,
+        "end": 2.302
+      },
+      {
+        "text": "after",
+        "start": 2.302,
+        "end": 3.022
+      },
+      {
+        "text": "Slardabartfast",
+        "start": 3.022,
+        "end": 3.882
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "startTime": 3.882,
+    "endTime": 6.202,
+    "fullText": "had related the salient points of the story to",
+    "words": [
+      {
+        "text": "had",
+        "start": 3.882,
+        "end": 4.102
+      },
+      {
+        "text": "related",
+        "start": 4.102,
+        "end": 4.362
+      },
+      {
+        "text": "the",
+        "start": 4.362,
+        "end": 4.622
+      },
+      {
+        "text": "salient",
+        "start": 4.622,
+        "end": 5.022
+      },
+      {
+        "text": "points",
+        "start": 5.022,
+        "end": 5.422
+      },
+      {
+        "text": "of",
+        "start": 5.422,
+        "end": 5.602
+      },
+      {
+        "text": "the",
+        "start": 5.602,
+        "end": 5.722
+      },
+      {
+        "text": "story",
+        "start": 5.722,
+        "end": 5.962
+      },
+      {
+        "text": "to",
+        "start": 6.022,
+        "end": 6.202
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "startTime": 6.202,
+    "endTime": 8.442,
+    "fullText": "him, but I don't understand what all this has",
+    "words": [
+      {
+        "text": "him,",
+        "start": 6.202,
+        "end": 6.762
+      },
+      {
+        "text": "but",
+        "start": 6.762,
+        "end": 6.842
+      },
+      {
+        "text": "I",
+        "start": 6.842,
+        "end": 6.922
+      },
+      {
+        "text": "don't",
+        "start": 6.922,
+        "end": 7.122
+      },
+      {
+        "text": "understand",
+        "start": 7.122,
+        "end": 7.562
+      },
+      {
+        "text": "what",
+        "start": 7.562,
+        "end": 7.822
+      },
+      {
+        "text": "all",
+        "start": 7.822,
+        "end": 8.062
+      },
+      {
+        "text": "this",
+        "start": 8.062,
+        "end": 8.262
+      },
+      {
+        "text": "has",
+        "start": 8.262,
+        "end": 8.442
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "startTime": 8.442,
+    "endTime": 10.142,
+    "fullText": "got to do with the earth and mice and",
+    "words": [
+      {
+        "text": "got",
+        "start": 8.442,
+        "end": 8.602
+      },
+      {
+        "text": "to",
+        "start": 8.602,
+        "end": 8.762
+      },
+      {
+        "text": "do",
+        "start": 8.762,
+        "end": 8.922
+      },
+      {
+        "text": "with",
+        "start": 8.922,
+        "end": 9.062
+      },
+      {
+        "text": "the",
+        "start": 9.062,
+        "end": 9.202
+      },
+      {
+        "text": "earth",
+        "start": 9.202,
+        "end": 9.422
+      },
+      {
+        "text": "and",
+        "start": 9.422,
+        "end": 9.702
+      },
+      {
+        "text": "mice",
+        "start": 9.702,
+        "end": 9.962
+      },
+      {
+        "text": "and",
+        "start": 9.962,
+        "end": 10.142
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startTime": 10.142,
+    "endTime": 12.502,
+    "fullText": "things. That is but the first half of the",
+    "words": [
+      {
+        "text": "things.",
+        "start": 10.142,
+        "end": 10.562
+      },
+      {
+        "text": "That",
+        "start": 11.102,
+        "end": 11.302
+      },
+      {
+        "text": "is",
+        "start": 11.302,
+        "end": 11.422
+      },
+      {
+        "text": "but",
+        "start": 11.422,
+        "end": 11.562
+      },
+      {
+        "text": "the",
+        "start": 11.562,
+        "end": 11.722
+      },
+      {
+        "text": "first",
+        "start": 11.722,
+        "end": 12.042
+      },
+      {
+        "text": "half",
+        "start": 12.042,
+        "end": 12.242
+      },
+      {
+        "text": "of",
+        "start": 12.242,
+        "end": 12.422
+      },
+      {
+        "text": "the",
+        "start": 12.422,
+        "end": 12.502
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "startTime": 12.502,
+    "endTime": 14.462,
+    "fullText": "story Earthman, said the old man.",
+    "words": [
+      {
+        "text": "story",
+        "start": 12.502,
+        "end": 12.842
+      },
+      {
+        "text": "Earthman,",
+        "start": 12.842,
+        "end": 13.462
+      },
+      {
+        "text": "said",
+        "start": 13.462,
+        "end": 13.862
+      },
+      {
+        "text": "the",
+        "start": 13.862,
+        "end": 14.002
+      },
+      {
+        "text": "old",
+        "start": 14.002,
+        "end": 14.162
+      },
+      {
+        "text": "man.",
+        "start": 14.162,
+        "end": 14.462
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "startTime": 14.462,
+    "endTime": 16.962,
+    "fullText": "If you would care to discover what happened seven",
+    "words": [
+      {
+        "text": "If",
+        "start": 14.462,
+        "end": 15.062
+      },
+      {
+        "text": "you",
+        "start": 15.062,
+        "end": 15.182
+      },
+      {
+        "text": "would",
+        "start": 15.182,
+        "end": 15.262
+      },
+      {
+        "text": "care",
+        "start": 15.262,
+        "end": 15.462
+      },
+      {
+        "text": "to",
+        "start": 15.462,
+        "end": 15.622
+      },
+      {
+        "text": "discover",
+        "start": 15.622,
+        "end": 15.942
+      },
+      {
+        "text": "what",
+        "start": 15.522,
+        "end": 16.262
+      },
+      {
+        "text": "happened",
+        "start": 16.262,
+        "end": 16.622
+      },
+      {
+        "text": "seven",
+        "start": 16.622,
+        "end": 16.962
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "startTime": 16.962,
+    "endTime": 19.422,
+    "fullText": "and a half millions later, on the great day",
+    "words": [
+      {
+        "text": "and",
+        "start": 16.962,
+        "end": 17.342
+      },
+      {
+        "text": "a",
+        "start": 17.342,
+        "end": 17.462
+      },
+      {
+        "text": "half",
+        "start": 17.462,
+        "end": 17.642
+      },
+      {
+        "text": "millions",
+        "start": 17.642,
+        "end": 18.022
+      },
+      {
+        "text": "later,",
+        "start": 18.022,
+        "end": 18.762
+      },
+      {
+        "text": "on",
+        "start": 18.762,
+        "end": 18.842
+      },
+      {
+        "text": "the",
+        "start": 18.842,
+        "end": 18.942
+      },
+      {
+        "text": "great",
+        "start": 18.942,
+        "end": 19.222
+      },
+      {
+        "text": "day",
+        "start": 19.222,
+        "end": 19.422
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "startTime": 19.422,
+    "endTime": 21.482,
+    "fullText": "of the answer, allow me to invite you to",
+    "words": [
+      {
+        "text": "of",
+        "start": 19.422,
+        "end": 19.582
+      },
+      {
+        "text": "the",
+        "start": 19.582,
+        "end": 19.662
+      },
+      {
+        "text": "answer,",
+        "start": 19.662,
+        "end": 20.462
+      },
+      {
+        "text": "allow",
+        "start": 20.462,
+        "end": 20.602
+      },
+      {
+        "text": "me",
+        "start": 20.602,
+        "end": 20.762
+      },
+      {
+        "text": "to",
+        "start": 20.762,
+        "end": 20.882
+      },
+      {
+        "text": "invite",
+        "start": 20.882,
+        "end": 21.162
+      },
+      {
+        "text": "you",
+        "start": 20.762,
+        "end": 21.422
+      },
+      {
+        "text": "to",
+        "start": 21.422,
+        "end": 21.482
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "startTime": 21.482,
+    "endTime": 23.982,
+    "fullText": "my study where you can experience the events yourself",
+    "words": [
+      {
+        "text": "my",
+        "start": 21.482,
+        "end": 21.582
+      },
+      {
+        "text": "study",
+        "start": 21.582,
+        "end": 21.962
+      },
+      {
+        "text": "where",
+        "start": 21.962,
+        "end": 22.202
+      },
+      {
+        "text": "you",
+        "start": 22.202,
+        "end": 22.322
+      },
+      {
+        "text": "can",
+        "start": 22.322,
+        "end": 22.442
+      },
+      {
+        "text": "experience",
+        "start": 22.442,
+        "end": 22.882
+      },
+      {
+        "text": "the",
+        "start": 22.882,
+        "end": 23.262
+      },
+      {
+        "text": "events",
+        "start": 23.262,
+        "end": 23.602
+      },
+      {
+        "text": "yourself",
+        "start": 23.602,
+        "end": 23.982
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "startTime": 23.982,
+    "endTime": 25.262,
+    "fullText": "on our Senzo tape records.",
+    "words": [
+      {
+        "text": "on",
+        "start": 23.982,
+        "end": 24.222
+      },
+      {
+        "text": "our",
+        "start": 24.222,
+        "end": 24.362
+      },
+      {
+        "text": "Senzo",
+        "start": 24.362,
+        "end": 24.642
+      },
+      {
+        "text": "tape",
+        "start": 24.642,
+        "end": 24.882
+      },
+      {
+        "text": "records.",
+        "start": 24.882,
+        "end": 25.262
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "startTime": 25.862,
+    "endTime": 27.342,
+    "fullText": "That is unless you would care to take a",
+    "words": [
+      {
+        "text": "That",
+        "start": 25.862,
+        "end": 26.062
+      },
+      {
+        "text": "is",
+        "start": 26.062,
+        "end": 26.142
+      },
+      {
+        "text": "unless",
+        "start": 26.142,
+        "end": 26.382
+      },
+      {
+        "text": "you",
+        "start": 26.382,
+        "end": 26.562
+      },
+      {
+        "text": "would",
+        "start": 26.562,
+        "end": 26.682
+      },
+      {
+        "text": "care",
+        "start": 26.682,
+        "end": 26.882
+      },
+      {
+        "text": "to",
+        "start": 26.882,
+        "end": 27.082
+      },
+      {
+        "text": "take",
+        "start": 27.082,
+        "end": 27.222
+      },
+      {
+        "text": "a",
+        "start": 27.222,
+        "end": 27.342
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "startTime": 27.342,
+    "endTime": 29.322,
+    "fullText": "quick stroll on the surface of new earth.",
+    "words": [
+      {
+        "text": "quick",
+        "start": 27.342,
+        "end": 27.562
+      },
+      {
+        "text": "stroll",
+        "start": 27.562,
+        "end": 27.862
+      },
+      {
+        "text": "on",
+        "start": 27.862,
+        "end": 28.082
+      },
+      {
+        "text": "the",
+        "start": 28.082,
+        "end": 28.182
+      },
+      {
+        "text": "surface",
+        "start": 28.182,
+        "end": 28.462
+      },
+      {
+        "text": "of",
+        "start": 28.462,
+        "end": 28.682
+      },
+      {
+        "text": "new",
+        "start": 28.682,
+        "end": 28.842
+      },
+      {
+        "text": "earth.",
+        "start": 28.842,
+        "end": 29.322
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "startTime": 29.682,
+    "endTime": 31.282,
+    "fullText": "It's only half completed I'm afraid.",
+    "words": [
+      {
+        "text": "It's",
+        "start": 29.682,
+        "end": 29.882
+      },
+      {
+        "text": "only",
+        "start": 29.882,
+        "end": 30.062
+      },
+      {
+        "text": "half",
+        "start": 30.062,
+        "end": 30.302
+      },
+      {
+        "text": "completed",
+        "start": 30.302,
+        "end": 30.722
+      },
+      {
+        "text": "I'm",
+        "start": 30.722,
+        "end": 30.962
+      },
+      {
+        "text": "afraid.",
+        "start": 30.962,
+        "end": 31.282
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "startTime": 31.282,
+    "endTime": 35.002,
+    "fullText": "We haven't even finished burying the artificial dinosaur skeletons",
+    "words": [
+      {
+        "text": "We",
+        "start": 31.282,
+        "end": 31.982
+      },
+      {
+        "text": "haven't",
+        "start": 31.982,
+        "end": 32.242
+      },
+      {
+        "text": "even",
+        "start": 32.242,
+        "end": 32.402
+      },
+      {
+        "text": "finished",
+        "start": 32.402,
+        "end": 32.802
+      },
+      {
+        "text": "burying",
+        "start": 32.802,
+        "end": 33.182
+      },
+      {
+        "text": "the",
+        "start": 33.182,
+        "end": 33.402
+      },
+      {
+        "text": "artificial",
+        "start": 33.402,
+        "end": 33.842
+      },
+      {
+        "text": "dinosaur",
+        "start": 33.842,
+        "end": 34.402
+      },
+      {
+        "text": "skeletons",
+        "start": 34.522,
+        "end": 35.002
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "startTime": 35.002,
+    "endTime": 35.962,
+    "fullText": "in the crust yet.",
+    "words": [
+      {
+        "text": "in",
+        "start": 35.002,
+        "end": 35.282
+      },
+      {
+        "text": "the",
+        "start": 35.282,
+        "end": 35.322
+      },
+      {
+        "text": "crust",
+        "start": 35.322,
+        "end": 35.562
+      },
+      {
+        "text": "yet.",
+        "start": 35.562,
+        "end": 35.962
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "startTime": 35.962,
+    "endTime": 38.862,
+    "fullText": "Then we have the tertiary and quaternary periods of",
+    "words": [
+      {
+        "text": "Then",
+        "start": 35.962,
+        "end": 36.342
+      },
+      {
+        "text": "we",
+        "start": 36.342,
+        "end": 36.462
+      },
+      {
+        "text": "have",
+        "start": 36.462,
+        "end": 36.622
+      },
+      {
+        "text": "the",
+        "start": 36.622,
+        "end": 36.782
+      },
+      {
+        "text": "tertiary",
+        "start": 36.782,
+        "end": 37.202
+      },
+      {
+        "text": "and",
+        "start": 37.202,
+        "end": 37.502
+      },
+      {
+        "text": "quaternary",
+        "start": 37.502,
+        "end": 38.122
+      },
+      {
+        "text": "periods",
+        "start": 38.122,
+        "end": 38.622
+      },
+      {
+        "text": "of",
+        "start": 38.622,
+        "end": 38.862
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "startTime": 38.862,
+    "endTime": 40.762,
+    "fullText": "the Cenozoic era to lay down.",
+    "words": [
+      {
+        "text": "the",
+        "start": 38.862,
+        "end": 39.002
+      },
+      {
+        "text": "Cenozoic",
+        "start": 39.002,
+        "end": 39.602
+      },
+      {
+        "text": "era",
+        "start": 39.142,
+        "end": 39.862
+      },
+      {
+        "text": "to",
+        "start": 39.862,
+        "end": 40.042
+      },
+      {
+        "text": "lay",
+        "start": 40.042,
+        "end": 40.182
+      },
+      {
+        "text": "down.",
+        "start": 40.182,
+        "end": 40.762
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "startTime": 40.762,
+    "endTime": 43.482,
+    "fullText": "And\u2026 No thank you, said Arthur.",
+    "words": [
+      {
+        "text": "And\u2026",
+        "start": 40.762,
+        "end": 41.342
+      },
+      {
+        "text": "No",
+        "start": 41.342,
+        "end": 42.242
+      },
+      {
+        "text": "thank",
+        "start": 42.242,
+        "end": 42.462
+      },
+      {
+        "text": "you,",
+        "start": 42.462,
+        "end": 42.662
+      },
+      {
+        "text": "said",
+        "start": 42.662,
+        "end": 42.942
+      },
+      {
+        "text": "Arthur.",
+        "start": 42.942,
+        "end": 43.482
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "startTime": 43.482,
+    "endTime": 44.902,
+    "fullText": "It wouldn't be quite the same.",
+    "words": [
+      {
+        "text": "It",
+        "start": 43.482,
+        "end": 43.702
+      },
+      {
+        "text": "wouldn't",
+        "start": 43.702,
+        "end": 43.882
+      },
+      {
+        "text": "be",
+        "start": 43.882,
+        "end": 44.022
+      },
+      {
+        "text": "quite",
+        "start": 44.022,
+        "end": 44.282
+      },
+      {
+        "text": "the",
+        "start": 44.282,
+        "end": 44.482
+      },
+      {
+        "text": "same.",
+        "start": 44.482,
+        "end": 44.902
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "startTime": 45.282,
+    "endTime": 47.822,
+    "fullText": "No, said Slardabartfast, it won't be.",
+    "words": [
+      {
+        "text": "No,",
+        "start": 45.282,
+        "end": 45.542
+      },
+      {
+        "text": "said",
+        "start": 45.542,
+        "end": 46.002
+      },
+      {
+        "text": "Slardabartfast,",
+        "start": 46.002,
+        "end": 47.062
+      },
+      {
+        "text": "it",
+        "start": 47.062,
+        "end": 47.282
+      },
+      {
+        "text": "won't",
+        "start": 47.282,
+        "end": 47.462
+      },
+      {
+        "text": "be.",
+        "start": 47.462,
+        "end": 47.822
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "startTime": 47.822,
+    "endTime": 49.962,
+    "fullText": "And he turned the aircar round and headed back",
+    "words": [
+      {
+        "text": "And",
+        "start": 47.822,
+        "end": 48.182
+      },
+      {
+        "text": "he",
+        "start": 48.182,
+        "end": 48.262
+      },
+      {
+        "text": "turned",
+        "start": 48.262,
+        "end": 48.522
+      },
+      {
+        "text": "the",
+        "start": 48.522,
+        "end": 48.662
+      },
+      {
+        "text": "aircar",
+        "start": 48.662,
+        "end": 48.962
+      },
+      {
+        "text": "round",
+        "start": 48.962,
+        "end": 49.302
+      },
+      {
+        "text": "and",
+        "start": 49.302,
+        "end": 49.522
+      },
+      {
+        "text": "headed",
+        "start": 49.522,
+        "end": 49.722
+      },
+      {
+        "text": "back",
+        "start": 49.722,
+        "end": 49.962
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "startTime": 49.962,
+    "endTime": 51.362,
+    "fullText": "towards the mind-numbing wall.",
+    "words": [
+      {
+        "text": "towards",
+        "start": 49.962,
+        "end": 50.282
+      },
+      {
+        "text": "the",
+        "start": 49.862,
+        "end": 50.522
+      },
+      {
+        "text": "mind-numbing",
+        "start": 50.522,
+        "end": 50.882
+      },
+      {
+        "text": "wall.",
+        "start": 50.882,
+        "end": 51.362
+      }
+    ]
+  }
+]

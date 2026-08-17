@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Soniox TTS v2 — Voice Comparison & Listening Studio</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #0b0d13;
+      --card-bg: #141722;
+      --card-hover: #1a1e2d;
+      --border: #232838;
+      --text: #f3f4f8;
+      --text-dim: #949baa;
+      --accent: #3b82f6;
+      --accent-glow: rgba(59, 130, 246, 0.25);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 880px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+
+    header {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      background-color: rgba(59, 130, 246, 0.15);
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #60a5fa;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .script-card {
+      background-color: #10131d;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .script-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-dim);
+      font-weight: 700;
+    }
+
+    .script-text {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.15rem;
+      line-height: 1.5;
+      color: #e5e7eb;
+      font-style: italic;
+    }
+
+    .voices-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .voice-card {
+      background-color: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      transition: all 0.2s ease;
+    }
+
+    .voice-card:hover {
+      background-color: var(--card-hover);
+      border-color: #363e54;
+      transform: translateY(-2px);
+    }
+
+    .voice-info {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .voice-name-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .voice-name {
+      font-size: 1.15rem;
+      font-weight: 700;
+    }
+
+    .voice-tag {
+      font-size: 0.7rem;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-weight: 600;
+      background-color: #232838;
+      color: #cbd5e1;
+    }
+
+    .voice-desc {
+      font-size: 0.85rem;
+      color: var(--text-dim);
+    }
+
+    .audio-player-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    audio {
+      height: 38px;
+      outline: none;
+      border-radius: 8px;
+    }
+
+    audio::-webkit-media-controls-panel {
+      background-color: #1f2433;
+    }
+
+    .use-btn {
+      padding: 8px 16px;
+      background-color: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .use-btn:hover {
+      background-color: #2563eb;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path>
+          <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+          <line x1="12" x2="12" y1="19" y2="22"></line>
+        </svg>
+        Soniox Speech AI
+      </div>
+      <h1>Soniox TTS v2 Voice Showcase</h1>
+      <p style="color: var(--text-dim); font-size: 0.95rem;">
+        Click play below to compare the voices generated with model <code>tts-rt-v2</code>.
+      </p>
+    </header>
+
+    <!-- Script Text -->
+    <div class="script-card">
+      <div class="script-title">Generated Script Text</div>
+      <div class="script-text">
+        "Today we are going to be doing a day in the life. In the morning I have got a couple of calls. We have got our morning huddle of course, which is how we start every single day. We essentially just go through what we have planned for the day and any blockers. I have got a creative strategy call with a client alongside Vivian, our creative strategist."
+      </div>
+    </div>
+
+    <!-- Voice Cards List -->
+    <div class="voices-grid">
+
+      <!-- Daniel -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Daniel</span>
+            <span class="voice-tag">Male &bull; American</span>
+          </div>
+          <div class="voice-desc">Clear, confident, articulate narrative delivery</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_daniel.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+      <!-- Adrian -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Adrian</span>
+            <span class="voice-tag">Male &bull; Editorial</span>
+          </div>
+          <div class="voice-desc">Warm, natural tone, great for video essays & storytelling</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_adrian.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+      <!-- Miles -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Miles</span>
+            <span class="voice-tag">Male &bull; Creator</span>
+          </div>
+          <div class="voice-desc">Casual, conversational vlog style voice</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_miles.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+      <!-- Nora -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Nora</span>
+            <span class="voice-tag">Female &bull; Warm</span>
+          </div>
+          <div class="voice-desc">Calm, clear, and elegant pacing</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_nora.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+      <!-- Emma -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Emma</span>
+            <span class="voice-tag">Female &bull; Modern</span>
+          </div>
+          <div class="voice-desc">Articulate, bright, and polished voiceover</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_emma.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+      <!-- Owen -->
+      <div class="voice-card">
+        <div class="voice-info">
+          <div class="voice-name-row">
+            <span class="voice-name">Owen</span>
+            <span class="voice-tag">Male &bull; Energetic</span>
+          </div>
+          <div class="voice-desc">Engaging, dynamic pacing, great for fast-paced content</div>
+        </div>
+        <div class="audio-player-wrapper">
+          <audio controls src="soniox_v2_owen.mp3" preload="metadata"></audio>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Quick action footer -->
+    <div style="text-align: center; color: var(--text-dim); font-size: 0.85rem;">
+      Files saved in: <code>kinetic-text-video/soniox_v2_*.mp3</code>
+    </div>
+
+  </div>
+
+</body>
+</html>

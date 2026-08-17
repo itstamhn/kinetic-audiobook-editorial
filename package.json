@@ -1,0 +1,22 @@
+{
+  "name": "kinetic-text-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.512",
+    "@remotion/media-utils": "^4.0.512",
+    "@remotion/player": "^4.0.512",
+    "@types/react": "^19.2.18",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.512",
+    "typescript": "^7.0.2"
+  }
+}

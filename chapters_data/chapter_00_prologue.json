@@ -1,0 +1,3514 @@
+[
+  {
+    "id": 0,
+    "startTime": 0.0,
+    "endTime": 2.8,
+    "fullText": "Far out in the uncharted backwaters of the unfashionable",
+    "words": [
+      {
+        "text": "Far",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "text": "out",
+        "start": 0.18,
+        "end": 0.36
+      },
+      {
+        "text": "in",
+        "start": 0.36,
+        "end": 0.48
+      },
+      {
+        "text": "the",
+        "start": 0.48,
+        "end": 0.58
+      },
+      {
+        "text": "uncharted",
+        "start": 0.58,
+        "end": 1.08
+      },
+      {
+        "text": "backwaters",
+        "start": 1.08,
+        "end": 1.7
+      },
+      {
+        "text": "of",
+        "start": 1.7,
+        "end": 1.92
+      },
+      {
+        "text": "the",
+        "start": 1.92,
+        "end": 2.04
+      },
+      {
+        "text": "unfashionable",
+        "start": 2.04,
+        "end": 2.8
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "startTime": 2.8,
+    "endTime": 5.02,
+    "fullText": "end of the western spiral arm of the galaxy",
+    "words": [
+      {
+        "text": "end",
+        "start": 2.8,
+        "end": 3.06
+      },
+      {
+        "text": "of",
+        "start": 3.06,
+        "end": 3.22
+      },
+      {
+        "text": "the",
+        "start": 3.22,
+        "end": 3.34
+      },
+      {
+        "text": "western",
+        "start": 3.34,
+        "end": 3.66
+      },
+      {
+        "text": "spiral",
+        "start": 3.66,
+        "end": 4.02
+      },
+      {
+        "text": "arm",
+        "start": 4.02,
+        "end": 4.42
+      },
+      {
+        "text": "of",
+        "start": 4.42,
+        "end": 4.54
+      },
+      {
+        "text": "the",
+        "start": 4.54,
+        "end": 4.66
+      },
+      {
+        "text": "galaxy",
+        "start": 4.66,
+        "end": 5.02
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "startTime": 5.02,
+    "endTime": 7.44,
+    "fullText": "lies a small unregarded yellow sun.",
+    "words": [
+      {
+        "text": "lies",
+        "start": 5.02,
+        "end": 5.44
+      },
+      {
+        "text": "a",
+        "start": 5.44,
+        "end": 5.64
+      },
+      {
+        "text": "small",
+        "start": 5.64,
+        "end": 5.94
+      },
+      {
+        "text": "unregarded",
+        "start": 5.94,
+        "end": 6.58
+      },
+      {
+        "text": "yellow",
+        "start": 6.58,
+        "end": 6.9
+      },
+      {
+        "text": "sun.",
+        "start": 6.9,
+        "end": 7.44
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "startTime": 7.8,
+    "endTime": 10.32,
+    "fullText": "Orbiting this at a distance of roughly 92 million",
+    "words": [
+      {
+        "text": "Orbiting",
+        "start": 7.8,
+        "end": 8.1
+      },
+      {
+        "text": "this",
+        "start": 8.1,
+        "end": 8.32
+      },
+      {
+        "text": "at",
+        "start": 8.32,
+        "end": 8.48
+      },
+      {
+        "text": "a",
+        "start": 8.48,
+        "end": 8.58
+      },
+      {
+        "text": "distance",
+        "start": 8.58,
+        "end": 8.86
+      },
+      {
+        "text": "of",
+        "start": 8.86,
+        "end": 9.12
+      },
+      {
+        "text": "roughly",
+        "start": 9.12,
+        "end": 9.4
+      },
+      {
+        "text": "92",
+        "start": 9.4,
+        "end": 9.98
+      },
+      {
+        "text": "million",
+        "start": 9.98,
+        "end": 10.32
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startTime": 10.32,
+    "endTime": 13.66,
+    "fullText": "miles is an utterly insignificant little blue-green planet whose",
+    "words": [
+      {
+        "text": "miles",
+        "start": 10.32,
+        "end": 10.68
+      },
+      {
+        "text": "is",
+        "start": 10.68,
+        "end": 10.92
+      },
+      {
+        "text": "an",
+        "start": 10.92,
+        "end": 11.02
+      },
+      {
+        "text": "utterly",
+        "start": 11.02,
+        "end": 11.32
+      },
+      {
+        "text": "insignificant",
+        "start": 11.32,
+        "end": 11.9
+      },
+      {
+        "text": "little",
+        "start": 11.9,
+        "end": 12.36
+      },
+      {
+        "text": "blue-green",
+        "start": 12.36,
+        "end": 12.94
+      },
+      {
+        "text": "planet",
+        "start": 12.94,
+        "end": 13.36
+      },
+      {
+        "text": "whose",
+        "start": 13.36,
+        "end": 13.66
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "startTime": 13.66,
+    "endTime": 16.96,
+    "fullText": "ape, descended life forms are so amazingly primitive that",
+    "words": [
+      {
+        "text": "ape,",
+        "start": 13.66,
+        "end": 14.0
+      },
+      {
+        "text": "descended",
+        "start": 14.26,
+        "end": 14.58
+      },
+      {
+        "text": "life",
+        "start": 14.58,
+        "end": 14.96
+      },
+      {
+        "text": "forms",
+        "start": 14.96,
+        "end": 15.24
+      },
+      {
+        "text": "are",
+        "start": 15.24,
+        "end": 15.44
+      },
+      {
+        "text": "so",
+        "start": 15.44,
+        "end": 15.64
+      },
+      {
+        "text": "amazingly",
+        "start": 15.64,
+        "end": 16.18
+      },
+      {
+        "text": "primitive",
+        "start": 16.18,
+        "end": 16.64
+      },
+      {
+        "text": "that",
+        "start": 16.64,
+        "end": 16.96
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "startTime": 16.96,
+    "endTime": 19.12,
+    "fullText": "they still think digital watches are a pretty neat",
+    "words": [
+      {
+        "text": "they",
+        "start": 16.96,
+        "end": 17.08
+      },
+      {
+        "text": "still",
+        "start": 17.08,
+        "end": 17.32
+      },
+      {
+        "text": "think",
+        "start": 17.32,
+        "end": 17.58
+      },
+      {
+        "text": "digital",
+        "start": 17.58,
+        "end": 17.84
+      },
+      {
+        "text": "watches",
+        "start": 17.84,
+        "end": 18.28
+      },
+      {
+        "text": "are",
+        "start": 18.28,
+        "end": 18.52
+      },
+      {
+        "text": "a",
+        "start": 18.52,
+        "end": 18.62
+      },
+      {
+        "text": "pretty",
+        "start": 18.62,
+        "end": 18.88
+      },
+      {
+        "text": "neat",
+        "start": 18.88,
+        "end": 19.12
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "startTime": 19.12,
+    "endTime": 22.34,
+    "fullText": "idea. idea. This planet has, or rather had,",
+    "words": [
+      {
+        "text": "idea.",
+        "start": 19.12,
+        "end": 19.48
+      },
+      {
+        "text": "idea.",
+        "start": 19.58,
+        "end": 20.02
+      },
+      {
+        "text": "This",
+        "start": 20.02,
+        "end": 20.28
+      },
+      {
+        "text": "planet",
+        "start": 20.28,
+        "end": 20.6
+      },
+      {
+        "text": "has,",
+        "start": 20.6,
+        "end": 21.24
+      },
+      {
+        "text": "or",
+        "start": 21.24,
+        "end": 21.58
+      },
+      {
+        "text": "rather",
+        "start": 21.58,
+        "end": 21.8
+      },
+      {
+        "text": "had,",
+        "start": 21.8,
+        "end": 22.34
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "startTime": 22.34,
+    "endTime": 24.22,
+    "fullText": "a problem, which was this.",
+    "words": [
+      {
+        "text": "a",
+        "start": 22.34,
+        "end": 22.66
+      },
+      {
+        "text": "problem,",
+        "start": 22.66,
+        "end": 23.22
+      },
+      {
+        "text": "which",
+        "start": 23.22,
+        "end": 23.54
+      },
+      {
+        "text": "was",
+        "start": 23.54,
+        "end": 23.68
+      },
+      {
+        "text": "this.",
+        "start": 23.68,
+        "end": 24.22
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "startTime": 24.22,
+    "endTime": 26.34,
+    "fullText": "Most of the people on it were unhappy for",
+    "words": [
+      {
+        "text": "Most",
+        "start": 24.22,
+        "end": 24.72
+      },
+      {
+        "text": "of",
+        "start": 24.72,
+        "end": 24.84
+      },
+      {
+        "text": "the",
+        "start": 24.84,
+        "end": 24.96
+      },
+      {
+        "text": "people",
+        "start": 24.96,
+        "end": 25.2
+      },
+      {
+        "text": "on",
+        "start": 25.2,
+        "end": 25.44
+      },
+      {
+        "text": "it",
+        "start": 25.44,
+        "end": 25.5
+      },
+      {
+        "text": "were",
+        "start": 25.5,
+        "end": 25.62
+      },
+      {
+        "text": "unhappy",
+        "start": 25.14,
+        "end": 26.08
+      },
+      {
+        "text": "for",
+        "start": 26.08,
+        "end": 26.34
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "startTime": 26.34,
+    "endTime": 27.6,
+    "fullText": "pretty much of the time.",
+    "words": [
+      {
+        "text": "pretty",
+        "start": 26.34,
+        "end": 26.58
+      },
+      {
+        "text": "much",
+        "start": 26.58,
+        "end": 26.8
+      },
+      {
+        "text": "of",
+        "start": 26.8,
+        "end": 26.94
+      },
+      {
+        "text": "the",
+        "start": 26.94,
+        "end": 27.06
+      },
+      {
+        "text": "time.",
+        "start": 27.06,
+        "end": 27.6
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "startTime": 27.6,
+    "endTime": 30.12,
+    "fullText": "Many solutions were suggested for this problem,",
+    "words": [
+      {
+        "text": "Many",
+        "start": 27.6,
+        "end": 28.1
+      },
+      {
+        "text": "solutions",
+        "start": 28.1,
+        "end": 28.52
+      },
+      {
+        "text": "were",
+        "start": 28.52,
+        "end": 28.76
+      },
+      {
+        "text": "suggested",
+        "start": 28.76,
+        "end": 29.18
+      },
+      {
+        "text": "for",
+        "start": 29.18,
+        "end": 29.44
+      },
+      {
+        "text": "this",
+        "start": 29.44,
+        "end": 29.6
+      },
+      {
+        "text": "problem,",
+        "start": 29.6,
+        "end": 30.12
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "startTime": 29.96,
+    "endTime": 32.4,
+    "fullText": "but most of these were largely concerned with the",
+    "words": [
+      {
+        "text": "but",
+        "start": 29.96,
+        "end": 30.5
+      },
+      {
+        "text": "most",
+        "start": 30.5,
+        "end": 30.74
+      },
+      {
+        "text": "of",
+        "start": 30.74,
+        "end": 30.86
+      },
+      {
+        "text": "these",
+        "start": 30.86,
+        "end": 31.0
+      },
+      {
+        "text": "were",
+        "start": 31.0,
+        "end": 31.14
+      },
+      {
+        "text": "largely",
+        "start": 31.14,
+        "end": 31.54
+      },
+      {
+        "text": "concerned",
+        "start": 31.54,
+        "end": 32.08
+      },
+      {
+        "text": "with",
+        "start": 32.08,
+        "end": 32.28
+      },
+      {
+        "text": "the",
+        "start": 32.28,
+        "end": 32.4
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "startTime": 32.4,
+    "endTime": 34.94,
+    "fullText": "movements of small green pieces of paper,",
+    "words": [
+      {
+        "text": "movements",
+        "start": 32.4,
+        "end": 32.76
+      },
+      {
+        "text": "of",
+        "start": 32.76,
+        "end": 32.96
+      },
+      {
+        "text": "small",
+        "start": 32.96,
+        "end": 33.32
+      },
+      {
+        "text": "green",
+        "start": 33.32,
+        "end": 33.62
+      },
+      {
+        "text": "pieces",
+        "start": 33.62,
+        "end": 34.06
+      },
+      {
+        "text": "of",
+        "start": 34.06,
+        "end": 34.28
+      },
+      {
+        "text": "paper,",
+        "start": 34.28,
+        "end": 34.94
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "startTime": 34.62,
+    "endTime": 36.72,
+    "fullText": "which is odd because on the whole it wasn't",
+    "words": [
+      {
+        "text": "which",
+        "start": 34.62,
+        "end": 35.16
+      },
+      {
+        "text": "is",
+        "start": 35.16,
+        "end": 35.28
+      },
+      {
+        "text": "odd",
+        "start": 35.28,
+        "end": 35.5
+      },
+      {
+        "text": "because",
+        "start": 35.5,
+        "end": 35.8
+      },
+      {
+        "text": "on",
+        "start": 35.8,
+        "end": 35.98
+      },
+      {
+        "text": "the",
+        "start": 35.98,
+        "end": 36.1
+      },
+      {
+        "text": "whole",
+        "start": 36.1,
+        "end": 36.32
+      },
+      {
+        "text": "it",
+        "start": 36.32,
+        "end": 36.52
+      },
+      {
+        "text": "wasn't",
+        "start": 36.52,
+        "end": 36.72
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "startTime": 36.72,
+    "endTime": 39.68,
+    "fullText": "the small green pieces of paper that were unhappy.",
+    "words": [
+      {
+        "text": "the",
+        "start": 36.72,
+        "end": 36.88
+      },
+      {
+        "text": "small",
+        "start": 36.88,
+        "end": 37.12
+      },
+      {
+        "text": "green",
+        "start": 37.12,
+        "end": 37.46
+      },
+      {
+        "text": "pieces",
+        "start": 37.46,
+        "end": 37.88
+      },
+      {
+        "text": "of",
+        "start": 37.88,
+        "end": 38.1
+      },
+      {
+        "text": "paper",
+        "start": 38.1,
+        "end": 38.4
+      },
+      {
+        "text": "that",
+        "start": 38.4,
+        "end": 38.66
+      },
+      {
+        "text": "were",
+        "start": 38.66,
+        "end": 38.8
+      },
+      {
+        "text": "unhappy.",
+        "start": 38.4,
+        "end": 39.68
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "startTime": 39.68,
+    "endTime": 41.18,
+    "fullText": "And so the problem remained.",
+    "words": [
+      {
+        "text": "And",
+        "start": 39.68,
+        "end": 39.94
+      },
+      {
+        "text": "so",
+        "start": 39.94,
+        "end": 40.08
+      },
+      {
+        "text": "the",
+        "start": 40.08,
+        "end": 40.22
+      },
+      {
+        "text": "problem",
+        "start": 40.22,
+        "end": 40.56
+      },
+      {
+        "text": "remained.",
+        "start": 40.56,
+        "end": 41.18
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "startTime": 41.18,
+    "endTime": 43.62,
+    "fullText": "Lots of the people were mean, and most of",
+    "words": [
+      {
+        "text": "Lots",
+        "start": 41.18,
+        "end": 41.62
+      },
+      {
+        "text": "of",
+        "start": 41.62,
+        "end": 41.78
+      },
+      {
+        "text": "the",
+        "start": 41.78,
+        "end": 41.9
+      },
+      {
+        "text": "people",
+        "start": 41.9,
+        "end": 42.16
+      },
+      {
+        "text": "were",
+        "start": 42.16,
+        "end": 42.36
+      },
+      {
+        "text": "mean,",
+        "start": 42.36,
+        "end": 42.84
+      },
+      {
+        "text": "and",
+        "start": 42.84,
+        "end": 43.26
+      },
+      {
+        "text": "most",
+        "start": 43.26,
+        "end": 43.46
+      },
+      {
+        "text": "of",
+        "start": 43.46,
+        "end": 43.62
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "startTime": 43.62,
+    "endTime": 46.56,
+    "fullText": "them were miserable, even the ones with digital watches.",
+    "words": [
+      {
+        "text": "them",
+        "start": 43.62,
+        "end": 43.74
+      },
+      {
+        "text": "were",
+        "start": 43.24,
+        "end": 43.9
+      },
+      {
+        "text": "miserable,",
+        "start": 43.9,
+        "end": 44.5
+      },
+      {
+        "text": "even",
+        "start": 44.5,
+        "end": 44.9
+      },
+      {
+        "text": "the",
+        "start": 44.9,
+        "end": 45.06
+      },
+      {
+        "text": "ones",
+        "start": 45.06,
+        "end": 45.22
+      },
+      {
+        "text": "with",
+        "start": 45.22,
+        "end": 45.44
+      },
+      {
+        "text": "digital",
+        "start": 45.44,
+        "end": 45.78
+      },
+      {
+        "text": "watches.",
+        "start": 45.78,
+        "end": 46.56
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "startTime": 46.56,
+    "endTime": 49.3,
+    "fullText": "Many were increasingly of the opinion that they'd all",
+    "words": [
+      {
+        "text": "Many",
+        "start": 46.56,
+        "end": 47.08
+      },
+      {
+        "text": "were",
+        "start": 47.08,
+        "end": 47.22
+      },
+      {
+        "text": "increasingly",
+        "start": 47.22,
+        "end": 47.82
+      },
+      {
+        "text": "of",
+        "start": 47.82,
+        "end": 48.08
+      },
+      {
+        "text": "the",
+        "start": 48.08,
+        "end": 48.2
+      },
+      {
+        "text": "opinion",
+        "start": 48.2,
+        "end": 48.62
+      },
+      {
+        "text": "that",
+        "start": 48.72,
+        "end": 48.88
+      },
+      {
+        "text": "they'd",
+        "start": 48.88,
+        "end": 49.04
+      },
+      {
+        "text": "all",
+        "start": 49.04,
+        "end": 49.3
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "startTime": 49.3,
+    "endTime": 51.24,
+    "fullText": "made a big mistake in coming down from the",
+    "words": [
+      {
+        "text": "made",
+        "start": 49.3,
+        "end": 49.44
+      },
+      {
+        "text": "a",
+        "start": 49.44,
+        "end": 49.58
+      },
+      {
+        "text": "big",
+        "start": 49.58,
+        "end": 49.7
+      },
+      {
+        "text": "mistake",
+        "start": 49.7,
+        "end": 50.12
+      },
+      {
+        "text": "in",
+        "start": 50.12,
+        "end": 50.36
+      },
+      {
+        "text": "coming",
+        "start": 50.36,
+        "end": 50.62
+      },
+      {
+        "text": "down",
+        "start": 50.62,
+        "end": 50.9
+      },
+      {
+        "text": "from",
+        "start": 50.9,
+        "end": 51.14
+      },
+      {
+        "text": "the",
+        "start": 51.14,
+        "end": 51.24
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "startTime": 51.24,
+    "endTime": 52.58,
+    "fullText": "trees in the first place.",
+    "words": [
+      {
+        "text": "trees",
+        "start": 51.24,
+        "end": 51.5
+      },
+      {
+        "text": "in",
+        "start": 51.5,
+        "end": 51.7
+      },
+      {
+        "text": "the",
+        "start": 51.7,
+        "end": 51.8
+      },
+      {
+        "text": "first",
+        "start": 51.8,
+        "end": 52.0
+      },
+      {
+        "text": "place.",
+        "start": 52.0,
+        "end": 52.58
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "startTime": 52.96,
+    "endTime": 54.58,
+    "fullText": "And some said that even the trees had been",
+    "words": [
+      {
+        "text": "And",
+        "start": 52.96,
+        "end": 53.12
+      },
+      {
+        "text": "some",
+        "start": 53.12,
+        "end": 53.28
+      },
+      {
+        "text": "said",
+        "start": 53.28,
+        "end": 53.54
+      },
+      {
+        "text": "that",
+        "start": 53.54,
+        "end": 53.68
+      },
+      {
+        "text": "even",
+        "start": 53.68,
+        "end": 53.9
+      },
+      {
+        "text": "the",
+        "start": 53.9,
+        "end": 54.04
+      },
+      {
+        "text": "trees",
+        "start": 54.04,
+        "end": 54.3
+      },
+      {
+        "text": "had",
+        "start": 54.3,
+        "end": 54.48
+      },
+      {
+        "text": "been",
+        "start": 54.48,
+        "end": 54.58
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "startTime": 54.58,
+    "endTime": 56.74,
+    "fullText": "a bad move, and that no one should ever",
+    "words": [
+      {
+        "text": "a",
+        "start": 54.58,
+        "end": 54.72
+      },
+      {
+        "text": "bad",
+        "start": 54.72,
+        "end": 54.9
+      },
+      {
+        "text": "move,",
+        "start": 54.9,
+        "end": 55.42
+      },
+      {
+        "text": "and",
+        "start": 55.42,
+        "end": 55.76
+      },
+      {
+        "text": "that",
+        "start": 55.76,
+        "end": 55.9
+      },
+      {
+        "text": "no",
+        "start": 55.9,
+        "end": 56.16
+      },
+      {
+        "text": "one",
+        "start": 56.16,
+        "end": 56.3
+      },
+      {
+        "text": "should",
+        "start": 56.3,
+        "end": 56.52
+      },
+      {
+        "text": "ever",
+        "start": 56.52,
+        "end": 56.74
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "startTime": 56.74,
+    "endTime": 57.68,
+    "fullText": "have left the oceans.",
+    "words": [
+      {
+        "text": "have",
+        "start": 56.74,
+        "end": 56.96
+      },
+      {
+        "text": "left",
+        "start": 56.96,
+        "end": 57.16
+      },
+      {
+        "text": "the",
+        "start": 57.16,
+        "end": 57.36
+      },
+      {
+        "text": "oceans.",
+        "start": 57.1,
+        "end": 57.68
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "startTime": 57.68,
+    "endTime": 61.6,
+    "fullText": "And then, one Thursday, nearly 2,000 years after one",
+    "words": [
+      {
+        "text": "And",
+        "start": 57.68,
+        "end": 58.5
+      },
+      {
+        "text": "then,",
+        "start": 58.5,
+        "end": 58.88
+      },
+      {
+        "text": "one",
+        "start": 58.88,
+        "end": 59.2
+      },
+      {
+        "text": "Thursday,",
+        "start": 59.2,
+        "end": 59.8
+      },
+      {
+        "text": "nearly",
+        "start": 59.8,
+        "end": 60.04
+      },
+      {
+        "text": "2,000",
+        "start": 60.04,
+        "end": 60.74
+      },
+      {
+        "text": "years",
+        "start": 60.74,
+        "end": 61.02
+      },
+      {
+        "text": "after",
+        "start": 61.02,
+        "end": 61.36
+      },
+      {
+        "text": "one",
+        "start": 61.36,
+        "end": 61.6
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "startTime": 61.6,
+    "endTime": 63.46,
+    "fullText": "man had been nailed to a tree for saying",
+    "words": [
+      {
+        "text": "man",
+        "start": 61.6,
+        "end": 61.86
+      },
+      {
+        "text": "had",
+        "start": 61.86,
+        "end": 62.0
+      },
+      {
+        "text": "been",
+        "start": 62.0,
+        "end": 62.1
+      },
+      {
+        "text": "nailed",
+        "start": 62.1,
+        "end": 62.36
+      },
+      {
+        "text": "to",
+        "start": 62.36,
+        "end": 62.56
+      },
+      {
+        "text": "a",
+        "start": 62.56,
+        "end": 62.68
+      },
+      {
+        "text": "tree",
+        "start": 62.68,
+        "end": 62.92
+      },
+      {
+        "text": "for",
+        "start": 62.92,
+        "end": 63.18
+      },
+      {
+        "text": "saying",
+        "start": 63.18,
+        "end": 63.46
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "startTime": 63.02,
+    "endTime": 65.04,
+    "fullText": "how great it would be to be nice to",
+    "words": [
+      {
+        "text": "how",
+        "start": 63.02,
+        "end": 63.72
+      },
+      {
+        "text": "great",
+        "start": 63.72,
+        "end": 64.02
+      },
+      {
+        "text": "it",
+        "start": 64.02,
+        "end": 64.18
+      },
+      {
+        "text": "would",
+        "start": 64.18,
+        "end": 64.3
+      },
+      {
+        "text": "be",
+        "start": 64.3,
+        "end": 64.38
+      },
+      {
+        "text": "to",
+        "start": 64.38,
+        "end": 64.48
+      },
+      {
+        "text": "be",
+        "start": 64.48,
+        "end": 64.62
+      },
+      {
+        "text": "nice",
+        "start": 64.62,
+        "end": 64.9
+      },
+      {
+        "text": "to",
+        "start": 64.9,
+        "end": 65.04
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "startTime": 65.04,
+    "endTime": 66.3,
+    "fullText": "people for a change.",
+    "words": [
+      {
+        "text": "people",
+        "start": 65.04,
+        "end": 65.32
+      },
+      {
+        "text": "for",
+        "start": 65.32,
+        "end": 65.54
+      },
+      {
+        "text": "a",
+        "start": 65.54,
+        "end": 65.66
+      },
+      {
+        "text": "change.",
+        "start": 65.66,
+        "end": 66.3
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "startTime": 66.3,
+    "endTime": 68.5,
+    "fullText": "One girl sitting on her own in a small",
+    "words": [
+      {
+        "text": "One",
+        "start": 66.3,
+        "end": 66.88
+      },
+      {
+        "text": "girl",
+        "start": 66.88,
+        "end": 67.14
+      },
+      {
+        "text": "sitting",
+        "start": 67.14,
+        "end": 67.42
+      },
+      {
+        "text": "on",
+        "start": 67.42,
+        "end": 67.64
+      },
+      {
+        "text": "her",
+        "start": 67.64,
+        "end": 67.74
+      },
+      {
+        "text": "own",
+        "start": 67.74,
+        "end": 67.96
+      },
+      {
+        "text": "in",
+        "start": 67.96,
+        "end": 68.16
+      },
+      {
+        "text": "a",
+        "start": 68.16,
+        "end": 68.24
+      },
+      {
+        "text": "small",
+        "start": 68.24,
+        "end": 68.5
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "startTime": 68.06,
+    "endTime": 71.46,
+    "fullText": "cafe in Rickmansworth suddenly realized what it was that",
+    "words": [
+      {
+        "text": "cafe",
+        "start": 68.06,
+        "end": 68.9
+      },
+      {
+        "text": "in",
+        "start": 68.9,
+        "end": 69.32
+      },
+      {
+        "text": "Rickmansworth",
+        "start": 69.32,
+        "end": 69.84
+      },
+      {
+        "text": "suddenly",
+        "start": 69.84,
+        "end": 70.28
+      },
+      {
+        "text": "realized",
+        "start": 70.28,
+        "end": 70.86
+      },
+      {
+        "text": "what",
+        "start": 70.86,
+        "end": 71.1
+      },
+      {
+        "text": "it",
+        "start": 71.1,
+        "end": 71.2
+      },
+      {
+        "text": "was",
+        "start": 71.2,
+        "end": 71.3
+      },
+      {
+        "text": "that",
+        "start": 71.3,
+        "end": 71.46
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "startTime": 71.46,
+    "endTime": 73.28,
+    "fullText": "had been going wrong all this time,",
+    "words": [
+      {
+        "text": "had",
+        "start": 71.46,
+        "end": 71.52
+      },
+      {
+        "text": "been",
+        "start": 71.52,
+        "end": 71.66
+      },
+      {
+        "text": "going",
+        "start": 71.66,
+        "end": 71.94
+      },
+      {
+        "text": "wrong",
+        "start": 71.94,
+        "end": 72.36
+      },
+      {
+        "text": "all",
+        "start": 72.36,
+        "end": 72.58
+      },
+      {
+        "text": "this",
+        "start": 72.58,
+        "end": 72.76
+      },
+      {
+        "text": "time,",
+        "start": 72.76,
+        "end": 73.28
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "startTime": 73.54,
+    "endTime": 75.48,
+    "fullText": "and she finally knew how the world could be",
+    "words": [
+      {
+        "text": "and",
+        "start": 73.54,
+        "end": 73.66
+      },
+      {
+        "text": "she",
+        "start": 73.66,
+        "end": 73.8
+      },
+      {
+        "text": "finally",
+        "start": 73.8,
+        "end": 74.18
+      },
+      {
+        "text": "knew",
+        "start": 74.18,
+        "end": 74.46
+      },
+      {
+        "text": "how",
+        "start": 74.46,
+        "end": 74.66
+      },
+      {
+        "text": "the",
+        "start": 74.66,
+        "end": 74.78
+      },
+      {
+        "text": "world",
+        "start": 74.78,
+        "end": 75.08
+      },
+      {
+        "text": "could",
+        "start": 75.08,
+        "end": 75.34
+      },
+      {
+        "text": "be",
+        "start": 75.34,
+        "end": 75.48
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "startTime": 75.48,
+    "endTime": 77.44,
+    "fullText": "made a good and happy place.",
+    "words": [
+      {
+        "text": "made",
+        "start": 75.48,
+        "end": 75.66
+      },
+      {
+        "text": "a",
+        "start": 75.66,
+        "end": 75.8
+      },
+      {
+        "text": "good",
+        "start": 75.8,
+        "end": 75.98
+      },
+      {
+        "text": "and",
+        "start": 75.98,
+        "end": 76.2
+      },
+      {
+        "text": "happy",
+        "start": 76.2,
+        "end": 76.48
+      },
+      {
+        "text": "place.",
+        "start": 76.48,
+        "end": 77.44
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "startTime": 77.44,
+    "endTime": 79.82,
+    "fullText": "This time it was right, It would work and",
+    "words": [
+      {
+        "text": "This",
+        "start": 77.44,
+        "end": 77.68
+      },
+      {
+        "text": "time",
+        "start": 77.68,
+        "end": 77.9
+      },
+      {
+        "text": "it",
+        "start": 77.9,
+        "end": 78.06
+      },
+      {
+        "text": "was",
+        "start": 78.06,
+        "end": 78.16
+      },
+      {
+        "text": "right,",
+        "start": 78.16,
+        "end": 78.64
+      },
+      {
+        "text": "It",
+        "start": 78.82,
+        "end": 78.94
+      },
+      {
+        "text": "would",
+        "start": 78.94,
+        "end": 79.04
+      },
+      {
+        "text": "work",
+        "start": 79.04,
+        "end": 79.34
+      },
+      {
+        "text": "and",
+        "start": 79.34,
+        "end": 79.82
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "startTime": 79.82,
+    "endTime": 81.8,
+    "fullText": "no one would have to get nailed to anything.",
+    "words": [
+      {
+        "text": "no",
+        "start": 79.82,
+        "end": 80.0
+      },
+      {
+        "text": "one",
+        "start": 80.0,
+        "end": 80.16
+      },
+      {
+        "text": "would",
+        "start": 80.16,
+        "end": 80.34
+      },
+      {
+        "text": "have",
+        "start": 80.34,
+        "end": 80.46
+      },
+      {
+        "text": "to",
+        "start": 80.46,
+        "end": 80.66
+      },
+      {
+        "text": "get",
+        "start": 80.66,
+        "end": 80.76
+      },
+      {
+        "text": "nailed",
+        "start": 80.76,
+        "end": 81.02
+      },
+      {
+        "text": "to",
+        "start": 81.02,
+        "end": 81.2
+      },
+      {
+        "text": "anything.",
+        "start": 81.2,
+        "end": 81.8
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "startTime": 82.18,
+    "endTime": 84.82,
+    "fullText": "Sadly, however, before she could get to a phone",
+    "words": [
+      {
+        "text": "Sadly,",
+        "start": 82.18,
+        "end": 82.48
+      },
+      {
+        "text": "however,",
+        "start": 82.48,
+        "end": 83.46
+      },
+      {
+        "text": "before",
+        "start": 83.46,
+        "end": 83.74
+      },
+      {
+        "text": "she",
+        "start": 83.74,
+        "end": 83.98
+      },
+      {
+        "text": "could",
+        "start": 83.98,
+        "end": 84.14
+      },
+      {
+        "text": "get",
+        "start": 84.14,
+        "end": 84.3
+      },
+      {
+        "text": "to",
+        "start": 84.3,
+        "end": 84.44
+      },
+      {
+        "text": "a",
+        "start": 84.44,
+        "end": 84.58
+      },
+      {
+        "text": "phone",
+        "start": 84.58,
+        "end": 84.82
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "startTime": 84.82,
+    "endTime": 88.24,
+    "fullText": "to tell anyone about it, a terribly stupid catastrophe",
+    "words": [
+      {
+        "text": "to",
+        "start": 84.82,
+        "end": 85.02
+      },
+      {
+        "text": "tell",
+        "start": 85.02,
+        "end": 85.2
+      },
+      {
+        "text": "anyone",
+        "start": 85.2,
+        "end": 85.58
+      },
+      {
+        "text": "about",
+        "start": 85.58,
+        "end": 86.26
+      },
+      {
+        "text": "it,",
+        "start": 86.26,
+        "end": 86.56
+      },
+      {
+        "text": "a",
+        "start": 86.82,
+        "end": 86.92
+      },
+      {
+        "text": "terribly",
+        "start": 86.92,
+        "end": 87.28
+      },
+      {
+        "text": "stupid",
+        "start": 87.28,
+        "end": 87.66
+      },
+      {
+        "text": "catastrophe",
+        "start": 87.66,
+        "end": 88.24
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "startTime": 88.24,
+    "endTime": 90.64,
+    "fullText": "occurred and the idea was lost forever.",
+    "words": [
+      {
+        "text": "occurred",
+        "start": 88.24,
+        "end": 88.72
+      },
+      {
+        "text": "and",
+        "start": 88.72,
+        "end": 89.28
+      },
+      {
+        "text": "the",
+        "start": 89.28,
+        "end": 89.42
+      },
+      {
+        "text": "idea",
+        "start": 89.42,
+        "end": 89.76
+      },
+      {
+        "text": "was",
+        "start": 89.76,
+        "end": 90.04
+      },
+      {
+        "text": "lost",
+        "start": 90.04,
+        "end": 90.3
+      },
+      {
+        "text": "forever.",
+        "start": 90.3,
+        "end": 90.64
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "startTime": 91.24,
+    "endTime": 92.28,
+    "fullText": "This is not her story.",
+    "words": [
+      {
+        "text": "This",
+        "start": 91.24,
+        "end": 91.46
+      },
+      {
+        "text": "is",
+        "start": 91.46,
+        "end": 91.6
+      },
+      {
+        "text": "not",
+        "start": 91.6,
+        "end": 91.76
+      },
+      {
+        "text": "her",
+        "start": 91.76,
+        "end": 91.9
+      },
+      {
+        "text": "story.",
+        "start": 91.9,
+        "end": 92.28
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "startTime": 92.78,
+    "endTime": 94.32,
+    "fullText": "But it is the story of that terrible,",
+    "words": [
+      {
+        "text": "But",
+        "start": 92.78,
+        "end": 92.96
+      },
+      {
+        "text": "it",
+        "start": 92.96,
+        "end": 93.0
+      },
+      {
+        "text": "is",
+        "start": 93.0,
+        "end": 93.12
+      },
+      {
+        "text": "the",
+        "start": 93.12,
+        "end": 93.22
+      },
+      {
+        "text": "story",
+        "start": 93.22,
+        "end": 93.48
+      },
+      {
+        "text": "of",
+        "start": 93.48,
+        "end": 93.72
+      },
+      {
+        "text": "that",
+        "start": 93.72,
+        "end": 93.88
+      },
+      {
+        "text": "terrible,",
+        "start": 93.88,
+        "end": 94.32
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "startTime": 94.32,
+    "endTime": 96.68,
+    "fullText": "stupid catastrophe and some of its consequences.",
+    "words": [
+      {
+        "text": "stupid",
+        "start": 94.32,
+        "end": 94.7
+      },
+      {
+        "text": "catastrophe",
+        "start": 94.7,
+        "end": 95.22
+      },
+      {
+        "text": "and",
+        "start": 95.22,
+        "end": 95.74
+      },
+      {
+        "text": "some",
+        "start": 95.74,
+        "end": 95.94
+      },
+      {
+        "text": "of",
+        "start": 95.94,
+        "end": 96.06
+      },
+      {
+        "text": "its",
+        "start": 96.06,
+        "end": 96.16
+      },
+      {
+        "text": "consequences.",
+        "start": 96.16,
+        "end": 96.68
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "startTime": 97.48,
+    "endTime": 99.06,
+    "fullText": "It is also the story of a book,",
+    "words": [
+      {
+        "text": "It",
+        "start": 97.48,
+        "end": 97.62
+      },
+      {
+        "text": "is",
+        "start": 97.62,
+        "end": 97.72
+      },
+      {
+        "text": "also",
+        "start": 97.72,
+        "end": 97.94
+      },
+      {
+        "text": "the",
+        "start": 97.94,
+        "end": 98.14
+      },
+      {
+        "text": "story",
+        "start": 98.14,
+        "end": 98.36
+      },
+      {
+        "text": "of",
+        "start": 98.36,
+        "end": 98.6
+      },
+      {
+        "text": "a",
+        "start": 98.6,
+        "end": 98.72
+      },
+      {
+        "text": "book,",
+        "start": 98.72,
+        "end": 99.06
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "startTime": 99.06,
+    "endTime": 101.68,
+    "fullText": "a book called The Hitchhiker's Guide to the Galaxy,",
+    "words": [
+      {
+        "text": "a",
+        "start": 99.06,
+        "end": 99.38
+      },
+      {
+        "text": "book",
+        "start": 99.38,
+        "end": 99.54
+      },
+      {
+        "text": "called",
+        "start": 99.54,
+        "end": 99.78
+      },
+      {
+        "text": "The",
+        "start": 99.78,
+        "end": 99.96
+      },
+      {
+        "text": "Hitchhiker's",
+        "start": 99.96,
+        "end": 100.52
+      },
+      {
+        "text": "Guide",
+        "start": 100.52,
+        "end": 100.74
+      },
+      {
+        "text": "to",
+        "start": 100.74,
+        "end": 100.94
+      },
+      {
+        "text": "the",
+        "start": 100.94,
+        "end": 101.02
+      },
+      {
+        "text": "Galaxy,",
+        "start": 101.02,
+        "end": 101.68
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "startTime": 100.96,
+    "endTime": 104.08,
+    "fullText": "not an Earth book, never published on Earth,",
+    "words": [
+      {
+        "text": "not",
+        "start": 100.96,
+        "end": 102.0
+      },
+      {
+        "text": "an",
+        "start": 102.0,
+        "end": 102.16
+      },
+      {
+        "text": "Earth",
+        "start": 102.16,
+        "end": 102.3
+      },
+      {
+        "text": "book,",
+        "start": 102.3,
+        "end": 102.72
+      },
+      {
+        "text": "never",
+        "start": 102.72,
+        "end": 103.16
+      },
+      {
+        "text": "published",
+        "start": 103.16,
+        "end": 103.48
+      },
+      {
+        "text": "on",
+        "start": 103.48,
+        "end": 103.72
+      },
+      {
+        "text": "Earth,",
+        "start": 103.72,
+        "end": 104.08
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "startTime": 104.08,
+    "endTime": 107.56,
+    "fullText": "and until the terrible catastrophe occurred, never seen or",
+    "words": [
+      {
+        "text": "and",
+        "start": 104.08,
+        "end": 104.44
+      },
+      {
+        "text": "until",
+        "start": 104.44,
+        "end": 104.7
+      },
+      {
+        "text": "the",
+        "start": 104.7,
+        "end": 104.86
+      },
+      {
+        "text": "terrible",
+        "start": 104.86,
+        "end": 105.12
+      },
+      {
+        "text": "catastrophe",
+        "start": 105.12,
+        "end": 105.72
+      },
+      {
+        "text": "occurred,",
+        "start": 105.72,
+        "end": 106.9
+      },
+      {
+        "text": "never",
+        "start": 106.42,
+        "end": 106.92
+      },
+      {
+        "text": "seen",
+        "start": 106.92,
+        "end": 107.32
+      },
+      {
+        "text": "or",
+        "start": 107.32,
+        "end": 107.56
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "startTime": 107.56,
+    "endTime": 109.02,
+    "fullText": "heard of by any Earthman.",
+    "words": [
+      {
+        "text": "heard",
+        "start": 107.56,
+        "end": 107.8
+      },
+      {
+        "text": "of",
+        "start": 107.8,
+        "end": 107.94
+      },
+      {
+        "text": "by",
+        "start": 107.94,
+        "end": 108.06
+      },
+      {
+        "text": "any",
+        "start": 108.06,
+        "end": 108.34
+      },
+      {
+        "text": "Earthman.",
+        "start": 108.34,
+        "end": 109.02
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "startTime": 109.02,
+    "endTime": 111.64,
+    "fullText": "Nevertheless, a wholly remarkable book.",
+    "words": [
+      {
+        "text": "Nevertheless,",
+        "start": 109.02,
+        "end": 110.1
+      },
+      {
+        "text": "a",
+        "start": 110.1,
+        "end": 110.32
+      },
+      {
+        "text": "wholly",
+        "start": 110.32,
+        "end": 110.58
+      },
+      {
+        "text": "remarkable",
+        "start": 110.58,
+        "end": 111.02
+      },
+      {
+        "text": "book.",
+        "start": 111.02,
+        "end": 111.64
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "startTime": 112.04,
+    "endTime": 114.36,
+    "fullText": "In fact, it was probably the most remarkable book",
+    "words": [
+      {
+        "text": "In",
+        "start": 112.04,
+        "end": 112.16
+      },
+      {
+        "text": "fact,",
+        "start": 112.16,
+        "end": 112.44
+      },
+      {
+        "text": "it",
+        "start": 112.44,
+        "end": 112.54
+      },
+      {
+        "text": "was",
+        "start": 112.54,
+        "end": 112.64
+      },
+      {
+        "text": "probably",
+        "start": 112.64,
+        "end": 113.0
+      },
+      {
+        "text": "the",
+        "start": 113.0,
+        "end": 113.28
+      },
+      {
+        "text": "most",
+        "start": 113.28,
+        "end": 113.52
+      },
+      {
+        "text": "remarkable",
+        "start": 113.52,
+        "end": 114.0
+      },
+      {
+        "text": "book",
+        "start": 114.0,
+        "end": 114.36
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "startTime": 114.36,
+    "endTime": 116.5,
+    "fullText": "ever to come out of the great publishing houses",
+    "words": [
+      {
+        "text": "ever",
+        "start": 114.36,
+        "end": 114.64
+      },
+      {
+        "text": "to",
+        "start": 114.64,
+        "end": 114.8
+      },
+      {
+        "text": "come",
+        "start": 114.8,
+        "end": 114.98
+      },
+      {
+        "text": "out",
+        "start": 114.98,
+        "end": 115.14
+      },
+      {
+        "text": "of",
+        "start": 115.14,
+        "end": 115.22
+      },
+      {
+        "text": "the",
+        "start": 115.22,
+        "end": 115.34
+      },
+      {
+        "text": "great",
+        "start": 115.34,
+        "end": 115.62
+      },
+      {
+        "text": "publishing",
+        "start": 115.62,
+        "end": 116.06
+      },
+      {
+        "text": "houses",
+        "start": 116.06,
+        "end": 116.5
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "startTime": 116.24,
+    "endTime": 119.26,
+    "fullText": "of Ursa Minor, of which no Earthman had ever",
+    "words": [
+      {
+        "text": "of",
+        "start": 116.24,
+        "end": 116.78
+      },
+      {
+        "text": "Ursa",
+        "start": 116.78,
+        "end": 117.04
+      },
+      {
+        "text": "Minor,",
+        "start": 117.04,
+        "end": 117.52
+      },
+      {
+        "text": "of",
+        "start": 117.52,
+        "end": 117.84
+      },
+      {
+        "text": "which",
+        "start": 117.84,
+        "end": 117.98
+      },
+      {
+        "text": "no",
+        "start": 117.98,
+        "end": 118.22
+      },
+      {
+        "text": "Earthman",
+        "start": 118.22,
+        "end": 118.7
+      },
+      {
+        "text": "had",
+        "start": 118.7,
+        "end": 118.92
+      },
+      {
+        "text": "ever",
+        "start": 118.92,
+        "end": 119.26
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "startTime": 119.26,
+    "endTime": 121.8,
+    "fullText": "heard either. Not only is it a wholly remarkable",
+    "words": [
+      {
+        "text": "heard",
+        "start": 119.26,
+        "end": 119.5
+      },
+      {
+        "text": "either.",
+        "start": 119.5,
+        "end": 120.1
+      },
+      {
+        "text": "Not",
+        "start": 120.1,
+        "end": 120.56
+      },
+      {
+        "text": "only",
+        "start": 120.56,
+        "end": 120.76
+      },
+      {
+        "text": "is",
+        "start": 120.76,
+        "end": 120.94
+      },
+      {
+        "text": "it",
+        "start": 120.94,
+        "end": 121.02
+      },
+      {
+        "text": "a",
+        "start": 121.02,
+        "end": 121.14
+      },
+      {
+        "text": "wholly",
+        "start": 121.14,
+        "end": 121.36
+      },
+      {
+        "text": "remarkable",
+        "start": 121.36,
+        "end": 121.8
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "startTime": 121.8,
+    "endTime": 124.6,
+    "fullText": "book, it is also a highly successful one.",
+    "words": [
+      {
+        "text": "book,",
+        "start": 121.8,
+        "end": 122.36
+      },
+      {
+        "text": "it",
+        "start": 122.32,
+        "end": 122.7
+      },
+      {
+        "text": "is",
+        "start": 122.7,
+        "end": 122.8
+      },
+      {
+        "text": "also",
+        "start": 122.8,
+        "end": 123.04
+      },
+      {
+        "text": "a",
+        "start": 123.04,
+        "end": 123.22
+      },
+      {
+        "text": "highly",
+        "start": 123.22,
+        "end": 123.5
+      },
+      {
+        "text": "successful",
+        "start": 123.5,
+        "end": 124.06
+      },
+      {
+        "text": "one.",
+        "start": 124.06,
+        "end": 124.6
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "startTime": 124.6,
+    "endTime": 127.56,
+    "fullText": "More popular than the Celestial Home Care Omnibus,",
+    "words": [
+      {
+        "text": "More",
+        "start": 124.6,
+        "end": 125.02
+      },
+      {
+        "text": "popular",
+        "start": 125.02,
+        "end": 125.38
+      },
+      {
+        "text": "than",
+        "start": 125.38,
+        "end": 125.66
+      },
+      {
+        "text": "the",
+        "start": 125.66,
+        "end": 125.78
+      },
+      {
+        "text": "Celestial",
+        "start": 125.78,
+        "end": 126.24
+      },
+      {
+        "text": "Home",
+        "start": 126.24,
+        "end": 126.6
+      },
+      {
+        "text": "Care",
+        "start": 126.6,
+        "end": 126.78
+      },
+      {
+        "text": "Omnibus,",
+        "start": 126.78,
+        "end": 127.56
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "startTime": 127.74,
+    "endTime": 129.84,
+    "fullText": "better selling than 50 More Things to Do and",
+    "words": [
+      {
+        "text": "better",
+        "start": 127.74,
+        "end": 128.0
+      },
+      {
+        "text": "selling",
+        "start": 128.0,
+        "end": 128.28
+      },
+      {
+        "text": "than",
+        "start": 128.28,
+        "end": 128.5
+      },
+      {
+        "text": "50",
+        "start": 128.5,
+        "end": 128.78
+      },
+      {
+        "text": "More",
+        "start": 128.78,
+        "end": 129.02
+      },
+      {
+        "text": "Things",
+        "start": 129.02,
+        "end": 129.3
+      },
+      {
+        "text": "to",
+        "start": 129.3,
+        "end": 129.56
+      },
+      {
+        "text": "Do",
+        "start": 129.56,
+        "end": 129.7
+      },
+      {
+        "text": "and",
+        "start": 129.7,
+        "end": 129.84
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "startTime": 129.84,
+    "endTime": 133.74,
+    "fullText": "Zero Gravity, and more controversial than Ilan collophage trilogy",
+    "words": [
+      {
+        "text": "Zero",
+        "start": 129.84,
+        "end": 130.14
+      },
+      {
+        "text": "Gravity,",
+        "start": 130.14,
+        "end": 130.58
+      },
+      {
+        "text": "and",
+        "start": 130.58,
+        "end": 131.38
+      },
+      {
+        "text": "more",
+        "start": 131.38,
+        "end": 131.54
+      },
+      {
+        "text": "controversial",
+        "start": 131.54,
+        "end": 132.06
+      },
+      {
+        "text": "than",
+        "start": 132.06,
+        "end": 132.44
+      },
+      {
+        "text": "Ilan",
+        "start": 132.44,
+        "end": 132.8
+      },
+      {
+        "text": "collophage",
+        "start": 132.82,
+        "end": 133.34
+      },
+      {
+        "text": "trilogy",
+        "start": 133.34,
+        "end": 133.74
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "startTime": 133.74,
+    "endTime": 136.7,
+    "fullText": "of philosophical blockbusters where God went wrong.",
+    "words": [
+      {
+        "text": "of",
+        "start": 133.74,
+        "end": 134.06
+      },
+      {
+        "text": "philosophical",
+        "start": 134.06,
+        "end": 134.72
+      },
+      {
+        "text": "blockbusters",
+        "start": 134.72,
+        "end": 135.48
+      },
+      {
+        "text": "where",
+        "start": 135.48,
+        "end": 135.72
+      },
+      {
+        "text": "God",
+        "start": 135.72,
+        "end": 135.94
+      },
+      {
+        "text": "went",
+        "start": 135.94,
+        "end": 136.16
+      },
+      {
+        "text": "wrong.",
+        "start": 136.16,
+        "end": 136.7
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "startTime": 136.7,
+    "endTime": 139.1,
+    "fullText": "Some more of God's greatest mistakes, and who is",
+    "words": [
+      {
+        "text": "Some",
+        "start": 136.7,
+        "end": 137.08
+      },
+      {
+        "text": "more",
+        "start": 137.08,
+        "end": 137.26
+      },
+      {
+        "text": "of",
+        "start": 137.26,
+        "end": 137.36
+      },
+      {
+        "text": "God's",
+        "start": 137.36,
+        "end": 137.66
+      },
+      {
+        "text": "greatest",
+        "start": 137.66,
+        "end": 137.96
+      },
+      {
+        "text": "mistakes,",
+        "start": 137.52,
+        "end": 138.76
+      },
+      {
+        "text": "and",
+        "start": 138.76,
+        "end": 138.86
+      },
+      {
+        "text": "who",
+        "start": 138.86,
+        "end": 138.96
+      },
+      {
+        "text": "is",
+        "start": 138.96,
+        "end": 139.1
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "startTime": 139.1,
+    "endTime": 140.4,
+    "fullText": "this God person anyway?",
+    "words": [
+      {
+        "text": "this",
+        "start": 139.1,
+        "end": 139.24
+      },
+      {
+        "text": "God",
+        "start": 139.24,
+        "end": 139.46
+      },
+      {
+        "text": "person",
+        "start": 139.46,
+        "end": 139.78
+      },
+      {
+        "text": "anyway?",
+        "start": 139.78,
+        "end": 140.4
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "startTime": 140.4,
+    "endTime": 142.94,
+    "fullText": "In many of the more relaxed civilizations on the",
+    "words": [
+      {
+        "text": "In",
+        "start": 140.4,
+        "end": 140.88
+      },
+      {
+        "text": "many",
+        "start": 140.88,
+        "end": 141.1
+      },
+      {
+        "text": "of",
+        "start": 141.1,
+        "end": 141.24
+      },
+      {
+        "text": "the",
+        "start": 141.24,
+        "end": 141.36
+      },
+      {
+        "text": "more",
+        "start": 141.36,
+        "end": 141.52
+      },
+      {
+        "text": "relaxed",
+        "start": 141.52,
+        "end": 141.96
+      },
+      {
+        "text": "civilizations",
+        "start": 141.96,
+        "end": 142.3
+      },
+      {
+        "text": "on",
+        "start": 142.3,
+        "end": 142.84
+      },
+      {
+        "text": "the",
+        "start": 142.84,
+        "end": 142.94
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "startTime": 142.48,
+    "endTime": 145.64,
+    "fullText": "outer eastern rim of the galaxy, the Hitchhiker's Guide",
+    "words": [
+      {
+        "text": "outer",
+        "start": 142.48,
+        "end": 143.16
+      },
+      {
+        "text": "eastern",
+        "start": 143.16,
+        "end": 143.54
+      },
+      {
+        "text": "rim",
+        "start": 143.54,
+        "end": 143.76
+      },
+      {
+        "text": "of",
+        "start": 143.76,
+        "end": 143.9
+      },
+      {
+        "text": "the",
+        "start": 143.9,
+        "end": 143.98
+      },
+      {
+        "text": "galaxy,",
+        "start": 143.98,
+        "end": 144.74
+      },
+      {
+        "text": "the",
+        "start": 144.74,
+        "end": 144.84
+      },
+      {
+        "text": "Hitchhiker's",
+        "start": 144.84,
+        "end": 145.4
+      },
+      {
+        "text": "Guide",
+        "start": 145.4,
+        "end": 145.64
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "startTime": 145.64,
+    "endTime": 149.24,
+    "fullText": "has already supplanted the great Encyclopedia Galactica as the",
+    "words": [
+      {
+        "text": "has",
+        "start": 145.64,
+        "end": 145.84
+      },
+      {
+        "text": "already",
+        "start": 145.84,
+        "end": 146.16
+      },
+      {
+        "text": "supplanted",
+        "start": 146.16,
+        "end": 146.74
+      },
+      {
+        "text": "the",
+        "start": 146.74,
+        "end": 146.96
+      },
+      {
+        "text": "great",
+        "start": 146.96,
+        "end": 147.24
+      },
+      {
+        "text": "Encyclopedia",
+        "start": 147.24,
+        "end": 148.1
+      },
+      {
+        "text": "Galactica",
+        "start": 148.16,
+        "end": 148.8
+      },
+      {
+        "text": "as",
+        "start": 148.8,
+        "end": 149.12
+      },
+      {
+        "text": "the",
+        "start": 149.12,
+        "end": 149.24
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "startTime": 149.24,
+    "endTime": 151.88,
+    "fullText": "standard repository of all knowledge and wisdom.",
+    "words": [
+      {
+        "text": "standard",
+        "start": 149.24,
+        "end": 149.64
+      },
+      {
+        "text": "repository",
+        "start": 149.64,
+        "end": 150.18
+      },
+      {
+        "text": "of",
+        "start": 150.18,
+        "end": 150.66
+      },
+      {
+        "text": "all",
+        "start": 150.66,
+        "end": 150.86
+      },
+      {
+        "text": "knowledge",
+        "start": 150.86,
+        "end": 151.2
+      },
+      {
+        "text": "and",
+        "start": 151.2,
+        "end": 151.5
+      },
+      {
+        "text": "wisdom.",
+        "start": 151.5,
+        "end": 151.88
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "startTime": 151.88,
+    "endTime": 154.86,
+    "fullText": "For though it has many omissions and contains much",
+    "words": [
+      {
+        "text": "For",
+        "start": 151.88,
+        "end": 152.58
+      },
+      {
+        "text": "though",
+        "start": 152.58,
+        "end": 152.68
+      },
+      {
+        "text": "it",
+        "start": 152.68,
+        "end": 152.8
+      },
+      {
+        "text": "has",
+        "start": 152.8,
+        "end": 152.94
+      },
+      {
+        "text": "many",
+        "start": 152.94,
+        "end": 153.4
+      },
+      {
+        "text": "omissions",
+        "start": 153.0,
+        "end": 153.9
+      },
+      {
+        "text": "and",
+        "start": 153.9,
+        "end": 154.12
+      },
+      {
+        "text": "contains",
+        "start": 154.12,
+        "end": 154.54
+      },
+      {
+        "text": "much",
+        "start": 154.54,
+        "end": 154.86
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "startTime": 154.86,
+    "endTime": 158.22,
+    "fullText": "that is apocryphal, or at least wildly inaccurate,",
+    "words": [
+      {
+        "text": "that",
+        "start": 154.86,
+        "end": 155.08
+      },
+      {
+        "text": "is",
+        "start": 155.08,
+        "end": 155.2
+      },
+      {
+        "text": "apocryphal,",
+        "start": 155.2,
+        "end": 155.88
+      },
+      {
+        "text": "or",
+        "start": 155.88,
+        "end": 156.38
+      },
+      {
+        "text": "at",
+        "start": 156.38,
+        "end": 156.52
+      },
+      {
+        "text": "least",
+        "start": 156.52,
+        "end": 156.7
+      },
+      {
+        "text": "wildly",
+        "start": 156.7,
+        "end": 157.14
+      },
+      {
+        "text": "inaccurate,",
+        "start": 157.14,
+        "end": 158.22
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "startTime": 158.22,
+    "endTime": 160.96,
+    "fullText": "it scores over the older, more pedestrian work in",
+    "words": [
+      {
+        "text": "it",
+        "start": 158.22,
+        "end": 158.36
+      },
+      {
+        "text": "scores",
+        "start": 158.36,
+        "end": 158.64
+      },
+      {
+        "text": "over",
+        "start": 158.64,
+        "end": 158.94
+      },
+      {
+        "text": "the",
+        "start": 158.94,
+        "end": 159.08
+      },
+      {
+        "text": "older,",
+        "start": 159.14,
+        "end": 159.82
+      },
+      {
+        "text": "more",
+        "start": 159.82,
+        "end": 159.94
+      },
+      {
+        "text": "pedestrian",
+        "start": 159.94,
+        "end": 160.36
+      },
+      {
+        "text": "work",
+        "start": 160.36,
+        "end": 160.76
+      },
+      {
+        "text": "in",
+        "start": 160.76,
+        "end": 160.96
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "startTime": 160.96,
+    "endTime": 164.84,
+    "fullText": "two important respects. First, it is slightly cheaper,",
+    "words": [
+      {
+        "text": "two",
+        "start": 160.96,
+        "end": 161.14
+      },
+      {
+        "text": "important",
+        "start": 161.14,
+        "end": 161.58
+      },
+      {
+        "text": "respects.",
+        "start": 161.58,
+        "end": 162.4
+      },
+      {
+        "text": "First,",
+        "start": 162.4,
+        "end": 163.44
+      },
+      {
+        "text": "it",
+        "start": 163.44,
+        "end": 163.68
+      },
+      {
+        "text": "is",
+        "start": 163.68,
+        "end": 163.78
+      },
+      {
+        "text": "slightly",
+        "start": 163.78,
+        "end": 164.14
+      },
+      {
+        "text": "cheaper,",
+        "start": 164.14,
+        "end": 164.84
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "startTime": 164.84,
+    "endTime": 166.76,
+    "fullText": "and secondly, it has the words don't.",
+    "words": [
+      {
+        "text": "and",
+        "start": 164.84,
+        "end": 165.18
+      },
+      {
+        "text": "secondly,",
+        "start": 165.12,
+        "end": 165.76
+      },
+      {
+        "text": "it",
+        "start": 165.76,
+        "end": 165.8
+      },
+      {
+        "text": "has",
+        "start": 165.8,
+        "end": 165.9
+      },
+      {
+        "text": "the",
+        "start": 165.9,
+        "end": 166.04
+      },
+      {
+        "text": "words",
+        "start": 166.04,
+        "end": 166.32
+      },
+      {
+        "text": "don't.",
+        "start": 166.32,
+        "end": 166.76
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "startTime": 166.76,
+    "endTime": 169.58,
+    "fullText": "Panic inscribed in large friendly letters on its cover.",
+    "words": [
+      {
+        "text": "Panic",
+        "start": 166.76,
+        "end": 167.4
+      },
+      {
+        "text": "inscribed",
+        "start": 167.4,
+        "end": 167.88
+      },
+      {
+        "text": "in",
+        "start": 167.88,
+        "end": 168.04
+      },
+      {
+        "text": "large",
+        "start": 168.04,
+        "end": 168.3
+      },
+      {
+        "text": "friendly",
+        "start": 168.3,
+        "end": 168.6
+      },
+      {
+        "text": "letters",
+        "start": 168.6,
+        "end": 168.96
+      },
+      {
+        "text": "on",
+        "start": 168.96,
+        "end": 169.18
+      },
+      {
+        "text": "its",
+        "start": 169.18,
+        "end": 169.28
+      },
+      {
+        "text": "cover.",
+        "start": 169.28,
+        "end": 169.58
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "startTime": 169.58,
+    "endTime": 172.88,
+    "fullText": "But the story of this terrible, stupid Thursday,",
+    "words": [
+      {
+        "text": "But",
+        "start": 169.58,
+        "end": 170.26
+      },
+      {
+        "text": "the",
+        "start": 170.26,
+        "end": 170.38
+      },
+      {
+        "text": "story",
+        "start": 170.18,
+        "end": 170.68
+      },
+      {
+        "text": "of",
+        "start": 170.68,
+        "end": 170.86
+      },
+      {
+        "text": "this",
+        "start": 170.86,
+        "end": 171.0
+      },
+      {
+        "text": "terrible,",
+        "start": 171.0,
+        "end": 171.7
+      },
+      {
+        "text": "stupid",
+        "start": 171.7,
+        "end": 172.12
+      },
+      {
+        "text": "Thursday,",
+        "start": 172.12,
+        "end": 172.88
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "startTime": 172.88,
+    "endTime": 175.96,
+    "fullText": "the story of its extraordinary consequences, and the story",
+    "words": [
+      {
+        "text": "the",
+        "start": 172.88,
+        "end": 173.02
+      },
+      {
+        "text": "story",
+        "start": 173.02,
+        "end": 173.26
+      },
+      {
+        "text": "of",
+        "start": 173.26,
+        "end": 173.48
+      },
+      {
+        "text": "its",
+        "start": 173.48,
+        "end": 173.6
+      },
+      {
+        "text": "extraordinary",
+        "start": 173.6,
+        "end": 174.12
+      },
+      {
+        "text": "consequences,",
+        "start": 174.12,
+        "end": 174.82
+      },
+      {
+        "text": "and",
+        "start": 174.82,
+        "end": 175.58
+      },
+      {
+        "text": "the",
+        "start": 175.58,
+        "end": 175.68
+      },
+      {
+        "text": "story",
+        "start": 175.68,
+        "end": 175.96
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "startTime": 175.52,
+    "endTime": 179.2,
+    "fullText": "of how these consequences are inextricably intertwined with this",
+    "words": [
+      {
+        "text": "of",
+        "start": 175.52,
+        "end": 176.2
+      },
+      {
+        "text": "how",
+        "start": 176.2,
+        "end": 176.32
+      },
+      {
+        "text": "these",
+        "start": 176.32,
+        "end": 176.52
+      },
+      {
+        "text": "consequences",
+        "start": 176.52,
+        "end": 177.08
+      },
+      {
+        "text": "are",
+        "start": 177.08,
+        "end": 177.5
+      },
+      {
+        "text": "inextricably",
+        "start": 177.5,
+        "end": 178.16
+      },
+      {
+        "text": "intertwined",
+        "start": 178.16,
+        "end": 178.86
+      },
+      {
+        "text": "with",
+        "start": 178.86,
+        "end": 179.02
+      },
+      {
+        "text": "this",
+        "start": 179.02,
+        "end": 179.2
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "startTime": 179.2,
+    "endTime": 181.4,
+    "fullText": "remarkable book begins very simply.",
+    "words": [
+      {
+        "text": "remarkable",
+        "start": 179.2,
+        "end": 179.68
+      },
+      {
+        "text": "book",
+        "start": 179.68,
+        "end": 180.02
+      },
+      {
+        "text": "begins",
+        "start": 180.02,
+        "end": 180.34
+      },
+      {
+        "text": "very",
+        "start": 180.12,
+        "end": 180.78
+      },
+      {
+        "text": "simply.",
+        "start": 180.78,
+        "end": 181.4
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "startTime": 181.4,
+    "endTime": 182.9,
+    "fullText": "It begins with a house.",
+    "words": [
+      {
+        "text": "It",
+        "start": 181.4,
+        "end": 181.84
+      },
+      {
+        "text": "begins",
+        "start": 181.84,
+        "end": 182.14
+      },
+      {
+        "text": "with",
+        "start": 182.14,
+        "end": 182.34
+      },
+      {
+        "text": "a",
+        "start": 182.34,
+        "end": 182.44
+      },
+      {
+        "text": "house.",
+        "start": 182.44,
+        "end": 182.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,4257 @@
+[
+  {
+    "id": 0,
+    "startTime": 0.0,
+    "endTime": 2.16,
+    "fullText": "That night, as the heart of gold was busy",
+    "words": [
+      {
+        "text": "That",
+        "start": 0.0,
+        "end": 0.18
+      },
+      {
+        "text": "night,",
+        "start": 0.18,
+        "end": 0.58
+      },
+      {
+        "text": "as",
+        "start": 0.58,
+        "end": 0.96
+      },
+      {
+        "text": "the",
+        "start": 0.96,
+        "end": 1.1
+      },
+      {
+        "text": "heart",
+        "start": 1.1,
+        "end": 1.3
+      },
+      {
+        "text": "of",
+        "start": 1.3,
+        "end": 1.44
+      },
+      {
+        "text": "gold",
+        "start": 1.44,
+        "end": 1.68
+      },
+      {
+        "text": "was",
+        "start": 1.68,
+        "end": 1.88
+      },
+      {
+        "text": "busy",
+        "start": 1.88,
+        "end": 2.16
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "startTime": 2.16,
+    "endTime": 4.76,
+    "fullText": "putting a few light years between itself and the",
+    "words": [
+      {
+        "text": "putting",
+        "start": 2.16,
+        "end": 2.46
+      },
+      {
+        "text": "a",
+        "start": 2.46,
+        "end": 2.7
+      },
+      {
+        "text": "few",
+        "start": 2.7,
+        "end": 2.88
+      },
+      {
+        "text": "light",
+        "start": 2.88,
+        "end": 3.16
+      },
+      {
+        "text": "years",
+        "start": 3.16,
+        "end": 3.36
+      },
+      {
+        "text": "between",
+        "start": 3.36,
+        "end": 3.7
+      },
+      {
+        "text": "itself",
+        "start": 3.7,
+        "end": 4.2
+      },
+      {
+        "text": "and",
+        "start": 3.76,
+        "end": 4.62
+      },
+      {
+        "text": "the",
+        "start": 4.62,
+        "end": 4.76
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "startTime": 4.76,
+    "endTime": 8.14,
+    "fullText": "horsehead nebula, Zaphod lounged under the small palm tree",
+    "words": [
+      {
+        "text": "horsehead",
+        "start": 4.76,
+        "end": 5.2
+      },
+      {
+        "text": "nebula,",
+        "start": 5.2,
+        "end": 6.04
+      },
+      {
+        "text": "Zaphod",
+        "start": 6.04,
+        "end": 6.52
+      },
+      {
+        "text": "lounged",
+        "start": 6.52,
+        "end": 6.98
+      },
+      {
+        "text": "under",
+        "start": 6.98,
+        "end": 7.18
+      },
+      {
+        "text": "the",
+        "start": 7.18,
+        "end": 7.34
+      },
+      {
+        "text": "small",
+        "start": 7.34,
+        "end": 7.64
+      },
+      {
+        "text": "palm",
+        "start": 7.64,
+        "end": 7.96
+      },
+      {
+        "text": "tree",
+        "start": 7.96,
+        "end": 8.14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "startTime": 8.14,
+    "endTime": 10.14,
+    "fullText": "on the bridge trying to bang his brain into",
+    "words": [
+      {
+        "text": "on",
+        "start": 8.14,
+        "end": 8.32
+      },
+      {
+        "text": "the",
+        "start": 8.32,
+        "end": 8.42
+      },
+      {
+        "text": "bridge",
+        "start": 8.42,
+        "end": 8.7
+      },
+      {
+        "text": "trying",
+        "start": 8.7,
+        "end": 9.02
+      },
+      {
+        "text": "to",
+        "start": 9.02,
+        "end": 9.2
+      },
+      {
+        "text": "bang",
+        "start": 8.88,
+        "end": 9.4
+      },
+      {
+        "text": "his",
+        "start": 9.4,
+        "end": 9.62
+      },
+      {
+        "text": "brain",
+        "start": 9.62,
+        "end": 9.9
+      },
+      {
+        "text": "into",
+        "start": 9.9,
+        "end": 10.14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "startTime": 10.14,
+    "endTime": 12.84,
+    "fullText": "shape with massive pan-galactic gargle blasters.",
+    "words": [
+      {
+        "text": "shape",
+        "start": 10.14,
+        "end": 10.44
+      },
+      {
+        "text": "with",
+        "start": 10.44,
+        "end": 10.64
+      },
+      {
+        "text": "massive",
+        "start": 10.64,
+        "end": 11.16
+      },
+      {
+        "text": "pan-galactic",
+        "start": 11.16,
+        "end": 11.96
+      },
+      {
+        "text": "gargle",
+        "start": 11.96,
+        "end": 12.38
+      },
+      {
+        "text": "blasters.",
+        "start": 12.38,
+        "end": 12.84
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "startTime": 13.54,
+    "endTime": 15.96,
+    "fullText": "Ford and Trillion sat in a corner discussing life",
+    "words": [
+      {
+        "text": "Ford",
+        "start": 13.54,
+        "end": 13.76
+      },
+      {
+        "text": "and",
+        "start": 13.76,
+        "end": 13.9
+      },
+      {
+        "text": "Trillion",
+        "start": 13.9,
+        "end": 14.22
+      },
+      {
+        "text": "sat",
+        "start": 14.22,
+        "end": 14.52
+      },
+      {
+        "text": "in",
+        "start": 14.52,
+        "end": 14.68
+      },
+      {
+        "text": "a",
+        "start": 14.68,
+        "end": 14.76
+      },
+      {
+        "text": "corner",
+        "start": 14.76,
+        "end": 15.04
+      },
+      {
+        "text": "discussing",
+        "start": 15.04,
+        "end": 15.56
+      },
+      {
+        "text": "life",
+        "start": 15.56,
+        "end": 15.96
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "startTime": 15.96,
+    "endTime": 18.58,
+    "fullText": "and matters arising from it, and Arthur took to",
+    "words": [
+      {
+        "text": "and",
+        "start": 15.96,
+        "end": 16.2
+      },
+      {
+        "text": "matters",
+        "start": 16.2,
+        "end": 16.58
+      },
+      {
+        "text": "arising",
+        "start": 16.58,
+        "end": 17.02
+      },
+      {
+        "text": "from",
+        "start": 17.02,
+        "end": 17.32
+      },
+      {
+        "text": "it,",
+        "start": 17.32,
+        "end": 17.54
+      },
+      {
+        "text": "and",
+        "start": 17.54,
+        "end": 17.94
+      },
+      {
+        "text": "Arthur",
+        "start": 17.94,
+        "end": 18.24
+      },
+      {
+        "text": "took",
+        "start": 17.9,
+        "end": 18.46
+      },
+      {
+        "text": "to",
+        "start": 18.46,
+        "end": 18.58
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "startTime": 18.58,
+    "endTime": 20.54,
+    "fullText": "his bed to flip through Ford's copy of The",
+    "words": [
+      {
+        "text": "his",
+        "start": 18.58,
+        "end": 18.68
+      },
+      {
+        "text": "bed",
+        "start": 18.68,
+        "end": 18.86
+      },
+      {
+        "text": "to",
+        "start": 18.86,
+        "end": 19.02
+      },
+      {
+        "text": "flip",
+        "start": 19.02,
+        "end": 19.24
+      },
+      {
+        "text": "through",
+        "start": 19.24,
+        "end": 19.44
+      },
+      {
+        "text": "Ford's",
+        "start": 19.44,
+        "end": 19.82
+      },
+      {
+        "text": "copy",
+        "start": 19.82,
+        "end": 20.22
+      },
+      {
+        "text": "of",
+        "start": 20.22,
+        "end": 20.4
+      },
+      {
+        "text": "The",
+        "start": 20.4,
+        "end": 20.54
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "startTime": 20.54,
+    "endTime": 22.0,
+    "fullText": "Hitchhiker's Guide to the Galaxy.",
+    "words": [
+      {
+        "text": "Hitchhiker's",
+        "start": 20.54,
+        "end": 21.14
+      },
+      {
+        "text": "Guide",
+        "start": 21.14,
+        "end": 21.36
+      },
+      {
+        "text": "to",
+        "start": 21.36,
+        "end": 21.54
+      },
+      {
+        "text": "the",
+        "start": 21.54,
+        "end": 21.64
+      },
+      {
+        "text": "Galaxy.",
+        "start": 21.64,
+        "end": 22.0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "startTime": 22.06,
+    "endTime": 24.42,
+    "fullText": "Since he was going to live in the place,",
+    "words": [
+      {
+        "text": "Since",
+        "start": 22.06,
+        "end": 22.84
+      },
+      {
+        "text": "he",
+        "start": 22.84,
+        "end": 23.02
+      },
+      {
+        "text": "was",
+        "start": 23.02,
+        "end": 23.16
+      },
+      {
+        "text": "going",
+        "start": 23.16,
+        "end": 23.34
+      },
+      {
+        "text": "to",
+        "start": 23.34,
+        "end": 23.5
+      },
+      {
+        "text": "live",
+        "start": 23.5,
+        "end": 23.66
+      },
+      {
+        "text": "in",
+        "start": 23.66,
+        "end": 23.82
+      },
+      {
+        "text": "the",
+        "start": 23.82,
+        "end": 23.88
+      },
+      {
+        "text": "place,",
+        "start": 23.88,
+        "end": 24.42
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "startTime": 24.42,
+    "endTime": 27.04,
+    "fullText": "he reasoned, he'd better start finding out something about",
+    "words": [
+      {
+        "text": "he",
+        "start": 24.42,
+        "end": 24.52
+      },
+      {
+        "text": "reasoned,",
+        "start": 24.52,
+        "end": 25.08
+      },
+      {
+        "text": "he'd",
+        "start": 25.08,
+        "end": 25.54
+      },
+      {
+        "text": "better",
+        "start": 25.54,
+        "end": 25.66
+      },
+      {
+        "text": "start",
+        "start": 25.66,
+        "end": 25.92
+      },
+      {
+        "text": "finding",
+        "start": 25.92,
+        "end": 26.26
+      },
+      {
+        "text": "out",
+        "start": 26.26,
+        "end": 26.48
+      },
+      {
+        "text": "something",
+        "start": 26.48,
+        "end": 26.76
+      },
+      {
+        "text": "about",
+        "start": 26.32,
+        "end": 27.04
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "startTime": 27.04,
+    "endTime": 29.02,
+    "fullText": "it. He came across this entry.",
+    "words": [
+      {
+        "text": "it.",
+        "start": 27.04,
+        "end": 27.42
+      },
+      {
+        "text": "He",
+        "start": 27.32,
+        "end": 27.84
+      },
+      {
+        "text": "came",
+        "start": 27.84,
+        "end": 27.98
+      },
+      {
+        "text": "across",
+        "start": 27.98,
+        "end": 28.3
+      },
+      {
+        "text": "this",
+        "start": 28.3,
+        "end": 28.54
+      },
+      {
+        "text": "entry.",
+        "start": 28.54,
+        "end": 29.02
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "startTime": 29.28,
+    "endTime": 32.6,
+    "fullText": "It said, the history of every major galactic civilization",
+    "words": [
+      {
+        "text": "It",
+        "start": 29.28,
+        "end": 29.54
+      },
+      {
+        "text": "said,",
+        "start": 29.54,
+        "end": 29.98
+      },
+      {
+        "text": "the",
+        "start": 29.98,
+        "end": 30.32
+      },
+      {
+        "text": "history",
+        "start": 30.32,
+        "end": 30.64
+      },
+      {
+        "text": "of",
+        "start": 30.64,
+        "end": 30.84
+      },
+      {
+        "text": "every",
+        "start": 30.84,
+        "end": 31.08
+      },
+      {
+        "text": "major",
+        "start": 31.08,
+        "end": 31.42
+      },
+      {
+        "text": "galactic",
+        "start": 31.42,
+        "end": 31.94
+      },
+      {
+        "text": "civilization",
+        "start": 31.94,
+        "end": 32.6
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "startTime": 32.6,
+    "endTime": 36.08,
+    "fullText": "tends to pass through three distinct and recognizable phases,",
+    "words": [
+      {
+        "text": "tends",
+        "start": 32.6,
+        "end": 32.96
+      },
+      {
+        "text": "to",
+        "start": 32.96,
+        "end": 33.1
+      },
+      {
+        "text": "pass",
+        "start": 33.1,
+        "end": 33.4
+      },
+      {
+        "text": "through",
+        "start": 33.4,
+        "end": 33.64
+      },
+      {
+        "text": "three",
+        "start": 33.64,
+        "end": 33.9
+      },
+      {
+        "text": "distinct",
+        "start": 33.9,
+        "end": 34.38
+      },
+      {
+        "text": "and",
+        "start": 34.02,
+        "end": 34.68
+      },
+      {
+        "text": "recognizable",
+        "start": 34.68,
+        "end": 35.28
+      },
+      {
+        "text": "phases,",
+        "start": 35.28,
+        "end": 36.08
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "startTime": 36.08,
+    "endTime": 40.22,
+    "fullText": "those of survival, inquiry, and sophistication, otherwise known",
+    "words": [
+      {
+        "text": "those",
+        "start": 36.08,
+        "end": 36.48
+      },
+      {
+        "text": "of",
+        "start": 36.48,
+        "end": 36.62
+      },
+      {
+        "text": "survival,",
+        "start": 36.62,
+        "end": 37.46
+      },
+      {
+        "text": "inquiry,",
+        "start": 37.46,
+        "end": 38.2
+      },
+      {
+        "text": "and",
+        "start": 38.2,
+        "end": 38.34
+      },
+      {
+        "text": "sophistication,",
+        "start": 38.34,
+        "end": 39.3
+      },
+      {
+        "text": "otherwise",
+        "start": 39.3,
+        "end": 39.82
+      },
+      {
+        "text": "known",
+        "start": 39.82,
+        "end": 40.22
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "startTime": 39.78,
+    "endTime": 42.42,
+    "fullText": "as the how, why and where phases.",
+    "words": [
+      {
+        "text": "as",
+        "start": 39.78,
+        "end": 40.44
+      },
+      {
+        "text": "the",
+        "start": 40.44,
+        "end": 40.56
+      },
+      {
+        "text": "how,",
+        "start": 40.56,
+        "end": 41.02
+      },
+      {
+        "text": "why",
+        "start": 41.02,
+        "end": 41.42
+      },
+      {
+        "text": "and",
+        "start": 41.42,
+        "end": 41.56
+      },
+      {
+        "text": "where",
+        "start": 41.56,
+        "end": 41.72
+      },
+      {
+        "text": "phases.",
+        "start": 41.72,
+        "end": 42.42
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "startTime": 42.68,
+    "endTime": 45.68,
+    "fullText": "For instance, the first phase is characterized by the",
+    "words": [
+      {
+        "text": "For",
+        "start": 42.68,
+        "end": 42.94
+      },
+      {
+        "text": "instance,",
+        "start": 42.94,
+        "end": 43.74
+      },
+      {
+        "text": "the",
+        "start": 43.74,
+        "end": 43.88
+      },
+      {
+        "text": "first",
+        "start": 43.88,
+        "end": 44.2
+      },
+      {
+        "text": "phase",
+        "start": 44.2,
+        "end": 44.5
+      },
+      {
+        "text": "is",
+        "start": 44.5,
+        "end": 44.7
+      },
+      {
+        "text": "characterized",
+        "start": 44.7,
+        "end": 45.14
+      },
+      {
+        "text": "by",
+        "start": 45.14,
+        "end": 45.58
+      },
+      {
+        "text": "the",
+        "start": 45.58,
+        "end": 45.68
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "startTime": 45.68,
+    "endTime": 46.94,
+    "fullText": "question how can we eat?",
+    "words": [
+      {
+        "text": "question",
+        "start": 45.68,
+        "end": 46.06
+      },
+      {
+        "text": "how",
+        "start": 46.06,
+        "end": 46.28
+      },
+      {
+        "text": "can",
+        "start": 46.28,
+        "end": 46.42
+      },
+      {
+        "text": "we",
+        "start": 46.42,
+        "end": 46.6
+      },
+      {
+        "text": "eat?",
+        "start": 46.6,
+        "end": 46.94
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "startTime": 46.9,
+    "endTime": 49.14,
+    "fullText": "The second by the question why do we eat?",
+    "words": [
+      {
+        "text": "The",
+        "start": 46.9,
+        "end": 47.48
+      },
+      {
+        "text": "second",
+        "start": 47.48,
+        "end": 47.74
+      },
+      {
+        "text": "by",
+        "start": 47.74,
+        "end": 47.88
+      },
+      {
+        "text": "the",
+        "start": 47.88,
+        "end": 48.02
+      },
+      {
+        "text": "question",
+        "start": 48.02,
+        "end": 48.34
+      },
+      {
+        "text": "why",
+        "start": 48.34,
+        "end": 48.54
+      },
+      {
+        "text": "do",
+        "start": 48.54,
+        "end": 48.66
+      },
+      {
+        "text": "we",
+        "start": 48.66,
+        "end": 48.78
+      },
+      {
+        "text": "eat?",
+        "start": 48.78,
+        "end": 49.14
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "startTime": 49.14,
+    "endTime": 50.96,
+    "fullText": "And the third by the question where shall we",
+    "words": [
+      {
+        "text": "And",
+        "start": 49.14,
+        "end": 49.64
+      },
+      {
+        "text": "the",
+        "start": 49.64,
+        "end": 49.72
+      },
+      {
+        "text": "third",
+        "start": 49.72,
+        "end": 49.9
+      },
+      {
+        "text": "by",
+        "start": 49.9,
+        "end": 50.02
+      },
+      {
+        "text": "the",
+        "start": 50.02,
+        "end": 50.14
+      },
+      {
+        "text": "question",
+        "start": 50.14,
+        "end": 50.48
+      },
+      {
+        "text": "where",
+        "start": 50.48,
+        "end": 50.64
+      },
+      {
+        "text": "shall",
+        "start": 50.64,
+        "end": 50.82
+      },
+      {
+        "text": "we",
+        "start": 50.82,
+        "end": 50.96
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "startTime": 50.96,
+    "endTime": 53.52,
+    "fullText": "have lunch? He got no further before the ship's",
+    "words": [
+      {
+        "text": "have",
+        "start": 50.96,
+        "end": 51.06
+      },
+      {
+        "text": "lunch?",
+        "start": 51.06,
+        "end": 52.02
+      },
+      {
+        "text": "He",
+        "start": 52.06,
+        "end": 52.16
+      },
+      {
+        "text": "got",
+        "start": 52.16,
+        "end": 52.3
+      },
+      {
+        "text": "no",
+        "start": 52.3,
+        "end": 52.44
+      },
+      {
+        "text": "further",
+        "start": 52.44,
+        "end": 52.76
+      },
+      {
+        "text": "before",
+        "start": 52.76,
+        "end": 53.06
+      },
+      {
+        "text": "the",
+        "start": 53.06,
+        "end": 53.26
+      },
+      {
+        "text": "ship's",
+        "start": 53.26,
+        "end": 53.52
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "startTime": 53.52,
+    "endTime": 55.04,
+    "fullText": "intercom buzzed into life.",
+    "words": [
+      {
+        "text": "intercom",
+        "start": 53.52,
+        "end": 53.92
+      },
+      {
+        "text": "buzzed",
+        "start": 53.92,
+        "end": 54.32
+      },
+      {
+        "text": "into",
+        "start": 54.32,
+        "end": 54.46
+      },
+      {
+        "text": "life.",
+        "start": 54.46,
+        "end": 55.04
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "startTime": 55.0,
+    "endTime": 57.34,
+    "fullText": "Hey, Earthman? You hungry, kid?",
+    "words": [
+      {
+        "text": "Hey,",
+        "start": 55.0,
+        "end": 55.52
+      },
+      {
+        "text": "Earthman?",
+        "start": 55.52,
+        "end": 56.12
+      },
+      {
+        "text": "You",
+        "start": 56.28,
+        "end": 56.58
+      },
+      {
+        "text": "hungry,",
+        "start": 56.58,
+        "end": 56.96
+      },
+      {
+        "text": "kid?",
+        "start": 56.96,
+        "end": 57.34
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "startTime": 57.54,
+    "endTime": 59.8,
+    "fullText": "Said Zaphod's voice. Air?",
+    "words": [
+      {
+        "text": "Said",
+        "start": 57.54,
+        "end": 57.94
+      },
+      {
+        "text": "Zaphod's",
+        "start": 57.94,
+        "end": 58.4
+      },
+      {
+        "text": "voice.",
+        "start": 58.4,
+        "end": 59.02
+      },
+      {
+        "text": "Air?",
+        "start": 59.24,
+        "end": 59.8
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "startTime": 59.88,
+    "endTime": 62.2,
+    "fullText": "Well, yes. A little peckish, I suppose,",
+    "words": [
+      {
+        "text": "Well,",
+        "start": 59.88,
+        "end": 60.36
+      },
+      {
+        "text": "yes.",
+        "start": 60.36,
+        "end": 60.72
+      },
+      {
+        "text": "A",
+        "start": 60.88,
+        "end": 60.94
+      },
+      {
+        "text": "little",
+        "start": 60.94,
+        "end": 61.1
+      },
+      {
+        "text": "peckish,",
+        "start": 61.1,
+        "end": 61.48
+      },
+      {
+        "text": "I",
+        "start": 61.48,
+        "end": 61.56
+      },
+      {
+        "text": "suppose,",
+        "start": 61.56,
+        "end": 62.2
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "startTime": 62.2,
+    "endTime": 63.97,
+    "fullText": "said Arthur. Okay, baby.",
+    "words": [
+      {
+        "text": "said",
+        "start": 62.2,
+        "end": 62.38
+      },
+      {
+        "text": "Arthur.",
+        "start": 62.29,
+        "end": 63.01
+      },
+      {
+        "text": "Okay,",
+        "start": 63.21,
+        "end": 63.51
+      },
+      {
+        "text": "baby.",
+        "start": 63.51,
+        "end": 63.97
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "startTime": 63.97,
+    "endTime": 65.93,
+    "fullText": "Hold tight, said Zaphod.",
+    "words": [
+      {
+        "text": "Hold",
+        "start": 63.97,
+        "end": 64.29
+      },
+      {
+        "text": "tight,",
+        "start": 64.29,
+        "end": 64.77
+      },
+      {
+        "text": "said",
+        "start": 64.77,
+        "end": 65.21
+      },
+      {
+        "text": "Zaphod.",
+        "start": 65.21,
+        "end": 65.93
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "startTime": 65.93,
+    "endTime": 67.89,
+    "fullText": "We'll take in a quick bite at the restaurant",
+    "words": [
+      {
+        "text": "We'll",
+        "start": 65.93,
+        "end": 66.37
+      },
+      {
+        "text": "take",
+        "start": 66.37,
+        "end": 66.59
+      },
+      {
+        "text": "in",
+        "start": 66.59,
+        "end": 66.67
+      },
+      {
+        "text": "a",
+        "start": 66.67,
+        "end": 66.77
+      },
+      {
+        "text": "quick",
+        "start": 66.77,
+        "end": 67.01
+      },
+      {
+        "text": "bite",
+        "start": 67.01,
+        "end": 67.25
+      },
+      {
+        "text": "at",
+        "start": 67.25,
+        "end": 67.45
+      },
+      {
+        "text": "the",
+        "start": 67.45,
+        "end": 67.57
+      },
+      {
+        "text": "restaurant",
+        "start": 67.57,
+        "end": 67.89
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "startTime": 67.89,
+    "endTime": 68.97,
+    "fullText": "at the end of the universe.",
+    "words": [
+      {
+        "text": "at",
+        "start": 67.89,
+        "end": 68.19
+      },
+      {
+        "text": "the",
+        "start": 68.19,
+        "end": 68.31
+      },
+      {
+        "text": "end",
+        "start": 68.31,
+        "end": 68.45
+      },
+      {
+        "text": "of",
+        "start": 68.45,
+        "end": 68.55
+      },
+      {
+        "text": "the",
+        "start": 68.09,
+        "end": 68.67
+      },
+      {
+        "text": "universe.",
+        "start": 68.67,
+        "end": 68.97
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "startTime": 68.97,
+    "endTime": 72.85,
+    "fullText": "What's president? President. Full title president of",
+    "words": [
+      {
+        "text": "What's",
+        "start": 68.97,
+        "end": 69.95
+      },
+      {
+        "text": "president?",
+        "start": 69.95,
+        "end": 70.73
+      },
+      {
+        "text": "President.",
+        "start": 70.73,
+        "end": 71.71
+      },
+      {
+        "text": "Full",
+        "start": 71.71,
+        "end": 71.85
+      },
+      {
+        "text": "title",
+        "start": 71.85,
+        "end": 72.17
+      },
+      {
+        "text": "president",
+        "start": 72.17,
+        "end": 72.55
+      },
+      {
+        "text": "of",
+        "start": 72.55,
+        "end": 72.85
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "startTime": 72.85,
+    "endTime": 75.27,
+    "fullText": "the Imperial Galactic. Government.",
+    "words": [
+      {
+        "text": "the",
+        "start": 72.85,
+        "end": 72.99
+      },
+      {
+        "text": "Imperial",
+        "start": 72.99,
+        "end": 73.37
+      },
+      {
+        "text": "Galactic.",
+        "start": 73.37,
+        "end": 74.17
+      },
+      {
+        "text": "Government.",
+        "start": 74.53,
+        "end": 75.27
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "startTime": 75.27,
+    "endTime": 77.43,
+    "fullText": "The term imperial is kept, though it is now",
+    "words": [
+      {
+        "text": "The",
+        "start": 75.27,
+        "end": 75.55
+      },
+      {
+        "text": "term",
+        "start": 75.55,
+        "end": 75.81
+      },
+      {
+        "text": "imperial",
+        "start": 75.81,
+        "end": 76.19
+      },
+      {
+        "text": "is",
+        "start": 76.19,
+        "end": 76.49
+      },
+      {
+        "text": "kept,",
+        "start": 76.49,
+        "end": 76.83
+      },
+      {
+        "text": "though",
+        "start": 76.83,
+        "end": 76.91
+      },
+      {
+        "text": "it",
+        "start": 76.91,
+        "end": 77.09
+      },
+      {
+        "text": "is",
+        "start": 77.09,
+        "end": 77.21
+      },
+      {
+        "text": "now",
+        "start": 77.21,
+        "end": 77.43
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "startTime": 77.43,
+    "endTime": 80.99,
+    "fullText": "an anachronism. The hereditary emperor is nearly dead and",
+    "words": [
+      {
+        "text": "an",
+        "start": 77.43,
+        "end": 77.59
+      },
+      {
+        "text": "anachronism.",
+        "start": 77.59,
+        "end": 78.33
+      },
+      {
+        "text": "The",
+        "start": 78.69,
+        "end": 78.83
+      },
+      {
+        "text": "hereditary",
+        "start": 78.83,
+        "end": 79.39
+      },
+      {
+        "text": "emperor",
+        "start": 79.39,
+        "end": 79.69
+      },
+      {
+        "text": "is",
+        "start": 79.69,
+        "end": 80.01
+      },
+      {
+        "text": "nearly",
+        "start": 80.01,
+        "end": 80.33
+      },
+      {
+        "text": "dead",
+        "start": 80.33,
+        "end": 80.75
+      },
+      {
+        "text": "and",
+        "start": 80.75,
+        "end": 80.99
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "startTime": 80.99,
+    "endTime": 82.53,
+    "fullText": "has been so for many centuries.",
+    "words": [
+      {
+        "text": "has",
+        "start": 80.99,
+        "end": 81.17
+      },
+      {
+        "text": "been",
+        "start": 81.17,
+        "end": 81.31
+      },
+      {
+        "text": "so",
+        "start": 81.31,
+        "end": 81.59
+      },
+      {
+        "text": "for",
+        "start": 81.59,
+        "end": 81.79
+      },
+      {
+        "text": "many",
+        "start": 81.79,
+        "end": 82.13
+      },
+      {
+        "text": "centuries.",
+        "start": 82.13,
+        "end": 82.53
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "startTime": 83.29,
+    "endTime": 85.21,
+    "fullText": "In the last moments of his dying coma,",
+    "words": [
+      {
+        "text": "In",
+        "start": 83.29,
+        "end": 83.41
+      },
+      {
+        "text": "the",
+        "start": 83.41,
+        "end": 83.55
+      },
+      {
+        "text": "last",
+        "start": 83.55,
+        "end": 83.79
+      },
+      {
+        "text": "moments",
+        "start": 83.79,
+        "end": 84.15
+      },
+      {
+        "text": "of",
+        "start": 84.15,
+        "end": 84.33
+      },
+      {
+        "text": "his",
+        "start": 84.33,
+        "end": 84.45
+      },
+      {
+        "text": "dying",
+        "start": 84.45,
+        "end": 84.71
+      },
+      {
+        "text": "coma,",
+        "start": 84.71,
+        "end": 85.21
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "startTime": 85.21,
+    "endTime": 87.11,
+    "fullText": "he was locked in a status field which keeps",
+    "words": [
+      {
+        "text": "he",
+        "start": 85.21,
+        "end": 85.25
+      },
+      {
+        "text": "was",
+        "start": 85.25,
+        "end": 85.41
+      },
+      {
+        "text": "locked",
+        "start": 85.41,
+        "end": 85.61
+      },
+      {
+        "text": "in",
+        "start": 85.61,
+        "end": 85.79
+      },
+      {
+        "text": "a",
+        "start": 85.79,
+        "end": 85.89
+      },
+      {
+        "text": "status",
+        "start": 85.89,
+        "end": 86.21
+      },
+      {
+        "text": "field",
+        "start": 86.21,
+        "end": 86.59
+      },
+      {
+        "text": "which",
+        "start": 86.59,
+        "end": 86.83
+      },
+      {
+        "text": "keeps",
+        "start": 86.83,
+        "end": 87.11
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "startTime": 87.11,
+    "endTime": 89.43,
+    "fullText": "him in a state of perpetual unchangingness.",
+    "words": [
+      {
+        "text": "him",
+        "start": 87.11,
+        "end": 87.27
+      },
+      {
+        "text": "in",
+        "start": 87.27,
+        "end": 87.35
+      },
+      {
+        "text": "a",
+        "start": 87.35,
+        "end": 87.49
+      },
+      {
+        "text": "state",
+        "start": 87.49,
+        "end": 87.69
+      },
+      {
+        "text": "of",
+        "start": 87.69,
+        "end": 87.87
+      },
+      {
+        "text": "perpetual",
+        "start": 87.87,
+        "end": 88.31
+      },
+      {
+        "text": "unchangingness.",
+        "start": 88.31,
+        "end": 89.43
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "startTime": 89.43,
+    "endTime": 91.61,
+    "fullText": "All his heirs are now long dead,",
+    "words": [
+      {
+        "text": "All",
+        "start": 89.43,
+        "end": 89.99
+      },
+      {
+        "text": "his",
+        "start": 89.99,
+        "end": 90.17
+      },
+      {
+        "text": "heirs",
+        "start": 90.17,
+        "end": 90.33
+      },
+      {
+        "text": "are",
+        "start": 90.33,
+        "end": 90.53
+      },
+      {
+        "text": "now",
+        "start": 90.53,
+        "end": 90.73
+      },
+      {
+        "text": "long",
+        "start": 90.73,
+        "end": 91.11
+      },
+      {
+        "text": "dead,",
+        "start": 91.11,
+        "end": 91.61
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "startTime": 91.61,
+    "endTime": 95.05,
+    "fullText": "and this means that without any drastic political upheaval,",
+    "words": [
+      {
+        "text": "and",
+        "start": 91.61,
+        "end": 91.99
+      },
+      {
+        "text": "this",
+        "start": 91.99,
+        "end": 92.11
+      },
+      {
+        "text": "means",
+        "start": 92.11,
+        "end": 92.33
+      },
+      {
+        "text": "that",
+        "start": 92.33,
+        "end": 92.53
+      },
+      {
+        "text": "without",
+        "start": 92.53,
+        "end": 92.69
+      },
+      {
+        "text": "any",
+        "start": 92.69,
+        "end": 93.11
+      },
+      {
+        "text": "drastic",
+        "start": 92.67,
+        "end": 93.57
+      },
+      {
+        "text": "political",
+        "start": 93.57,
+        "end": 94.05
+      },
+      {
+        "text": "upheaval,",
+        "start": 94.05,
+        "end": 95.05
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "startTime": 95.05,
+    "endTime": 97.79,
+    "fullText": "power has simply and effectively moved a rung or",
+    "words": [
+      {
+        "text": "power",
+        "start": 95.05,
+        "end": 95.31
+      },
+      {
+        "text": "has",
+        "start": 95.31,
+        "end": 95.53
+      },
+      {
+        "text": "simply",
+        "start": 95.53,
+        "end": 95.93
+      },
+      {
+        "text": "and",
+        "start": 95.93,
+        "end": 96.19
+      },
+      {
+        "text": "effectively",
+        "start": 96.19,
+        "end": 96.67
+      },
+      {
+        "text": "moved",
+        "start": 96.67,
+        "end": 97.15
+      },
+      {
+        "text": "a",
+        "start": 97.15,
+        "end": 97.33
+      },
+      {
+        "text": "rung",
+        "start": 97.33,
+        "end": 97.57
+      },
+      {
+        "text": "or",
+        "start": 97.57,
+        "end": 97.79
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "startTime": 97.79,
+    "endTime": 100.07,
+    "fullText": "two down the ladder, and is now seen to",
+    "words": [
+      {
+        "text": "two",
+        "start": 97.79,
+        "end": 97.99
+      },
+      {
+        "text": "down",
+        "start": 97.99,
+        "end": 98.19
+      },
+      {
+        "text": "the",
+        "start": 98.19,
+        "end": 98.39
+      },
+      {
+        "text": "ladder,",
+        "start": 98.39,
+        "end": 98.93
+      },
+      {
+        "text": "and",
+        "start": 99.09,
+        "end": 99.21
+      },
+      {
+        "text": "is",
+        "start": 99.21,
+        "end": 99.35
+      },
+      {
+        "text": "now",
+        "start": 99.35,
+        "end": 99.57
+      },
+      {
+        "text": "seen",
+        "start": 99.57,
+        "end": 99.87
+      },
+      {
+        "text": "to",
+        "start": 99.87,
+        "end": 100.07
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "startTime": 100.07,
+    "endTime": 101.97,
+    "fullText": "be vested in a body which used to act",
+    "words": [
+      {
+        "text": "be",
+        "start": 100.07,
+        "end": 100.19
+      },
+      {
+        "text": "vested",
+        "start": 100.19,
+        "end": 100.53
+      },
+      {
+        "text": "in",
+        "start": 100.53,
+        "end": 100.75
+      },
+      {
+        "text": "a",
+        "start": 100.75,
+        "end": 100.87
+      },
+      {
+        "text": "body",
+        "start": 100.87,
+        "end": 101.13
+      },
+      {
+        "text": "which",
+        "start": 101.13,
+        "end": 101.39
+      },
+      {
+        "text": "used",
+        "start": 101.39,
+        "end": 101.59
+      },
+      {
+        "text": "to",
+        "start": 101.59,
+        "end": 101.73
+      },
+      {
+        "text": "act",
+        "start": 101.73,
+        "end": 101.97
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "startTime": 101.97,
+    "endTime": 103.65,
+    "fullText": "simply as advisors to the emperor.",
+    "words": [
+      {
+        "text": "simply",
+        "start": 101.97,
+        "end": 102.31
+      },
+      {
+        "text": "as",
+        "start": 102.31,
+        "end": 102.53
+      },
+      {
+        "text": "advisors",
+        "start": 102.53,
+        "end": 102.83
+      },
+      {
+        "text": "to",
+        "start": 102.83,
+        "end": 103.25
+      },
+      {
+        "text": "the",
+        "start": 103.25,
+        "end": 103.37
+      },
+      {
+        "text": "emperor.",
+        "start": 103.37,
+        "end": 103.65
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "startTime": 104.37,
+    "endTime": 107.29,
+    "fullText": "An elected governmental assembly headed by a president elected",
+    "words": [
+      {
+        "text": "An",
+        "start": 104.37,
+        "end": 104.55
+      },
+      {
+        "text": "elected",
+        "start": 104.55,
+        "end": 104.85
+      },
+      {
+        "text": "governmental",
+        "start": 104.85,
+        "end": 105.35
+      },
+      {
+        "text": "assembly",
+        "start": 105.35,
+        "end": 105.87
+      },
+      {
+        "text": "headed",
+        "start": 105.87,
+        "end": 106.21
+      },
+      {
+        "text": "by",
+        "start": 106.21,
+        "end": 106.43
+      },
+      {
+        "text": "a",
+        "start": 106.43,
+        "end": 106.57
+      },
+      {
+        "text": "president",
+        "start": 106.57,
+        "end": 106.89
+      },
+      {
+        "text": "elected",
+        "start": 106.89,
+        "end": 107.29
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "startTime": 107.29,
+    "endTime": 109.73,
+    "fullText": "by that assembly. In fact, it vests in no",
+    "words": [
+      {
+        "text": "by",
+        "start": 107.29,
+        "end": 107.55
+      },
+      {
+        "text": "that",
+        "start": 107.55,
+        "end": 107.73
+      },
+      {
+        "text": "assembly.",
+        "start": 107.73,
+        "end": 108.39
+      },
+      {
+        "text": "In",
+        "start": 108.69,
+        "end": 108.85
+      },
+      {
+        "text": "fact,",
+        "start": 108.85,
+        "end": 109.11
+      },
+      {
+        "text": "it",
+        "start": 109.11,
+        "end": 109.23
+      },
+      {
+        "text": "vests",
+        "start": 109.23,
+        "end": 109.41
+      },
+      {
+        "text": "in",
+        "start": 109.41,
+        "end": 109.57
+      },
+      {
+        "text": "no",
+        "start": 109.57,
+        "end": 109.73
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "startTime": 109.73,
+    "endTime": 112.95,
+    "fullText": "such place. The president in particular is very much",
+    "words": [
+      {
+        "text": "such",
+        "start": 109.73,
+        "end": 109.93
+      },
+      {
+        "text": "place.",
+        "start": 109.93,
+        "end": 110.53
+      },
+      {
+        "text": "The",
+        "start": 110.53,
+        "end": 111.05
+      },
+      {
+        "text": "president",
+        "start": 111.05,
+        "end": 111.39
+      },
+      {
+        "text": "in",
+        "start": 111.39,
+        "end": 111.59
+      },
+      {
+        "text": "particular",
+        "start": 111.59,
+        "end": 112.03
+      },
+      {
+        "text": "is",
+        "start": 112.03,
+        "end": 112.47
+      },
+      {
+        "text": "very",
+        "start": 112.47,
+        "end": 112.71
+      },
+      {
+        "text": "much",
+        "start": 112.71,
+        "end": 112.95
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "startTime": 112.95,
+    "endTime": 116.19,
+    "fullText": "a figurehead. He wields no real power whatsoever.",
+    "words": [
+      {
+        "text": "a",
+        "start": 112.95,
+        "end": 113.11
+      },
+      {
+        "text": "figurehead.",
+        "start": 113.11,
+        "end": 113.73
+      },
+      {
+        "text": "He",
+        "start": 114.05,
+        "end": 114.13
+      },
+      {
+        "text": "wields",
+        "start": 114.13,
+        "end": 114.47
+      },
+      {
+        "text": "no",
+        "start": 114.47,
+        "end": 114.67
+      },
+      {
+        "text": "real",
+        "start": 114.67,
+        "end": 114.97
+      },
+      {
+        "text": "power",
+        "start": 114.97,
+        "end": 115.31
+      },
+      {
+        "text": "whatsoever.",
+        "start": 115.31,
+        "end": 116.19
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "startTime": 116.19,
+    "endTime": 118.45,
+    "fullText": "He is apparently chosen by the government.",
+    "words": [
+      {
+        "text": "He",
+        "start": 116.19,
+        "end": 116.59
+      },
+      {
+        "text": "is",
+        "start": 116.59,
+        "end": 116.73
+      },
+      {
+        "text": "apparently",
+        "start": 116.73,
+        "end": 117.09
+      },
+      {
+        "text": "chosen",
+        "start": 117.09,
+        "end": 117.51
+      },
+      {
+        "text": "by",
+        "start": 117.51,
+        "end": 117.83
+      },
+      {
+        "text": "the",
+        "start": 117.83,
+        "end": 117.95
+      },
+      {
+        "text": "government.",
+        "start": 117.95,
+        "end": 118.45
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "startTime": 118.79,
+    "endTime": 120.99,
+    "fullText": "But the qualities he is required to display are",
+    "words": [
+      {
+        "text": "But",
+        "start": 118.79,
+        "end": 118.93
+      },
+      {
+        "text": "the",
+        "start": 118.93,
+        "end": 119.01
+      },
+      {
+        "text": "qualities",
+        "start": 119.01,
+        "end": 119.41
+      },
+      {
+        "text": "he",
+        "start": 119.41,
+        "end": 119.61
+      },
+      {
+        "text": "is",
+        "start": 119.61,
+        "end": 119.71
+      },
+      {
+        "text": "required",
+        "start": 119.71,
+        "end": 120.11
+      },
+      {
+        "text": "to",
+        "start": 120.11,
+        "end": 120.31
+      },
+      {
+        "text": "display",
+        "start": 120.31,
+        "end": 120.67
+      },
+      {
+        "text": "are",
+        "start": 120.67,
+        "end": 120.99
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "startTime": 120.99,
+    "endTime": 123.31,
+    "fullText": "not those of leadership but those of finely judged",
+    "words": [
+      {
+        "text": "not",
+        "start": 120.99,
+        "end": 121.17
+      },
+      {
+        "text": "those",
+        "start": 121.17,
+        "end": 121.39
+      },
+      {
+        "text": "of",
+        "start": 121.39,
+        "end": 121.59
+      },
+      {
+        "text": "leadership",
+        "start": 121.59,
+        "end": 121.95
+      },
+      {
+        "text": "but",
+        "start": 121.95,
+        "end": 122.35
+      },
+      {
+        "text": "those",
+        "start": 122.35,
+        "end": 122.51
+      },
+      {
+        "text": "of",
+        "start": 122.51,
+        "end": 122.65
+      },
+      {
+        "text": "finely",
+        "start": 122.65,
+        "end": 122.97
+      },
+      {
+        "text": "judged",
+        "start": 122.97,
+        "end": 123.31
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "startTime": 122.87,
+    "endTime": 126.47,
+    "fullText": "outrage. For this reason, the president is always a",
+    "words": [
+      {
+        "text": "outrage.",
+        "start": 122.87,
+        "end": 124.33
+      },
+      {
+        "text": "For",
+        "start": 124.33,
+        "end": 124.61
+      },
+      {
+        "text": "this",
+        "start": 124.61,
+        "end": 124.81
+      },
+      {
+        "text": "reason,",
+        "start": 124.81,
+        "end": 125.19
+      },
+      {
+        "text": "the",
+        "start": 125.19,
+        "end": 125.29
+      },
+      {
+        "text": "president",
+        "start": 125.29,
+        "end": 125.55
+      },
+      {
+        "text": "is",
+        "start": 125.55,
+        "end": 125.91
+      },
+      {
+        "text": "always",
+        "start": 125.91,
+        "end": 126.25
+      },
+      {
+        "text": "a",
+        "start": 126.25,
+        "end": 126.47
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "startTime": 126.47,
+    "endTime": 131.01,
+    "fullText": "controversial choice. Always an infuriating but fascinating character.",
+    "words": [
+      {
+        "text": "controversial",
+        "start": 126.47,
+        "end": 126.87
+      },
+      {
+        "text": "choice.",
+        "start": 126.87,
+        "end": 127.89
+      },
+      {
+        "text": "Always",
+        "start": 127.89,
+        "end": 128.23
+      },
+      {
+        "text": "an",
+        "start": 128.23,
+        "end": 128.49
+      },
+      {
+        "text": "infuriating",
+        "start": 128.49,
+        "end": 129.13
+      },
+      {
+        "text": "but",
+        "start": 129.13,
+        "end": 129.43
+      },
+      {
+        "text": "fascinating",
+        "start": 128.97,
+        "end": 130.05
+      },
+      {
+        "text": "character.",
+        "start": 130.05,
+        "end": 131.01
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "startTime": 131.01,
+    "endTime": 133.09,
+    "fullText": "His job is not to wield power but to",
+    "words": [
+      {
+        "text": "His",
+        "start": 131.01,
+        "end": 131.27
+      },
+      {
+        "text": "job",
+        "start": 131.27,
+        "end": 131.59
+      },
+      {
+        "text": "is",
+        "start": 131.59,
+        "end": 131.75
+      },
+      {
+        "text": "not",
+        "start": 131.75,
+        "end": 131.89
+      },
+      {
+        "text": "to",
+        "start": 131.89,
+        "end": 132.09
+      },
+      {
+        "text": "wield",
+        "start": 132.09,
+        "end": 132.29
+      },
+      {
+        "text": "power",
+        "start": 132.29,
+        "end": 132.73
+      },
+      {
+        "text": "but",
+        "start": 132.73,
+        "end": 132.97
+      },
+      {
+        "text": "to",
+        "start": 132.97,
+        "end": 133.09
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "startTime": 133.09,
+    "endTime": 134.49,
+    "fullText": "draw attention away from it.",
+    "words": [
+      {
+        "text": "draw",
+        "start": 133.09,
+        "end": 133.31
+      },
+      {
+        "text": "attention",
+        "start": 133.31,
+        "end": 133.67
+      },
+      {
+        "text": "away",
+        "start": 133.67,
+        "end": 133.97
+      },
+      {
+        "text": "from",
+        "start": 133.97,
+        "end": 134.23
+      },
+      {
+        "text": "it.",
+        "start": 134.23,
+        "end": 134.49
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "startTime": 134.49,
+    "endTime": 137.53,
+    "fullText": "On those criteria, Zaphod Beeblebrox is one of the",
+    "words": [
+      {
+        "text": "On",
+        "start": 134.49,
+        "end": 134.95
+      },
+      {
+        "text": "those",
+        "start": 134.95,
+        "end": 135.13
+      },
+      {
+        "text": "criteria,",
+        "start": 134.81,
+        "end": 135.95
+      },
+      {
+        "text": "Zaphod",
+        "start": 135.95,
+        "end": 136.31
+      },
+      {
+        "text": "Beeblebrox",
+        "start": 136.31,
+        "end": 136.95
+      },
+      {
+        "text": "is",
+        "start": 136.95,
+        "end": 137.19
+      },
+      {
+        "text": "one",
+        "start": 137.19,
+        "end": 137.33
+      },
+      {
+        "text": "of",
+        "start": 137.33,
+        "end": 137.39
+      },
+      {
+        "text": "the",
+        "start": 137.39,
+        "end": 137.53
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "startTime": 137.53,
+    "endTime": 140.47,
+    "fullText": "most successful presidents the galaxy has ever had.",
+    "words": [
+      {
+        "text": "most",
+        "start": 137.53,
+        "end": 137.73
+      },
+      {
+        "text": "successful",
+        "start": 137.73,
+        "end": 138.29
+      },
+      {
+        "text": "presidents",
+        "start": 138.29,
+        "end": 138.81
+      },
+      {
+        "text": "the",
+        "start": 138.81,
+        "end": 139.05
+      },
+      {
+        "text": "galaxy",
+        "start": 139.05,
+        "end": 139.41
+      },
+      {
+        "text": "has",
+        "start": 139.41,
+        "end": 139.73
+      },
+      {
+        "text": "ever",
+        "start": 139.73,
+        "end": 139.97
+      },
+      {
+        "text": "had.",
+        "start": 139.97,
+        "end": 140.47
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "startTime": 140.81,
+    "endTime": 142.81,
+    "fullText": "He has already spent two of his ten presidential",
+    "words": [
+      {
+        "text": "He",
+        "start": 140.81,
+        "end": 140.91
+      },
+      {
+        "text": "has",
+        "start": 140.91,
+        "end": 141.05
+      },
+      {
+        "text": "already",
+        "start": 141.05,
+        "end": 141.33
+      },
+      {
+        "text": "spent",
+        "start": 141.33,
+        "end": 141.67
+      },
+      {
+        "text": "two",
+        "start": 141.67,
+        "end": 141.95
+      },
+      {
+        "text": "of",
+        "start": 141.95,
+        "end": 142.11
+      },
+      {
+        "text": "his",
+        "start": 142.11,
+        "end": 142.23
+      },
+      {
+        "text": "ten",
+        "start": 142.23,
+        "end": 142.43
+      },
+      {
+        "text": "presidential",
+        "start": 142.43,
+        "end": 142.81
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "startTime": 142.81,
+    "endTime": 144.67,
+    "fullText": "years in prison for fraud.",
+    "words": [
+      {
+        "text": "years",
+        "start": 142.81,
+        "end": 143.35
+      },
+      {
+        "text": "in",
+        "start": 143.35,
+        "end": 143.55
+      },
+      {
+        "text": "prison",
+        "start": 143.55,
+        "end": 143.83
+      },
+      {
+        "text": "for",
+        "start": 143.83,
+        "end": 144.05
+      },
+      {
+        "text": "fraud.",
+        "start": 144.05,
+        "end": 144.67
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "startTime": 145.03,
+    "endTime": 147.83,
+    "fullText": "Very, very few people realize that the president and",
+    "words": [
+      {
+        "text": "Very,",
+        "start": 145.03,
+        "end": 145.47
+      },
+      {
+        "text": "very",
+        "start": 145.47,
+        "end": 145.57
+      },
+      {
+        "text": "few",
+        "start": 145.57,
+        "end": 145.83
+      },
+      {
+        "text": "people",
+        "start": 145.83,
+        "end": 146.23
+      },
+      {
+        "text": "realize",
+        "start": 146.23,
+        "end": 146.59
+      },
+      {
+        "text": "that",
+        "start": 146.59,
+        "end": 146.95
+      },
+      {
+        "text": "the",
+        "start": 146.95,
+        "end": 147.09
+      },
+      {
+        "text": "president",
+        "start": 147.09,
+        "end": 147.39
+      },
+      {
+        "text": "and",
+        "start": 147.39,
+        "end": 147.83
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "startTime": 147.83,
+    "endTime": 150.27,
+    "fullText": "the government have virtually no power at all,",
+    "words": [
+      {
+        "text": "the",
+        "start": 147.83,
+        "end": 147.97
+      },
+      {
+        "text": "government",
+        "start": 147.97,
+        "end": 148.23
+      },
+      {
+        "text": "have",
+        "start": 148.23,
+        "end": 148.61
+      },
+      {
+        "text": "virtually",
+        "start": 148.61,
+        "end": 149.01
+      },
+      {
+        "text": "no",
+        "start": 149.01,
+        "end": 149.35
+      },
+      {
+        "text": "power",
+        "start": 149.35,
+        "end": 149.73
+      },
+      {
+        "text": "at",
+        "start": 149.73,
+        "end": 149.93
+      },
+      {
+        "text": "all,",
+        "start": 149.93,
+        "end": 150.27
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "startTime": 150.47,
+    "endTime": 152.75,
+    "fullText": "and of these very few people only six know",
+    "words": [
+      {
+        "text": "and",
+        "start": 150.47,
+        "end": 150.63
+      },
+      {
+        "text": "of",
+        "start": 150.63,
+        "end": 150.73
+      },
+      {
+        "text": "these",
+        "start": 150.73,
+        "end": 150.87
+      },
+      {
+        "text": "very",
+        "start": 150.87,
+        "end": 151.19
+      },
+      {
+        "text": "few",
+        "start": 151.19,
+        "end": 151.49
+      },
+      {
+        "text": "people",
+        "start": 151.49,
+        "end": 151.91
+      },
+      {
+        "text": "only",
+        "start": 151.91,
+        "end": 152.19
+      },
+      {
+        "text": "six",
+        "start": 152.19,
+        "end": 152.53
+      },
+      {
+        "text": "know",
+        "start": 152.53,
+        "end": 152.75
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "startTime": 152.75,
+    "endTime": 155.05,
+    "fullText": "whence ultimate political power is wielded.",
+    "words": [
+      {
+        "text": "whence",
+        "start": 152.75,
+        "end": 152.99
+      },
+      {
+        "text": "ultimate",
+        "start": 152.99,
+        "end": 153.25
+      },
+      {
+        "text": "political",
+        "start": 153.25,
+        "end": 153.73
+      },
+      {
+        "text": "power",
+        "start": 153.73,
+        "end": 154.17
+      },
+      {
+        "text": "is",
+        "start": 154.17,
+        "end": 154.39
+      },
+      {
+        "text": "wielded.",
+        "start": 154.39,
+        "end": 155.05
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "startTime": 155.31,
+    "endTime": 157.61,
+    "fullText": "Most of the others secretly believe that the ultimate",
+    "words": [
+      {
+        "text": "Most",
+        "start": 155.31,
+        "end": 155.51
+      },
+      {
+        "text": "of",
+        "start": 155.51,
+        "end": 155.63
+      },
+      {
+        "text": "the",
+        "start": 155.63,
+        "end": 155.75
+      },
+      {
+        "text": "others",
+        "start": 155.75,
+        "end": 156.03
+      },
+      {
+        "text": "secretly",
+        "start": 156.03,
+        "end": 156.51
+      },
+      {
+        "text": "believe",
+        "start": 156.51,
+        "end": 156.87
+      },
+      {
+        "text": "that",
+        "start": 156.87,
+        "end": 157.17
+      },
+      {
+        "text": "the",
+        "start": 157.17,
+        "end": 157.29
+      },
+      {
+        "text": "ultimate",
+        "start": 157.29,
+        "end": 157.61
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "startTime": 157.61,
+    "endTime": 160.31,
+    "fullText": "decision-making process is handled by a computer.",
+    "words": [
+      {
+        "text": "decision-making",
+        "start": 157.61,
+        "end": 158.31
+      },
+      {
+        "text": "process",
+        "start": 158.31,
+        "end": 158.85
+      },
+      {
+        "text": "is",
+        "start": 158.85,
+        "end": 159.19
+      },
+      {
+        "text": "handled",
+        "start": 159.19,
+        "end": 159.55
+      },
+      {
+        "text": "by",
+        "start": 159.55,
+        "end": 159.81
+      },
+      {
+        "text": "a",
+        "start": 159.81,
+        "end": 159.93
+      },
+      {
+        "text": "computer.",
+        "start": 159.93,
+        "end": 160.31
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "startTime": 160.87,
+    "endTime": 162.09,
+    "fullText": "They couldn't be more wrong.",
+    "words": [
+      {
+        "text": "They",
+        "start": 160.87,
+        "end": 161.03
+      },
+      {
+        "text": "couldn't",
+        "start": 161.03,
+        "end": 161.29
+      },
+      {
+        "text": "be",
+        "start": 161.29,
+        "end": 161.43
+      },
+      {
+        "text": "more",
+        "start": 161.43,
+        "end": 161.65
+      },
+      {
+        "text": "wrong.",
+        "start": 161.65,
+        "end": 162.09
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "startTime": 162.43,
+    "endTime": 165.97,
+    "fullText": "About Ford Perfect A Ford Prefect's original name is",
+    "words": [
+      {
+        "text": "About",
+        "start": 162.43,
+        "end": 162.67
+      },
+      {
+        "text": "Ford",
+        "start": 162.67,
+        "end": 162.97
+      },
+      {
+        "text": "Perfect",
+        "start": 162.97,
+        "end": 163.33
+      },
+      {
+        "text": "A",
+        "start": 163.33,
+        "end": 163.65
+      },
+      {
+        "text": "Ford",
+        "start": 164.19,
+        "end": 164.43
+      },
+      {
+        "text": "Prefect's",
+        "start": 164.43,
+        "end": 164.99
+      },
+      {
+        "text": "original",
+        "start": 164.99,
+        "end": 165.33
+      },
+      {
+        "text": "name",
+        "start": 165.33,
+        "end": 165.67
+      },
+      {
+        "text": "is",
+        "start": 165.67,
+        "end": 165.97
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "startTime": 165.97,
+    "endTime": 168.75,
+    "fullText": "only pronounceable in an obscure Beteljusian dialect,",
+    "words": [
+      {
+        "text": "only",
+        "start": 165.97,
+        "end": 166.29
+      },
+      {
+        "text": "pronounceable",
+        "start": 166.29,
+        "end": 166.87
+      },
+      {
+        "text": "in",
+        "start": 166.87,
+        "end": 167.11
+      },
+      {
+        "text": "an",
+        "start": 167.11,
+        "end": 167.21
+      },
+      {
+        "text": "obscure",
+        "start": 167.21,
+        "end": 167.51
+      },
+      {
+        "text": "Beteljusian",
+        "start": 167.51,
+        "end": 168.11
+      },
+      {
+        "text": "dialect,",
+        "start": 168.11,
+        "end": 168.75
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "startTime": 168.47,
+    "endTime": 171.97,
+    "fullText": "now virtually extinct since the great collapsing rung disaster",
+    "words": [
+      {
+        "text": "now",
+        "start": 168.47,
+        "end": 169.09
+      },
+      {
+        "text": "virtually",
+        "start": 169.09,
+        "end": 169.51
+      },
+      {
+        "text": "extinct",
+        "start": 169.51,
+        "end": 169.97
+      },
+      {
+        "text": "since",
+        "start": 169.97,
+        "end": 170.27
+      },
+      {
+        "text": "the",
+        "start": 170.27,
+        "end": 170.45
+      },
+      {
+        "text": "great",
+        "start": 170.45,
+        "end": 170.77
+      },
+      {
+        "text": "collapsing",
+        "start": 170.77,
+        "end": 171.29
+      },
+      {
+        "text": "rung",
+        "start": 171.29,
+        "end": 171.57
+      },
+      {
+        "text": "disaster",
+        "start": 171.57,
+        "end": 171.97
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "startTime": 171.97,
+    "endTime": 176.15,
+    "fullText": "of Gal, slash Sid, slash year 0-3-7-5-8",
+    "words": [
+      {
+        "text": "of",
+        "start": 171.97,
+        "end": 172.27
+      },
+      {
+        "text": "Gal,",
+        "start": 172.27,
+        "end": 173.07
+      },
+      {
+        "text": "slash",
+        "start": 172.95,
+        "end": 173.11
+      },
+      {
+        "text": "Sid,",
+        "start": 173.11,
+        "end": 173.67
+      },
+      {
+        "text": "slash",
+        "start": 173.67,
+        "end": 174.33
+      },
+      {
+        "text": "year",
+        "start": 174.33,
+        "end": 174.61
+      },
+      {
+        "text": "0-3-7-5-8",
+        "start": 174.61,
+        "end": 176.15
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "startTime": 176.15,
+    "endTime": 178.81,
+    "fullText": "which wiped out all the old Praxabetal communities on",
+    "words": [
+      {
+        "text": "which",
+        "start": 176.15,
+        "end": 176.35
+      },
+      {
+        "text": "wiped",
+        "start": 176.35,
+        "end": 176.57
+      },
+      {
+        "text": "out",
+        "start": 176.57,
+        "end": 176.79
+      },
+      {
+        "text": "all",
+        "start": 176.79,
+        "end": 177.01
+      },
+      {
+        "text": "the",
+        "start": 177.01,
+        "end": 177.13
+      },
+      {
+        "text": "old",
+        "start": 177.13,
+        "end": 177.37
+      },
+      {
+        "text": "Praxabetal",
+        "start": 177.37,
+        "end": 178.07
+      },
+      {
+        "text": "communities",
+        "start": 178.07,
+        "end": 178.51
+      },
+      {
+        "text": "on",
+        "start": 178.51,
+        "end": 178.81
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "startTime": 178.81,
+    "endTime": 181.83,
+    "fullText": "Beetlejuice 7. Ford's father was the only man on",
+    "words": [
+      {
+        "text": "Beetlejuice",
+        "start": 178.81,
+        "end": 179.35
+      },
+      {
+        "text": "7.",
+        "start": 179.35,
+        "end": 179.81
+      },
+      {
+        "text": "Ford's",
+        "start": 180.21,
+        "end": 180.49
+      },
+      {
+        "text": "father",
+        "start": 180.49,
+        "end": 180.75
+      },
+      {
+        "text": "was",
+        "start": 180.75,
+        "end": 180.95
+      },
+      {
+        "text": "the",
+        "start": 180.95,
+        "end": 181.09
+      },
+      {
+        "text": "only",
+        "start": 181.09,
+        "end": 181.35
+      },
+      {
+        "text": "man",
+        "start": 181.35,
+        "end": 181.71
+      },
+      {
+        "text": "on",
+        "start": 181.71,
+        "end": 181.83
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "startTime": 181.83,
+    "endTime": 184.61,
+    "fullText": "the entire planet to survive the great collapsing rung",
+    "words": [
+      {
+        "text": "the",
+        "start": 181.83,
+        "end": 181.95
+      },
+      {
+        "text": "entire",
+        "start": 181.95,
+        "end": 182.39
+      },
+      {
+        "text": "planet",
+        "start": 182.39,
+        "end": 182.73
+      },
+      {
+        "text": "to",
+        "start": 182.73,
+        "end": 183.01
+      },
+      {
+        "text": "survive",
+        "start": 183.01,
+        "end": 183.29
+      },
+      {
+        "text": "the",
+        "start": 183.29,
+        "end": 183.57
+      },
+      {
+        "text": "great",
+        "start": 183.57,
+        "end": 183.85
+      },
+      {
+        "text": "collapsing",
+        "start": 183.85,
+        "end": 184.35
+      },
+      {
+        "text": "rung",
+        "start": 184.35,
+        "end": 184.61
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "startTime": 184.15,
+    "endTime": 187.91,
+    "fullText": "disaster by an extraordinary coincidence that he was never",
+    "words": [
+      {
+        "text": "disaster",
+        "start": 184.15,
+        "end": 185.11
+      },
+      {
+        "text": "by",
+        "start": 185.11,
+        "end": 185.73
+      },
+      {
+        "text": "an",
+        "start": 185.73,
+        "end": 185.85
+      },
+      {
+        "text": "extraordinary",
+        "start": 185.85,
+        "end": 186.29
+      },
+      {
+        "text": "coincidence",
+        "start": 186.29,
+        "end": 186.95
+      },
+      {
+        "text": "that",
+        "start": 186.95,
+        "end": 187.33
+      },
+      {
+        "text": "he",
+        "start": 187.33,
+        "end": 187.43
+      },
+      {
+        "text": "was",
+        "start": 187.43,
+        "end": 187.57
+      },
+      {
+        "text": "never",
+        "start": 187.57,
+        "end": 187.91
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "startTime": 187.91,
+    "endTime": 189.99,
+    "fullText": "able satisfactorily to explain.",
+    "words": [
+      {
+        "text": "able",
+        "start": 187.91,
+        "end": 188.25
+      },
+      {
+        "text": "satisfactorily",
+        "start": 188.25,
+        "end": 189.17
+      },
+      {
+        "text": "to",
+        "start": 189.17,
+        "end": 189.35
+      },
+      {
+        "text": "explain.",
+        "start": 189.35,
+        "end": 189.99
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "startTime": 189.91,
+    "endTime": 192.99,
+    "fullText": "The whole episode is shrouded in deep mystery.",
+    "words": [
+      {
+        "text": "The",
+        "start": 189.91,
+        "end": 190.49
+      },
+      {
+        "text": "whole",
+        "start": 190.49,
+        "end": 190.67
+      },
+      {
+        "text": "episode",
+        "start": 190.67,
+        "end": 191.11
+      },
+      {
+        "text": "is",
+        "start": 191.11,
+        "end": 191.35
+      },
+      {
+        "text": "shrouded",
+        "start": 191.35,
+        "end": 191.75
+      },
+      {
+        "text": "in",
+        "start": 191.75,
+        "end": 191.87
+      },
+      {
+        "text": "deep",
+        "start": 191.87,
+        "end": 192.13
+      },
+      {
+        "text": "mystery.",
+        "start": 192.13,
+        "end": 192.99
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "startTime": 192.99,
+    "endTime": 194.67,
+    "fullText": "In fact, no one ever knew what a rung",
+    "words": [
+      {
+        "text": "In",
+        "start": 192.99,
+        "end": 193.13
+      },
+      {
+        "text": "fact,",
+        "start": 193.13,
+        "end": 193.37
+      },
+      {
+        "text": "no",
+        "start": 193.37,
+        "end": 193.63
+      },
+      {
+        "text": "one",
+        "start": 193.63,
+        "end": 193.81
+      },
+      {
+        "text": "ever",
+        "start": 193.81,
+        "end": 193.95
+      },
+      {
+        "text": "knew",
+        "start": 193.95,
+        "end": 194.19
+      },
+      {
+        "text": "what",
+        "start": 194.19,
+        "end": 194.41
+      },
+      {
+        "text": "a",
+        "start": 194.41,
+        "end": 194.55
+      },
+      {
+        "text": "rung",
+        "start": 194.55,
+        "end": 194.67
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "startTime": 194.67,
+    "endTime": 197.39,
+    "fullText": "was nor Wyatt had chosen to collapse on Beetlejuice",
+    "words": [
+      {
+        "text": "was",
+        "start": 194.67,
+        "end": 194.87
+      },
+      {
+        "text": "nor",
+        "start": 194.87,
+        "end": 195.11
+      },
+      {
+        "text": "Wyatt",
+        "start": 195.17,
+        "end": 195.43
+      },
+      {
+        "text": "had",
+        "start": 195.43,
+        "end": 195.65
+      },
+      {
+        "text": "chosen",
+        "start": 195.65,
+        "end": 195.89
+      },
+      {
+        "text": "to",
+        "start": 195.89,
+        "end": 196.15
+      },
+      {
+        "text": "collapse",
+        "start": 196.15,
+        "end": 196.51
+      },
+      {
+        "text": "on",
+        "start": 196.51,
+        "end": 196.79
+      },
+      {
+        "text": "Beetlejuice",
+        "start": 196.79,
+        "end": 197.39
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "startTime": 197.39,
+    "endTime": 201.29,
+    "fullText": "7 particularly. Ford's father, magnanimously waving aside",
+    "words": [
+      {
+        "text": "7",
+        "start": 197.39,
+        "end": 197.61
+      },
+      {
+        "text": "particularly.",
+        "start": 197.61,
+        "end": 198.63
+      },
+      {
+        "text": "Ford's",
+        "start": 198.63,
+        "end": 199.17
+      },
+      {
+        "text": "father,",
+        "start": 199.17,
+        "end": 199.81
+      },
+      {
+        "text": "magnanimously",
+        "start": 199.81,
+        "end": 200.47
+      },
+      {
+        "text": "waving",
+        "start": 200.47,
+        "end": 200.83
+      },
+      {
+        "text": "aside",
+        "start": 200.39,
+        "end": 201.29
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "startTime": 201.29,
+    "endTime": 203.99,
+    "fullText": "the clouds of suspicion that had inevitably settled around",
+    "words": [
+      {
+        "text": "the",
+        "start": 201.29,
+        "end": 201.47
+      },
+      {
+        "text": "clouds",
+        "start": 201.47,
+        "end": 201.77
+      },
+      {
+        "text": "of",
+        "start": 201.77,
+        "end": 201.95
+      },
+      {
+        "text": "suspicion",
+        "start": 201.95,
+        "end": 202.37
+      },
+      {
+        "text": "that",
+        "start": 202.37,
+        "end": 202.67
+      },
+      {
+        "text": "had",
+        "start": 202.67,
+        "end": 202.81
+      },
+      {
+        "text": "inevitably",
+        "start": 202.81,
+        "end": 203.29
+      },
+      {
+        "text": "settled",
+        "start": 203.29,
+        "end": 203.69
+      },
+      {
+        "text": "around",
+        "start": 203.69,
+        "end": 203.99
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "startTime": 203.99,
+    "endTime": 206.57,
+    "fullText": "him, came to live on Beetlejuice 5 where he",
+    "words": [
+      {
+        "text": "him,",
+        "start": 203.99,
+        "end": 204.37
+      },
+      {
+        "text": "came",
+        "start": 204.37,
+        "end": 204.79
+      },
+      {
+        "text": "to",
+        "start": 204.79,
+        "end": 204.91
+      },
+      {
+        "text": "live",
+        "start": 204.91,
+        "end": 205.11
+      },
+      {
+        "text": "on",
+        "start": 205.11,
+        "end": 205.29
+      },
+      {
+        "text": "Beetlejuice",
+        "start": 205.29,
+        "end": 205.87
+      },
+      {
+        "text": "5",
+        "start": 205.87,
+        "end": 206.09
+      },
+      {
+        "text": "where",
+        "start": 205.73,
+        "end": 206.41
+      },
+      {
+        "text": "he",
+        "start": 206.41,
+        "end": 206.57
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "startTime": 206.57,
+    "endTime": 209.29,
+    "fullText": "both fathered and uncled Ford, in memory of his",
+    "words": [
+      {
+        "text": "both",
+        "start": 206.57,
+        "end": 206.85
+      },
+      {
+        "text": "fathered",
+        "start": 206.85,
+        "end": 207.33
+      },
+      {
+        "text": "and",
+        "start": 207.33,
+        "end": 207.47
+      },
+      {
+        "text": "uncled",
+        "start": 207.47,
+        "end": 207.79
+      },
+      {
+        "text": "Ford,",
+        "start": 207.79,
+        "end": 208.33
+      },
+      {
+        "text": "in",
+        "start": 208.33,
+        "end": 208.69
+      },
+      {
+        "text": "memory",
+        "start": 208.69,
+        "end": 208.97
+      },
+      {
+        "text": "of",
+        "start": 208.97,
+        "end": 209.17
+      },
+      {
+        "text": "his",
+        "start": 209.17,
+        "end": 209.29
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "startTime": 209.29,
+    "endTime": 211.77,
+    "fullText": "now-dead race he christened him in the ancient Praxa",
+    "words": [
+      {
+        "text": "now-dead",
+        "start": 209.29,
+        "end": 209.83
+      },
+      {
+        "text": "race",
+        "start": 209.83,
+        "end": 210.13
+      },
+      {
+        "text": "he",
+        "start": 210.13,
+        "end": 210.27
+      },
+      {
+        "text": "christened",
+        "start": 210.27,
+        "end": 210.71
+      },
+      {
+        "text": "him",
+        "start": 210.71,
+        "end": 210.81
+      },
+      {
+        "text": "in",
+        "start": 210.81,
+        "end": 210.95
+      },
+      {
+        "text": "the",
+        "start": 210.95,
+        "end": 211.01
+      },
+      {
+        "text": "ancient",
+        "start": 210.57,
+        "end": 211.41
+      },
+      {
+        "text": "Praxa",
+        "start": 211.41,
+        "end": 211.77
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "startTime": 211.77,
+    "endTime": 214.53,
+    "fullText": "Beetle tongue. Because Ford never learned to say his",
+    "words": [
+      {
+        "text": "Beetle",
+        "start": 211.77,
+        "end": 212.15
+      },
+      {
+        "text": "tongue.",
+        "start": 212.15,
+        "end": 212.65
+      },
+      {
+        "text": "Because",
+        "start": 212.65,
+        "end": 213.13
+      },
+      {
+        "text": "Ford",
+        "start": 213.13,
+        "end": 213.43
+      },
+      {
+        "text": "never",
+        "start": 213.43,
+        "end": 213.73
+      },
+      {
+        "text": "learned",
+        "start": 213.73,
+        "end": 214.05
+      },
+      {
+        "text": "to",
+        "start": 214.05,
+        "end": 214.21
+      },
+      {
+        "text": "say",
+        "start": 214.21,
+        "end": 214.39
+      },
+      {
+        "text": "his",
+        "start": 214.39,
+        "end": 214.53
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "startTime": 214.53,
+    "endTime": 217.55,
+    "fullText": "original name, his father eventually died of shame,",
+    "words": [
+      {
+        "text": "original",
+        "start": 214.53,
+        "end": 214.83
+      },
+      {
+        "text": "name,",
+        "start": 214.83,
+        "end": 215.39
+      },
+      {
+        "text": "his",
+        "start": 215.39,
+        "end": 215.69
+      },
+      {
+        "text": "father",
+        "start": 215.69,
+        "end": 216.01
+      },
+      {
+        "text": "eventually",
+        "start": 215.61,
+        "end": 216.53
+      },
+      {
+        "text": "died",
+        "start": 216.53,
+        "end": 216.85
+      },
+      {
+        "text": "of",
+        "start": 216.85,
+        "end": 217.05
+      },
+      {
+        "text": "shame,",
+        "start": 217.05,
+        "end": 217.55
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "startTime": 217.55,
+    "endTime": 219.81,
+    "fullText": "which is still a terminal disease in some parts",
+    "words": [
+      {
+        "text": "which",
+        "start": 217.55,
+        "end": 217.89
+      },
+      {
+        "text": "is",
+        "start": 217.89,
+        "end": 218.03
+      },
+      {
+        "text": "still",
+        "start": 218.03,
+        "end": 218.19
+      },
+      {
+        "text": "a",
+        "start": 218.19,
+        "end": 218.33
+      },
+      {
+        "text": "terminal",
+        "start": 218.33,
+        "end": 218.63
+      },
+      {
+        "text": "disease",
+        "start": 218.63,
+        "end": 219.03
+      },
+      {
+        "text": "in",
+        "start": 219.03,
+        "end": 219.25
+      },
+      {
+        "text": "some",
+        "start": 219.25,
+        "end": 219.49
+      },
+      {
+        "text": "parts",
+        "start": 219.49,
+        "end": 219.81
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "startTime": 219.81,
+    "endTime": 222.49,
+    "fullText": "of the galaxy. The other kids at school nicknamed",
+    "words": [
+      {
+        "text": "of",
+        "start": 219.81,
+        "end": 219.97
+      },
+      {
+        "text": "the",
+        "start": 219.97,
+        "end": 220.05
+      },
+      {
+        "text": "galaxy.",
+        "start": 220.05,
+        "end": 220.41
+      },
+      {
+        "text": "The",
+        "start": 221.15,
+        "end": 221.17
+      },
+      {
+        "text": "other",
+        "start": 221.17,
+        "end": 221.35
+      },
+      {
+        "text": "kids",
+        "start": 221.35,
+        "end": 221.63
+      },
+      {
+        "text": "at",
+        "start": 221.63,
+        "end": 221.81
+      },
+      {
+        "text": "school",
+        "start": 221.81,
+        "end": 222.05
+      },
+      {
+        "text": "nicknamed",
+        "start": 222.05,
+        "end": 222.49
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "startTime": 222.49,
+    "endTime": 224.93,
+    "fullText": "him Nine, which in the language of Beetlejuice 5",
+    "words": [
+      {
+        "text": "him",
+        "start": 222.49,
+        "end": 222.69
+      },
+      {
+        "text": "Nine,",
+        "start": 222.69,
+        "end": 223.21
+      },
+      {
+        "text": "which",
+        "start": 223.21,
+        "end": 223.49
+      },
+      {
+        "text": "in",
+        "start": 223.49,
+        "end": 223.59
+      },
+      {
+        "text": "the",
+        "start": 223.59,
+        "end": 223.69
+      },
+      {
+        "text": "language",
+        "start": 223.69,
+        "end": 223.97
+      },
+      {
+        "text": "of",
+        "start": 223.97,
+        "end": 224.15
+      },
+      {
+        "text": "Beetlejuice",
+        "start": 224.15,
+        "end": 224.67
+      },
+      {
+        "text": "5",
+        "start": 224.67,
+        "end": 224.93
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "startTime": 224.93,
+    "endTime": 228.15,
+    "fullText": "translates as Boy Who Is Not Able Satisfactorily To",
+    "words": [
+      {
+        "text": "translates",
+        "start": 224.93,
+        "end": 225.49
+      },
+      {
+        "text": "as",
+        "start": 225.49,
+        "end": 225.91
+      },
+      {
+        "text": "Boy",
+        "start": 225.79,
+        "end": 226.21
+      },
+      {
+        "text": "Who",
+        "start": 226.21,
+        "end": 226.45
+      },
+      {
+        "text": "Is",
+        "start": 226.45,
+        "end": 226.63
+      },
+      {
+        "text": "Not",
+        "start": 226.63,
+        "end": 226.83
+      },
+      {
+        "text": "Able",
+        "start": 226.83,
+        "end": 227.07
+      },
+      {
+        "text": "Satisfactorily",
+        "start": 227.07,
+        "end": 227.99
+      },
+      {
+        "text": "To",
+        "start": 227.99,
+        "end": 228.15
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "startTime": 228.15,
+    "endTime": 230.25,
+    "fullText": "Explain What A Rung Is, Nor Why It Should",
+    "words": [
+      {
+        "text": "Explain",
+        "start": 228.15,
+        "end": 228.51
+      },
+      {
+        "text": "What",
+        "start": 228.51,
+        "end": 228.75
+      },
+      {
+        "text": "A",
+        "start": 228.75,
+        "end": 228.85
+      },
+      {
+        "text": "Rung",
+        "start": 228.85,
+        "end": 229.09
+      },
+      {
+        "text": "Is,",
+        "start": 229.09,
+        "end": 229.51
+      },
+      {
+        "text": "Nor",
+        "start": 229.67,
+        "end": 229.81
+      },
+      {
+        "text": "Why",
+        "start": 229.81,
+        "end": 230.03
+      },
+      {
+        "text": "It",
+        "start": 230.03,
+        "end": 230.17
+      },
+      {
+        "text": "Should",
+        "start": 230.17,
+        "end": 230.25
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "startTime": 230.25,
+    "endTime": 232.35,
+    "fullText": "Choose To Collapse On Beetlejuice 7.",
+    "words": [
+      {
+        "text": "Choose",
+        "start": 230.25,
+        "end": 230.51
+      },
+      {
+        "text": "To",
+        "start": 230.51,
+        "end": 230.73
+      },
+      {
+        "text": "Collapse",
+        "start": 230.73,
+        "end": 231.17
+      },
+      {
+        "text": "On",
+        "start": 231.17,
+        "end": 231.35
+      },
+      {
+        "text": "Beetlejuice",
+        "start": 231.35,
+        "end": 231.89
+      },
+      {
+        "text": "7.",
+        "start": 231.89,
+        "end": 232.35
+      }
+    ]
+  }
+]
