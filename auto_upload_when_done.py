@@ -17,7 +17,7 @@ Enjoy distraction-free reading!"""
 
 tags = "brave new world, audiobook, aldous huxley, kinetic text, english literature, learn english, tieng anh, tu vung tieng anh"
 
-print("⏳ Monitoring video render completion...")
+print("⏳ Monitoring video render completion...", flush=True)
 
 # Wait until video exists and is no longer being written
 last_size = -1
@@ -25,14 +25,14 @@ while True:
     if os.path.exists(video_path):
         size = os.path.getsize(video_path)
         # Check if remotion render process is still active
-        check_proc = subprocess.run(["pgrep", "-f", "brave_new_world_ch1_full_60fps"], capture_output=True, text=True)
+        check_proc = subprocess.run(["pgrep", "-f", "brave_new_world_ch1_full_props.json"], capture_output=True, text=True)
         if not check_proc.stdout.strip() and size > 1000000 and size == last_size:
-            print(f"🎉 Render verified complete! File size: {size / (1024*1024):.2f} MB")
+            print(f"🎉 Render verified complete! File size: {size / (1024*1024):.2f} MB", flush=True)
             break
         last_size = size
     time.sleep(10)
 
-print("\n🚀 Uploading to YouTube via youtube-uploader (--profile main)...")
+print("\n🚀 Uploading to YouTube via youtube-uploader (--profile main)...", flush=True)
 
 upload_cmd = [
     "/Users/tamhn/.local/bin/youtube-uploader",
