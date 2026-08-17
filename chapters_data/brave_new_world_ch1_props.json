@@ -5,7 +5,7 @@
     {
       "id": 1,
       "startTime": 0.0,
-      "endTime": 8.23,
+      "endTime": 3.23,
       "words": [
         {
           "text": "A",
@@ -46,7 +46,14 @@
           "text": "stories.",
           "start": 2.26,
           "end": 2.98
-        },
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startTime": 3.23,
+      "endTime": 8.23,
+      "words": [
         {
           "text": "Over",
           "start": 3.9,
@@ -110,9 +117,9 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "startTime": 8.23,
-      "endTime": 17.45,
+      "endTime": 12.66,
       "words": [
         {
           "text": "and,",
@@ -163,7 +170,14 @@
           "text": "IDENTITY,",
           "start": 12.06,
           "end": 12.46
-        },
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startTime": 12.66,
+      "endTime": 17.45,
+      "words": [
         {
           "text": "STABILITY.",
           "start": 12.86,
@@ -227,9 +241,9 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "startTime": 17.45,
-      "endTime": 24.48,
+      "endTime": 21.6,
       "words": [
         {
           "text": "Cold",
@@ -295,7 +309,14 @@
           "text": "heat",
           "start": 21.3,
           "end": 21.6
-        },
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "startTime": 21.6,
+      "endTime": 25.11,
+      "words": [
         {
           "text": "of",
           "start": 21.6,
@@ -350,19 +371,19 @@
           "text": "the",
           "start": 24.28,
           "end": 24.48
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "startTime": 24.48,
-      "endTime": 32.96,
-      "words": [
+        },
         {
           "text": "windows,",
           "start": 24.48,
           "end": 24.86
-        },
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "startTime": 25.11,
+      "endTime": 29.21,
+      "words": [
         {
           "text": "hungrily",
           "start": 25.28,
@@ -422,7 +443,14 @@
           "text": "goose-flesh,",
           "start": 28.66,
           "end": 28.96
-        },
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "startTime": 29.21,
+      "endTime": 33.16,
+      "words": [
         {
           "text": "but",
           "start": 29.66,
@@ -477,14 +505,7 @@
           "text": "porcelain",
           "start": 32.36,
           "end": 32.96
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "startTime": 32.96,
-      "endTime": 42.51,
-      "words": [
+        },
         {
           "text": "of",
           "start": 32.96,
@@ -494,7 +515,14 @@
           "text": "a",
           "start": 33.08,
           "end": 33.16
-        },
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "startTime": 33.16,
+      "endTime": 39.78,
+      "words": [
         {
           "text": "laboratory.",
           "start": 33.16,
@@ -554,7 +582,14 @@
           "text": "white,",
           "start": 39.28,
           "end": 39.6
-        },
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "startTime": 39.78,
+      "endTime": 42.51,
+      "words": [
         {
           "text": "their",
           "start": 39.96,
@@ -598,9 +633,9 @@
       ]
     },
     {
-      "id": 6,
+      "id": 11,
       "startTime": 42.51,
-      "endTime": 51.53,
+      "endTime": 45.71,
       "words": [
         {
           "text": "The",
@@ -636,7 +671,14 @@
           "text": "ghost.",
           "start": 45.24,
           "end": 45.46
-        },
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "startTime": 45.71,
+      "endTime": 50.02,
+      "words": [
         {
           "text": "Only",
           "start": 46.66,
@@ -701,7 +743,14 @@
           "text": "certain",
           "start": 49.7,
           "end": 50.02
-        },
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "startTime": 50.02,
+      "endTime": 53.8,
+      "words": [
         {
           "text": "rich",
           "start": 50.02,
@@ -721,14 +770,7 @@
           "text": "substance,",
           "start": 50.76,
           "end": 51.28
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "startTime": 51.53,
-      "endTime": 57.45,
-      "words": [
+        },
         {
           "text": "lying",
           "start": 51.74,
@@ -763,7 +805,14 @@
           "text": "butter,",
           "start": 53.2,
           "end": 53.6
-        },
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "startTime": 53.8,
+      "endTime": 57.45,
+      "words": [
         {
           "text": "streak",
           "start": 54.0,
@@ -822,9 +871,9 @@
       ]
     },
     {
-      "id": 8,
+      "id": 15,
       "startTime": 57.45,
-      "endTime": 67.42,
+      "endTime": 63.92,
       "words": [
         {
           "text": "\u201cAnd",
@@ -890,7 +939,14 @@
           "text": "Bent",
           "start": 63.72,
           "end": 63.92
-        },
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "startTime": 63.92,
+      "endTime": 68.86,
+      "words": [
         {
           "text": "over",
           "start": 63.92,
@@ -930,14 +986,7 @@
           "text": "plunged,",
           "start": 66.82,
           "end": 67.42
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "startTime": 67.42,
-      "endTime": 75.37,
-      "words": [
+        },
         {
           "text": "as",
           "start": 67.42,
@@ -962,7 +1011,14 @@
           "text": "Hatcheries",
           "start": 68.42,
           "end": 68.86
-        },
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "startTime": 68.86,
+      "endTime": 72.39,
+      "words": [
         {
           "text": "and",
           "start": 68.86,
@@ -1012,7 +1068,14 @@
           "text": "silence,",
           "start": 71.62,
           "end": 72.14
-        },
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "startTime": 72.39,
+      "endTime": 77.13,
+      "words": [
         {
           "text": "the",
           "start": 72.62,
@@ -1042,14 +1105,7 @@
           "text": "whistle,",
           "start": 74.92,
           "end": 75.22
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "startTime": 75.37,
-      "endTime": 85.61,
-      "words": [
+        },
         {
           "text": "of",
           "start": 75.52,
@@ -1064,7 +1120,14 @@
           "text": "concentration.",
           "start": 76.04,
           "end": 76.88
-        },
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "startTime": 77.13,
+      "endTime": 81.695,
+      "words": [
         {
           "text": "A",
           "start": 77.58,
@@ -1119,7 +1182,14 @@
           "text": "callow,",
           "start": 81.16,
           "end": 81.51
-        },
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "startTime": 81.695,
+      "endTime": 85.61,
+      "words": [
         {
           "text": "followed",
           "start": 81.88,
@@ -1163,9 +1233,9 @@
       ]
     },
     {
-      "id": 11,
+      "id": 21,
       "startTime": 85.61,
-      "endTime": 91.87,
+      "endTime": 90.33,
       "words": [
         {
           "text": "Each",
@@ -1231,7 +1301,14 @@
           "text": "spoke,",
           "start": 89.72,
           "end": 90.08
-        },
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "startTime": 90.33,
+      "endTime": 94.45,
+      "words": [
         {
           "text": "he",
           "start": 90.48,
@@ -1246,14 +1323,7 @@
           "text": "scribbled.",
           "start": 91.02,
           "end": 91.62
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "startTime": 91.87,
-      "endTime": 101.86,
-      "words": [
+        },
         {
           "text": "Straight",
           "start": 92.66,
@@ -1278,7 +1348,14 @@
           "text": "mouth.",
           "start": 93.92,
           "end": 94.2
-        },
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "startTime": 94.45,
+      "endTime": 98.3,
+      "words": [
         {
           "text": "It",
           "start": 95.34,
@@ -1313,7 +1390,14 @@
           "text": "D.H.C.",
           "start": 97.7,
           "end": 98.3
-        },
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "startTime": 98.3,
+      "endTime": 102.26,
+      "words": [
         {
           "text": "for",
           "start": 98.3,
@@ -1373,19 +1457,19 @@
           "text": "new",
           "start": 101.64,
           "end": 101.86
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "startTime": 101.86,
-      "endTime": 108.11,
-      "words": [
+        },
         {
           "text": "students",
           "start": 101.86,
           "end": 102.26
-        },
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "startTime": 102.26,
+      "endTime": 107.08,
+      "words": [
         {
           "text": "round",
           "start": 102.26,
@@ -1450,7 +1534,14 @@
           "text": "would",
           "start": 106.94,
           "end": 107.08
-        },
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "startTime": 107.08,
+      "endTime": 111.1,
+      "words": [
         {
           "text": "explain",
           "start": 107.08,
@@ -1465,14 +1556,7 @@
           "text": "them.",
           "start": 107.68,
           "end": 107.86
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "startTime": 108.11,
-      "endTime": 114.8,
-      "words": [
+        },
         {
           "text": "For",
           "start": 108.86,
@@ -1522,7 +1606,14 @@
           "text": "must",
           "start": 110.9,
           "end": 111.1
-        },
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "startTime": 111.1,
+      "endTime": 114.8,
+      "words": [
         {
           "text": "have,",
           "start": 111.1,
@@ -1591,9 +1682,9 @@
       ]
     },
     {
-      "id": 15,
+      "id": 28,
       "startTime": 114.8,
-      "endTime": 123.29,
+      "endTime": 117.2,
       "words": [
         {
           "text": "if",
@@ -1649,7 +1740,14 @@
           "text": "society,",
           "start": 116.66,
           "end": 117.2
-        },
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "startTime": 117.2,
+      "endTime": 123.29,
+      "words": [
         {
           "text": "as",
           "start": 117.2,
@@ -1718,9 +1816,9 @@
       ]
     },
     {
-      "id": 16,
+      "id": 30,
       "startTime": 123.29,
-      "endTime": 132.03,
+      "endTime": 130.3,
       "words": [
         {
           "text": "generalities",
@@ -1786,7 +1884,14 @@
           "text": "compose",
           "start": 129.9,
           "end": 130.3
-        },
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "startTime": 130.3,
+      "endTime": 135.4,
+      "words": [
         {
           "text": "the",
           "start": 130.3,
@@ -1806,14 +1911,7 @@
           "text": "society.",
           "start": 131.16,
           "end": 131.78
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "startTime": 132.03,
-      "endTime": 139.51,
-      "words": [
+        },
         {
           "text": "\u201cTo-morrow,\u201d",
           "start": 132.78,
@@ -1858,7 +1956,14 @@
           "text": "a",
           "start": 135.3,
           "end": 135.4
-        },
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "startTime": 135.4,
+      "endTime": 139.51,
+      "words": [
         {
           "text": "slightly",
           "start": 135.4,
@@ -1912,9 +2017,9 @@
       ]
     },
     {
-      "id": 18,
+      "id": 33,
       "startTime": 139.51,
-      "endTime": 150.15,
+      "endTime": 146.89,
       "words": [
         {
           "text": "You",
@@ -1980,7 +2085,14 @@
           "text": "privilege.",
           "start": 146.06,
           "end": 146.64
-        },
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "startTime": 146.89,
+      "endTime": 150.15,
+      "words": [
         {
           "text": "Straight",
           "start": 147.66,
@@ -2024,9 +2136,9 @@
       ]
     },
     {
-      "id": 19,
+      "id": 35,
       "startTime": 150.15,
-      "endTime": 157.51,
+      "endTime": 155.33,
       "words": [
         {
           "text": "The",
@@ -2082,7 +2194,14 @@
           "text": "upright,",
           "start": 154.76,
           "end": 155.14
-        },
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "startTime": 155.33,
+      "endTime": 159.72,
+      "words": [
         {
           "text": "the",
           "start": 155.52,
@@ -2112,14 +2231,7 @@
           "text": "room.",
           "start": 157.02,
           "end": 157.26
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "startTime": 157.51,
-      "endTime": 164.43,
-      "words": [
+        },
         {
           "text": "He",
           "start": 158.32,
@@ -2154,7 +2266,14 @@
           "text": "big",
           "start": 159.5,
           "end": 159.72
-        },
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "startTime": 159.72,
+      "endTime": 163.14,
+      "words": [
         {
           "text": "rather",
           "start": 159.72,
@@ -2204,7 +2323,14 @@
           "text": "talking,",
           "start": 162.72,
           "end": 163.14
-        },
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "startTime": 163.14,
+      "endTime": 167.44,
+      "words": [
         {
           "text": "by",
           "start": 163.14,
@@ -2219,14 +2345,7 @@
           "text": "full,",
           "start": 163.9,
           "end": 164.18
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "startTime": 164.43,
-      "endTime": 177.0,
-      "words": [
+        },
         {
           "text": "floridly",
           "start": 164.62,
@@ -2251,7 +2370,14 @@
           "text": "young?",
           "start": 167.04,
           "end": 167.44
-        },
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "startTime": 167.44,
+      "endTime": 174.51,
+      "words": [
         {
           "text": "Thirty?",
           "start": 167.44,
@@ -2291,7 +2417,14 @@
           "text": "say.",
           "start": 173.98,
           "end": 174.26
-        },
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "startTime": 174.51,
+      "endTime": 178.67,
+      "words": [
         {
           "text": "And",
           "start": 175.18,
@@ -2321,14 +2454,7 @@
           "text": "arise;",
           "start": 176.62,
           "end": 177.0
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "startTime": 177.0,
-      "endTime": 182.94,
-      "words": [
+        },
         {
           "text": "in",
           "start": 177.0,
@@ -2353,7 +2479,14 @@
           "text": "stability,",
           "start": 178.04,
           "end": 178.5
-        },
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "startTime": 178.67,
+      "endTime": 182.94,
+      "words": [
         {
           "text": "A.F.",
           "start": 178.84,

@@ -87,8 +87,8 @@ for ew in epub_words:
 
 print(f"✅ Successfully aligned {len(aligned_words)} ground-truth words!")
 
-print("\n📑 Step 4: Chunking into Balanced Multi-Line Honda-Style Pages...")
-# Sentence-aware chunking: 16 to 22 words per slide
+print("\n📑 Step 4: Chunking into Balanced Multi-Line Honda-Style Pages (Max 3 Lines)...")
+# Sentence-aware chunking: strictly 8 to 13 words per slide (max 3 lines)
 pages_words = []
 current_chunk = []
 
@@ -96,21 +96,21 @@ for idx, w in enumerate(aligned_words):
     current_chunk.append(w)
     text = w["text"].strip()
     
-    is_sentence_end = any(text.endswith(p) for p in [".", "!", "?", '."', '!"', '?"', "—", ";"])
+    is_sentence_end = any(text.endswith(p) for p in [".", "!", "?", '."', '!"', '?"', "—", ";", ":"])
     is_clause_end = text.endswith(",") or text.endswith('",')
     
-    if len(current_chunk) >= 16 and is_sentence_end:
+    if len(current_chunk) >= 7 and is_sentence_end:
         pages_words.append(current_chunk)
         current_chunk = []
-    elif len(current_chunk) >= 20 and is_clause_end:
+    elif len(current_chunk) >= 10 and is_clause_end:
         pages_words.append(current_chunk)
         current_chunk = []
-    elif len(current_chunk) >= 24:
+    elif len(current_chunk) >= 13:
         pages_words.append(current_chunk)
         current_chunk = []
 
 if current_chunk:
-    if len(current_chunk) < 8 and len(pages_words) > 0:
+    if len(current_chunk) < 5 and len(pages_words) > 0:
         pages_words[-1].extend(current_chunk)
     else:
         pages_words.append(current_chunk)
