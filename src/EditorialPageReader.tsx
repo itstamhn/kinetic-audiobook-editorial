@@ -17,6 +17,7 @@ export interface WordInfo {
   text: string;
   start: number;
   end: number;
+  vn?: string; // Vietnamese gloss translation
 }
 
 export interface EditorialPage {
@@ -41,8 +42,6 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
   const { fps } = useVideoConfig();
   const currentTime = frame / fps;
 
-  // Find active page by time interval [startTime, endTime)
-  // Clean, instantaneous cut with zero opacity fading or in-between flickering
   const activePageIndex = pages.findIndex(
     (p) => currentTime >= p.startTime && currentTime < p.endTime
   );
@@ -62,21 +61,20 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
         padding: "90px 140px",
       }}
     >
-
       {/* Multi-Line Calm Editorial Typography Canvas */}
       <div
         style={{
           width: "100%",
           maxWidth: 1640,
-          fontSize: 98,
-          fontWeight: 400, // Strictly unchanged font weight to ensure zero letter jitter
-          lineHeight: 1.2,
-          letterSpacing: -1.2,
+          fontSize: 84,
+          fontWeight: 400,
+          lineHeight: 1.35,
+          letterSpacing: -0.5,
           textAlign: "left",
           display: "flex",
           flexWrap: "wrap",
-          columnGap: "22px",
-          rowGap: "6px",
+          columnGap: "18px",
+          rowGap: "8px",
           alignItems: "baseline",
         }}
       >
@@ -88,12 +86,26 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
               <span
                 key={`${activePage.id}-${idx}`}
                 style={{
+                  display: "inline-block",
                   color: isSpoken ? "#000000" : "#b8b5ad",
                   fontWeight: 400,
-                  display: "inline-block",
                 }}
               >
                 {w.text}
+                {w.vn && (
+                  <span
+                    style={{
+                      fontSize: "0.46em",
+                      color: isSpoken ? "#0f766e" : "#94a3b8", // elegant vintage teal when active
+                      fontStyle: "italic",
+                      fontWeight: 400,
+                      marginLeft: "6px",
+                      letterSpacing: "0px",
+                    }}
+                  >
+                    ({w.vn})
+                  </span>
+                )}
               </span>
             );
           })}

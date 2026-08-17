@@ -15,7 +15,8 @@
         {
           "text": "squat",
           "start": 0.3,
-          "end": 0.6
+          "end": 0.6,
+          "vn": "th\u1ea5p b\u00e8"
         },
         {
           "text": "grey",
@@ -45,14 +46,15 @@
         {
           "text": "stories.",
           "start": 2.26,
-          "end": 2.98
+          "end": 2.98,
+          "vn": "t\u1ea7ng l\u1ea7u"
         }
       ]
     },
     {
       "id": 2,
       "startTime": 3.23,
-      "endTime": 8.23,
+      "endTime": 6.96,
       "words": [
         {
           "text": "Over",
@@ -72,7 +74,8 @@
         {
           "text": "entrance",
           "start": 4.58,
-          "end": 4.9
+          "end": 4.9,
+          "vn": "l\u1ed1i v\u00e0o"
         },
         {
           "text": "the",
@@ -97,8 +100,16 @@
         {
           "text": "HATCHERY",
           "start": 6.48,
-          "end": 6.96
-        },
+          "end": 6.96,
+          "vn": "l\u00f2 \u1ea5p ph\u00f4i"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startTime": 6.96,
+      "endTime": 9.56,
+      "words": [
         {
           "text": "AND",
           "start": 6.96,
@@ -107,20 +118,14 @@
         {
           "text": "CONDITIONING",
           "start": 7.14,
-          "end": 7.66
+          "end": 7.66,
+          "vn": "\u0111i\u1ec1u ki\u1ec7n h\u00f3a"
         },
         {
           "text": "CENTRE,",
           "start": 7.66,
           "end": 8.04
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "startTime": 8.23,
-      "endTime": 12.66,
-      "words": [
+        },
         {
           "text": "and,",
           "start": 8.42,
@@ -139,8 +144,16 @@
         {
           "text": "shield,",
           "start": 9.02,
-          "end": 9.4
-        },
+          "end": 9.4,
+          "vn": "chi\u1ebfc khi\u00ean"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startTime": 9.56,
+      "endTime": 13.53,
+      "words": [
         {
           "text": "the",
           "start": 9.72,
@@ -159,30 +172,34 @@
         {
           "text": "motto,",
           "start": 10.44,
-          "end": 10.84
+          "end": 10.84,
+          "vn": "kh\u1ea9u hi\u1ec7u"
         },
         {
           "text": "COMMUNITY,",
           "start": 11.26,
-          "end": 11.62
+          "end": 11.62,
+          "vn": "c\u1ed9ng \u0111\u1ed3ng"
         },
         {
           "text": "IDENTITY,",
           "start": 12.06,
-          "end": 12.46
+          "end": 12.46,
+          "vn": "\u0111\u1ed3ng nh\u1ea5t"
+        },
+        {
+          "text": "STABILITY.",
+          "start": 12.86,
+          "end": 13.28,
+          "vn": "\u1ed5n \u0111\u1ecbnh"
         }
       ]
     },
     {
-      "id": 4,
-      "startTime": 12.66,
-      "endTime": 17.45,
+      "id": 5,
+      "startTime": 13.53,
+      "endTime": 16.6,
       "words": [
-        {
-          "text": "STABILITY.",
-          "start": 12.86,
-          "end": 13.28
-        },
         {
           "text": "The",
           "start": 14.06,
@@ -191,7 +208,8 @@
         {
           "text": "enormous",
           "start": 14.48,
-          "end": 14.78
+          "end": 14.78,
+          "vn": "kh\u1ed5ng l\u1ed3"
         },
         {
           "text": "room",
@@ -227,7 +245,14 @@
           "text": "towards",
           "start": 16.28,
           "end": 16.6
-        },
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "startTime": 16.6,
+      "endTime": 19.84,
+      "words": [
         {
           "text": "the",
           "start": 16.6,
@@ -237,14 +262,7 @@
           "text": "north.",
           "start": 16.9,
           "end": 17.2
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "startTime": 17.45,
-      "endTime": 21.6,
-      "words": [
+        },
         {
           "text": "Cold",
           "start": 18.28,
@@ -279,11 +297,19 @@
           "text": "the",
           "start": 19.62,
           "end": 19.84
-        },
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "startTime": 19.84,
+      "endTime": 22.04,
+      "words": [
         {
           "text": "panes,",
           "start": 19.84,
-          "end": 20.19
+          "end": 20.19,
+          "vn": "\u00f4 k\u00ednh"
         },
         {
           "text": "for",
@@ -303,20 +329,14 @@
         {
           "text": "tropical",
           "start": 20.98,
-          "end": 21.3
+          "end": 21.3,
+          "vn": "nhi\u1ec7t \u0111\u1edbi"
         },
         {
           "text": "heat",
           "start": 21.3,
           "end": 21.6
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "startTime": 21.6,
-      "endTime": 25.11,
-      "words": [
+        },
         {
           "text": "of",
           "start": 21.6,
@@ -331,7 +351,14 @@
           "text": "room",
           "start": 21.86,
           "end": 22.04
-        },
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "startTime": 22.04,
+      "endTime": 25.11,
+      "words": [
         {
           "text": "itself,",
           "start": 22.04,
@@ -345,7 +372,8 @@
         {
           "text": "harsh",
           "start": 22.9,
-          "end": 23.2
+          "end": 23.2,
+          "vn": "gay g\u1eaft"
         },
         {
           "text": "thin",
@@ -360,7 +388,8 @@
         {
           "text": "glared",
           "start": 23.64,
-          "end": 24.04
+          "end": 24.04,
+          "vn": "ch\u00f3i l\u00f2a"
         },
         {
           "text": "through",
@@ -380,19 +409,21 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "startTime": 25.11,
-      "endTime": 29.21,
+      "endTime": 28.08,
       "words": [
         {
           "text": "hungrily",
           "start": 25.28,
-          "end": 25.62
+          "end": 25.62,
+          "vn": "th\u00e8m thu\u1ed3ng"
         },
         {
           "text": "seeking",
           "start": 25.62,
-          "end": 25.94
+          "end": 25.94,
+          "vn": "t\u00ecm ki\u1ebfm"
         },
         {
           "text": "some",
@@ -402,12 +433,14 @@
         {
           "text": "draped",
           "start": 26.2,
-          "end": 26.52
+          "end": 26.52,
+          "vn": "ph\u1ee7 r\u00e8m"
         },
         {
           "text": "lay",
           "start": 26.52,
-          "end": 26.7
+          "end": 26.7,
+          "vn": "ng\u01b0\u1eddi m\u1eabu n\u1ed9m"
         },
         {
           "text": "figure,",
@@ -422,13 +455,21 @@
         {
           "text": "pallid",
           "start": 27.44,
-          "end": 27.82
+          "end": 27.82,
+          "vn": "t\u00e1i nh\u1ee3t"
         },
         {
           "text": "shape",
           "start": 27.82,
           "end": 28.08
-        },
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "startTime": 28.08,
+      "endTime": 31.22,
+      "words": [
         {
           "text": "of",
           "start": 28.08,
@@ -437,20 +478,15 @@
         {
           "text": "academic",
           "start": 28.26,
-          "end": 28.66
+          "end": 28.66,
+          "vn": "h\u00e0n l\u00e2m"
         },
         {
           "text": "goose-flesh,",
           "start": 28.66,
-          "end": 28.96
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "startTime": 29.21,
-      "endTime": 33.16,
-      "words": [
+          "end": 28.96,
+          "vn": "n\u1ed5i gai \u1ed1c"
+        },
         {
           "text": "but",
           "start": 29.66,
@@ -480,11 +516,19 @@
           "text": "and",
           "start": 30.96,
           "end": 31.22
-        },
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "startTime": 31.22,
+      "endTime": 33.58,
+      "words": [
         {
           "text": "nickel",
           "start": 31.22,
-          "end": 31.46
+          "end": 31.46,
+          "vn": "kim lo\u1ea1i k\u1ec1n"
         },
         {
           "text": "and",
@@ -494,7 +538,8 @@
         {
           "text": "bleakly",
           "start": 31.66,
-          "end": 32.06
+          "end": 32.06,
+          "vn": "l\u1ea1nh l\u1ebdo"
         },
         {
           "text": "shining",
@@ -504,7 +549,8 @@
         {
           "text": "porcelain",
           "start": 32.36,
-          "end": 32.96
+          "end": 32.96,
+          "vn": "men s\u1ee9"
         },
         {
           "text": "of",
@@ -515,23 +561,25 @@
           "text": "a",
           "start": 33.08,
           "end": 33.16
+        },
+        {
+          "text": "laboratory.",
+          "start": 33.16,
+          "end": 33.58,
+          "vn": "ph\u00f2ng th\u00ed nghi\u1ec7m"
         }
       ]
     },
     {
-      "id": 9,
-      "startTime": 33.16,
-      "endTime": 39.78,
+      "id": 12,
+      "startTime": 33.58,
+      "endTime": 39.06,
       "words": [
-        {
-          "text": "laboratory.",
-          "start": 33.16,
-          "end": 33.58
-        },
         {
           "text": "Wintriness",
           "start": 33.58,
-          "end": 33.93
+          "end": 33.93,
+          "vn": "gi\u00e1 l\u1ea1nh"
         },
         {
           "text": "responded",
@@ -546,7 +594,8 @@
         {
           "text": "wintriness.",
           "start": 36.06,
-          "end": 36.41
+          "end": 36.41,
+          "vn": "gi\u00e1 l\u1ea1nh"
         },
         {
           "text": "The",
@@ -556,7 +605,8 @@
         {
           "text": "overalls",
           "start": 37.98,
-          "end": 38.58
+          "end": 38.58,
+          "vn": "b\u1ed9 b\u1ea3o h\u1ed9"
         },
         {
           "text": "of",
@@ -572,7 +622,14 @@
           "text": "workers",
           "start": 38.76,
           "end": 39.06
-        },
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "startTime": 39.06,
+      "endTime": 41.82,
+      "words": [
         {
           "text": "were",
           "start": 39.06,
@@ -582,14 +639,7 @@
           "text": "white,",
           "start": 39.28,
           "end": 39.6
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "startTime": 39.78,
-      "endTime": 42.51,
-      "words": [
+        },
         {
           "text": "their",
           "start": 39.96,
@@ -603,7 +653,8 @@
         {
           "text": "gloved",
           "start": 40.36,
-          "end": 40.76
+          "end": 40.76,
+          "vn": "\u0111eo g\u0103ng"
         },
         {
           "text": "with",
@@ -623,20 +674,21 @@
         {
           "text": "corpse-coloured",
           "start": 41.28,
-          "end": 41.68
-        },
-        {
-          "text": "rubber.",
-          "start": 41.96,
-          "end": 42.26
+          "end": 41.68,
+          "vn": "tr\u1eafng b\u1ec7ch"
         }
       ]
     },
     {
-      "id": 11,
-      "startTime": 42.51,
+      "id": 14,
+      "startTime": 41.82,
       "endTime": 45.71,
       "words": [
+        {
+          "text": "rubber.",
+          "start": 41.96,
+          "end": 42.26
+        },
         {
           "text": "The",
           "start": 43.26,
@@ -655,7 +707,8 @@
         {
           "text": "frozen,",
           "start": 43.92,
-          "end": 44.3
+          "end": 44.3,
+          "vn": "b\u0103ng gi\u00e1"
         },
         {
           "text": "dead,",
@@ -670,14 +723,15 @@
         {
           "text": "ghost.",
           "start": 45.24,
-          "end": 45.46
+          "end": 45.46,
+          "vn": "b\u00f3ng ma"
         }
       ]
     },
     {
-      "id": 12,
+      "id": 15,
       "startTime": 45.71,
-      "endTime": 50.02,
+      "endTime": 49.16,
       "words": [
         {
           "text": "Only",
@@ -702,7 +756,8 @@
         {
           "text": "barrels",
           "start": 47.58,
-          "end": 47.98
+          "end": 47.98,
+          "vn": "\u1ed1ng k\u00ednh"
         },
         {
           "text": "of",
@@ -717,13 +772,21 @@
         {
           "text": "microscopes",
           "start": 48.3,
-          "end": 49.04
+          "end": 49.04,
+          "vn": "k\u00ednh hi\u1ec3n vi"
         },
         {
           "text": "did",
           "start": 49.04,
           "end": 49.16
-        },
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "startTime": 49.16,
+      "endTime": 51.53,
+      "words": [
         {
           "text": "it",
           "start": 49.16,
@@ -743,14 +806,7 @@
           "text": "certain",
           "start": 49.7,
           "end": 50.02
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "startTime": 50.02,
-      "endTime": 53.8,
-      "words": [
+        },
         {
           "text": "rich",
           "start": 50.02,
@@ -769,8 +825,16 @@
         {
           "text": "substance,",
           "start": 50.76,
-          "end": 51.28
-        },
+          "end": 51.28,
+          "vn": "ch\u1ea5t li\u1ec7u"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "startTime": 51.53,
+      "endTime": 53.8,
+      "words": [
         {
           "text": "lying",
           "start": 51.74,
@@ -789,12 +853,14 @@
         {
           "text": "polished",
           "start": 52.3,
-          "end": 52.58
+          "end": 52.58,
+          "vn": "b\u00f3ng lo\u00e1ng"
         },
         {
           "text": "tubes",
           "start": 52.58,
-          "end": 52.9
+          "end": 52.9,
+          "vn": "\u1ed1ng nghi\u1ec7m"
         },
         {
           "text": "like",
@@ -809,14 +875,15 @@
       ]
     },
     {
-      "id": 14,
+      "id": 18,
       "startTime": 53.8,
-      "endTime": 57.45,
+      "endTime": 56.56,
       "words": [
         {
           "text": "streak",
           "start": 54.0,
-          "end": 54.1
+          "end": 54.1,
+          "vn": "v\u1ec7t \u00f3ng"
         },
         {
           "text": "after",
@@ -826,12 +893,14 @@
         {
           "text": "luscious",
           "start": 54.5,
-          "end": 54.85
+          "end": 54.85,
+          "vn": "m\u1ee1 m\u00e0ng"
         },
         {
           "text": "streak",
           "start": 54.84,
-          "end": 55.16
+          "end": 55.16,
+          "vn": "v\u1ec7t \u00f3ng"
         },
         {
           "text": "in",
@@ -846,7 +915,8 @@
         {
           "text": "recession",
           "start": 55.6,
-          "end": 56.06
+          "end": 56.06,
+          "vn": "th\u1ee5t l\u00f9i xa"
         },
         {
           "text": "down",
@@ -857,7 +927,14 @@
           "text": "the",
           "start": 56.36,
           "end": 56.56
-        },
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "startTime": 56.56,
+      "endTime": 60.52,
+      "words": [
         {
           "text": "work",
           "start": 56.56,
@@ -867,14 +944,7 @@
           "text": "tables.",
           "start": 56.78,
           "end": 57.2
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "startTime": 57.45,
-      "endTime": 63.92,
-      "words": [
+        },
         {
           "text": "\u201cAnd",
           "start": 58.32,
@@ -898,7 +968,8 @@
         {
           "text": "Director",
           "start": 59.48,
-          "end": 59.76
+          "end": 59.76,
+          "vn": "gi\u00e1m \u0111\u1ed1c"
         },
         {
           "text": "opening",
@@ -909,7 +980,14 @@
           "text": "the",
           "start": 60.3,
           "end": 60.52
-        },
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "startTime": 60.52,
+      "endTime": 64.96,
+      "words": [
         {
           "text": "door,",
           "start": 60.52,
@@ -928,7 +1006,8 @@
         {
           "text": "Fertilizing",
           "start": 61.44,
-          "end": 61.79
+          "end": 61.79,
+          "vn": "th\u1ee5 tinh"
         },
         {
           "text": "Room.\u201d",
@@ -939,14 +1018,7 @@
           "text": "Bent",
           "start": 63.72,
           "end": 63.92
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "startTime": 63.92,
-      "endTime": 68.86,
-      "words": [
+        },
         {
           "text": "over",
           "start": 63.92,
@@ -960,8 +1032,16 @@
         {
           "text": "instruments,",
           "start": 64.42,
-          "end": 64.96
-        },
+          "end": 64.96,
+          "vn": "thi\u1ebft b\u1ecb"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "startTime": 64.96,
+      "endTime": 68.42,
+      "words": [
         {
           "text": "three",
           "start": 64.96,
@@ -975,7 +1055,8 @@
         {
           "text": "Fertilizers",
           "start": 65.86,
-          "end": 66.6
+          "end": 66.6,
+          "vn": "k\u1ef9 thu\u1eadt vi\u00ean th\u1ee5 tinh"
         },
         {
           "text": "were",
@@ -985,7 +1066,8 @@
         {
           "text": "plunged,",
           "start": 66.82,
-          "end": 67.42
+          "end": 67.42,
+          "vn": "ch\u00ecm \u0111\u1eafm"
         },
         {
           "text": "as",
@@ -1000,25 +1082,26 @@
         {
           "text": "Director",
           "start": 67.74,
-          "end": 68.1
+          "end": 68.1,
+          "vn": "gi\u00e1m \u0111\u1ed1c"
         },
         {
           "text": "of",
           "start": 68.1,
           "end": 68.42
-        },
-        {
-          "text": "Hatcheries",
-          "start": 68.42,
-          "end": 68.86
         }
       ]
     },
     {
-      "id": 17,
-      "startTime": 68.86,
-      "endTime": 72.39,
+      "id": 22,
+      "startTime": 68.42,
+      "endTime": 71.3,
       "words": [
+        {
+          "text": "Hatcheries",
+          "start": 68.42,
+          "end": 68.86
+        },
         {
           "text": "and",
           "start": 68.86,
@@ -1027,7 +1110,8 @@
         {
           "text": "Conditioning",
           "start": 69.06,
-          "end": 69.52
+          "end": 69.52,
+          "vn": "\u0111i\u1ec1u ki\u1ec7n h\u00f3a"
         },
         {
           "text": "entered",
@@ -1057,8 +1141,16 @@
         {
           "text": "scarcely",
           "start": 70.84,
-          "end": 71.3
-        },
+          "end": 71.3,
+          "vn": "h\u1ea7u nh\u01b0 kh\u00f4ng"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "startTime": 71.3,
+      "endTime": 75.37,
+      "words": [
         {
           "text": "breathing",
           "start": 71.3,
@@ -1068,14 +1160,7 @@
           "text": "silence,",
           "start": 71.62,
           "end": 72.14
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "startTime": 72.39,
-      "endTime": 77.13,
-      "words": [
+        },
         {
           "text": "the",
           "start": 72.62,
@@ -1089,7 +1174,8 @@
         {
           "text": "soliloquizing",
           "start": 73.04,
-          "end": 73.39
+          "end": 73.39,
+          "vn": "l\u1ea9m b\u1ea9m"
         },
         {
           "text": "hum",
@@ -1105,7 +1191,14 @@
           "text": "whistle,",
           "start": 74.92,
           "end": 75.22
-        },
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "startTime": 75.37,
+      "endTime": 79.8,
+      "words": [
         {
           "text": "of",
           "start": 75.52,
@@ -1114,20 +1207,15 @@
         {
           "text": "absorbed",
           "start": 75.62,
-          "end": 76.04
+          "end": 76.04,
+          "vn": "ch\u0103m ch\u00fa"
         },
         {
           "text": "concentration.",
           "start": 76.04,
-          "end": 76.88
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "startTime": 77.13,
-      "endTime": 81.695,
-      "words": [
+          "end": 76.88,
+          "vn": "t\u1eadp trung"
+        },
         {
           "text": "A",
           "start": 77.58,
@@ -1136,7 +1224,8 @@
         {
           "text": "troop",
           "start": 78.14,
-          "end": 78.34
+          "end": 78.34,
+          "vn": "\u0111o\u00e0n"
         },
         {
           "text": "of",
@@ -1157,7 +1246,14 @@
           "text": "students,",
           "start": 79.2,
           "end": 79.66
-        },
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "startTime": 79.8,
+      "endTime": 82.86,
+      "words": [
         {
           "text": "very",
           "start": 79.94,
@@ -1181,15 +1277,9 @@
         {
           "text": "callow,",
           "start": 81.16,
-          "end": 81.51
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "startTime": 81.695,
-      "endTime": 85.61,
-      "words": [
+          "end": 81.51,
+          "vn": "ng\u00e2y ng\u00f4"
+        },
         {
           "text": "followed",
           "start": 81.88,
@@ -1199,7 +1289,14 @@
           "text": "nervously,",
           "start": 82.06,
           "end": 82.68
-        },
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "startTime": 82.86,
+      "endTime": 85.61,
+      "words": [
         {
           "text": "rather",
           "start": 83.04,
@@ -1208,7 +1305,8 @@
         {
           "text": "abjectly,",
           "start": 83.3,
-          "end": 84.0
+          "end": 84.0,
+          "vn": "kh\u00fam n\u00fam"
         },
         {
           "text": "at",
@@ -1223,19 +1321,21 @@
         {
           "text": "Director\u2019s",
           "start": 84.46,
-          "end": 85.04
+          "end": 85.04,
+          "vn": "gi\u00e1m \u0111\u1ed1c"
         },
         {
           "text": "heels.",
           "start": 85.04,
-          "end": 85.36
+          "end": 85.36,
+          "vn": "g\u00f3t ch\u00e2n"
         }
       ]
     },
     {
-      "id": 21,
+      "id": 27,
       "startTime": 85.61,
-      "endTime": 90.33,
+      "endTime": 88.66,
       "words": [
         {
           "text": "Each",
@@ -1265,7 +1365,8 @@
         {
           "text": "notebook,",
           "start": 87.48,
-          "end": 87.74
+          "end": 87.74,
+          "vn": "s\u1ed5 tay"
         },
         {
           "text": "in",
@@ -1276,7 +1377,14 @@
           "text": "which,",
           "start": 88.32,
           "end": 88.58
-        },
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "startTime": 88.66,
+      "endTime": 91.87,
+      "words": [
         {
           "text": "whenever",
           "start": 88.74,
@@ -1301,14 +1409,7 @@
           "text": "spoke,",
           "start": 89.72,
           "end": 90.08
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "startTime": 90.33,
-      "endTime": 94.45,
-      "words": [
+        },
         {
           "text": "he",
           "start": 90.48,
@@ -1317,13 +1418,22 @@
         {
           "text": "desperately",
           "start": 90.56,
-          "end": 91.02
+          "end": 91.02,
+          "vn": "cu\u1ed1ng cu\u1ed3ng"
         },
         {
           "text": "scribbled.",
           "start": 91.02,
-          "end": 91.62
-        },
+          "end": 91.62,
+          "vn": "ghi ch\u00e9p"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "startTime": 91.87,
+      "endTime": 94.45,
+      "words": [
         {
           "text": "Straight",
           "start": 92.66,
@@ -1352,9 +1462,9 @@
       ]
     },
     {
-      "id": 23,
+      "id": 30,
       "startTime": 94.45,
-      "endTime": 98.3,
+      "endTime": 96.67,
       "words": [
         {
           "text": "It",
@@ -1379,8 +1489,16 @@
         {
           "text": "privilege.",
           "start": 95.96,
-          "end": 96.42
-        },
+          "end": 96.42,
+          "vn": "\u0111\u1eb7c \u00e2n"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "startTime": 96.67,
+      "endTime": 100.14,
+      "words": [
         {
           "text": "The",
           "start": 97.6,
@@ -1390,14 +1508,7 @@
           "text": "D.H.C.",
           "start": 97.7,
           "end": 98.3
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "startTime": 98.3,
-      "endTime": 102.26,
-      "words": [
+        },
         {
           "text": "for",
           "start": 98.3,
@@ -1432,7 +1543,14 @@
           "text": "point",
           "start": 99.96,
           "end": 100.14
-        },
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "startTime": 100.14,
+      "endTime": 103.18,
+      "words": [
         {
           "text": "of",
           "start": 100.14,
@@ -1446,7 +1564,8 @@
         {
           "text": "conducting",
           "start": 100.8,
-          "end": 101.34
+          "end": 101.34,
+          "vn": "d\u1eabn \u0111\u01b0\u1eddng"
         },
         {
           "text": "his",
@@ -1462,14 +1581,7 @@
           "text": "students",
           "start": 101.86,
           "end": 102.26
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "startTime": 102.26,
-      "endTime": 107.08,
-      "words": [
+        },
         {
           "text": "round",
           "start": 102.26,
@@ -1484,11 +1596,19 @@
           "text": "various",
           "start": 102.76,
           "end": 103.18
-        },
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "startTime": 103.18,
+      "endTime": 106.94,
+      "words": [
         {
           "text": "departments.",
           "start": 103.18,
-          "end": 103.78
+          "end": 103.78,
+          "vn": "ph\u00f2ng ban"
         },
         {
           "text": "\u201cJust",
@@ -1529,19 +1649,19 @@
           "text": "he",
           "start": 106.84,
           "end": 106.94
-        },
-        {
-          "text": "would",
-          "start": 106.94,
-          "end": 107.08
         }
       ]
     },
     {
-      "id": 26,
-      "startTime": 107.08,
-      "endTime": 111.1,
+      "id": 34,
+      "startTime": 106.94,
+      "endTime": 109.9,
       "words": [
+        {
+          "text": "would",
+          "start": 106.94,
+          "end": 107.08
+        },
         {
           "text": "explain",
           "start": 107.08,
@@ -1581,7 +1701,14 @@
           "text": "sort",
           "start": 109.66,
           "end": 109.9
-        },
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "startTime": 109.9,
+      "endTime": 111.96,
+      "words": [
         {
           "text": "of",
           "start": 109.9,
@@ -1606,14 +1733,7 @@
           "text": "must",
           "start": 110.9,
           "end": 111.1
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "startTime": 111.1,
-      "endTime": 114.8,
-      "words": [
+        },
         {
           "text": "have,",
           "start": 111.1,
@@ -1633,7 +1753,14 @@
           "text": "were",
           "start": 111.82,
           "end": 111.96
-        },
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "startTime": 111.96,
+      "endTime": 114.8,
+      "words": [
         {
           "text": "to",
           "start": 111.96,
@@ -1682,9 +1809,9 @@
       ]
     },
     {
-      "id": 28,
+      "id": 37,
       "startTime": 114.8,
-      "endTime": 117.2,
+      "endTime": 116.5,
       "words": [
         {
           "text": "if",
@@ -1730,7 +1857,14 @@
           "text": "members",
           "start": 116.14,
           "end": 116.5
-        },
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "startTime": 116.5,
+      "endTime": 121.05,
+      "words": [
         {
           "text": "of",
           "start": 116.5,
@@ -1739,15 +1873,9 @@
         {
           "text": "society,",
           "start": 116.66,
-          "end": 117.2
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "startTime": 117.2,
-      "endTime": 123.29,
-      "words": [
+          "end": 117.2,
+          "vn": "x\u00e3 h\u1ed9i"
+        },
         {
           "text": "as",
           "start": 117.2,
@@ -1766,7 +1894,8 @@
         {
           "text": "particulars,",
           "start": 119.38,
-          "end": 120.06
+          "end": 120.06,
+          "vn": "chi ti\u1ebft c\u1ee5 th\u1ec3"
         },
         {
           "text": "as",
@@ -1782,7 +1911,14 @@
           "text": "one",
           "start": 120.7,
           "end": 121.05
-        },
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "startTime": 121.05,
+      "endTime": 123.29,
+      "words": [
         {
           "text": "knows,",
           "start": 120.7,
@@ -1801,7 +1937,8 @@
         {
           "text": "virtue",
           "start": 122.0,
-          "end": 122.38
+          "end": 122.38,
+          "vn": "\u0111\u1ee9c h\u1ea1nh"
         },
         {
           "text": "and",
@@ -1811,19 +1948,21 @@
         {
           "text": "happiness;",
           "start": 122.64,
-          "end": 123.04
+          "end": 123.04,
+          "vn": "h\u1ea1nh ph\u00fac"
         }
       ]
     },
     {
-      "id": 30,
+      "id": 40,
       "startTime": 123.29,
-      "endTime": 130.3,
+      "endTime": 126.51,
       "words": [
         {
           "text": "generalities",
           "start": 123.56,
-          "end": 124.14
+          "end": 124.14,
+          "vn": "kh\u00e1i ni\u1ec7m chung"
         },
         {
           "text": "are",
@@ -1833,7 +1972,8 @@
         {
           "text": "intellectually",
           "start": 124.4,
-          "end": 125.04
+          "end": 125.04,
+          "vn": "tr\u00ed tu\u1ec7"
         },
         {
           "text": "necessary",
@@ -1843,8 +1983,16 @@
         {
           "text": "evils.",
           "start": 125.64,
-          "end": 126.26
-        },
+          "end": 126.26,
+          "vn": "\u0111i\u1ec1u x\u1ea5u"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "startTime": 126.51,
+      "endTime": 130.62,
+      "words": [
         {
           "text": "Not",
           "start": 127.34,
@@ -1853,7 +2001,8 @@
         {
           "text": "philosophers",
           "start": 127.6,
-          "end": 128.12
+          "end": 128.12,
+          "vn": "tri\u1ebft gia"
         },
         {
           "text": "but",
@@ -1863,7 +2012,8 @@
         {
           "text": "fretsawyers",
           "start": 128.38,
-          "end": 128.73
+          "end": 128.73,
+          "vn": "th\u1ee3 c\u01b0a l\u1ecdng"
         },
         {
           "text": "and",
@@ -1878,29 +2028,31 @@
         {
           "text": "collectors",
           "start": 129.5,
-          "end": 129.9
+          "end": 129.9,
+          "vn": "ng\u01b0\u1eddi s\u01b0u t\u1ea7m"
         },
         {
           "text": "compose",
           "start": 129.9,
           "end": 130.3
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "startTime": 130.3,
-      "endTime": 135.4,
-      "words": [
+        },
         {
           "text": "the",
           "start": 130.3,
           "end": 130.62
-        },
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "startTime": 130.62,
+      "endTime": 134.31,
+      "words": [
         {
           "text": "backbone",
           "start": 130.62,
-          "end": 130.98
+          "end": 130.98,
+          "vn": "x\u01b0\u01a1ng s\u1ed1ng"
         },
         {
           "text": "of",
@@ -1910,7 +2062,8 @@
         {
           "text": "society.",
           "start": 131.16,
-          "end": 131.78
+          "end": 131.78,
+          "vn": "x\u00e3 h\u1ed9i"
         },
         {
           "text": "\u201cTo-morrow,\u201d",
@@ -1931,7 +2084,14 @@
           "text": "add,",
           "start": 133.94,
           "end": 134.16
-        },
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "startTime": 134.31,
+      "endTime": 137.14,
+      "words": [
         {
           "text": "smiling",
           "start": 134.46,
@@ -1956,14 +2116,7 @@
           "text": "a",
           "start": 135.3,
           "end": 135.4
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "startTime": 135.4,
-      "endTime": 139.51,
-      "words": [
+        },
         {
           "text": "slightly",
           "start": 135.4,
@@ -1972,13 +2125,22 @@
         {
           "text": "menacing",
           "start": 135.74,
-          "end": 136.2
+          "end": 136.2,
+          "vn": "\u0111\u1ea7y \u0111e d\u1ecda"
         },
         {
           "text": "geniality,",
           "start": 136.2,
-          "end": 137.02
-        },
+          "end": 137.02,
+          "vn": "s\u1ef1 ni\u1ec1m n\u1edf"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "startTime": 137.14,
+      "endTime": 139.51,
+      "words": [
         {
           "text": "\u201cyou\u2019ll",
           "start": 137.26,
@@ -1992,7 +2154,8 @@
         {
           "text": "settling",
           "start": 137.48,
-          "end": 137.8
+          "end": 137.8,
+          "vn": "b\u1eaft tay v\u00e0o"
         },
         {
           "text": "down",
@@ -2017,9 +2180,9 @@
       ]
     },
     {
-      "id": 33,
+      "id": 45,
       "startTime": 139.51,
-      "endTime": 146.89,
+      "endTime": 142.41,
       "words": [
         {
           "text": "You",
@@ -2049,12 +2212,21 @@
         {
           "text": "generalities.",
           "start": 141.34,
-          "end": 142.16
-        },
+          "end": 142.16,
+          "vn": "kh\u00e1i ni\u1ec7m chung"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "startTime": 142.41,
+      "endTime": 146.89,
+      "words": [
         {
           "text": "Meanwhile",
           "start": 144.56,
-          "end": 145.18
+          "end": 145.18,
+          "vn": "trong l\u00fac \u0111\u00f3"
         },
         {
           "text": "\u2026\u201d",
@@ -2064,7 +2236,8 @@
         {
           "text": "Meanwhile,",
           "start": 145.8,
-          "end": 146.15
+          "end": 146.15,
+          "vn": "trong l\u00fac \u0111\u00f3"
         },
         {
           "text": "it",
@@ -2084,12 +2257,13 @@
         {
           "text": "privilege.",
           "start": 146.06,
-          "end": 146.64
+          "end": 146.64,
+          "vn": "\u0111\u1eb7c \u00e2n"
         }
       ]
     },
     {
-      "id": 34,
+      "id": 47,
       "startTime": 146.89,
       "endTime": 150.15,
       "words": [
@@ -2131,14 +2305,15 @@
         {
           "text": "notebook.",
           "start": 149.56,
-          "end": 149.9
+          "end": 149.9,
+          "vn": "s\u1ed5 tay"
         }
       ]
     },
     {
-      "id": 35,
+      "id": 48,
       "startTime": 150.15,
-      "endTime": 155.33,
+      "endTime": 152.69,
       "words": [
         {
           "text": "The",
@@ -2153,7 +2328,8 @@
         {
           "text": "scribbled",
           "start": 151.42,
-          "end": 151.92
+          "end": 151.92,
+          "vn": "ghi ch\u00e9p"
         },
         {
           "text": "like",
@@ -2164,7 +2340,14 @@
           "text": "mad.",
           "start": 152.14,
           "end": 152.44
-        },
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "startTime": 152.69,
+      "endTime": 156.48,
+      "words": [
         {
           "text": "Tall",
           "start": 153.62,
@@ -2193,15 +2376,9 @@
         {
           "text": "upright,",
           "start": 154.76,
-          "end": 155.14
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "startTime": 155.33,
-      "endTime": 159.72,
-      "words": [
+          "end": 155.14,
+          "vn": "th\u1eb3ng th\u1eafn"
+        },
         {
           "text": "the",
           "start": 155.52,
@@ -2210,13 +2387,22 @@
         {
           "text": "Director",
           "start": 155.58,
-          "end": 155.98
+          "end": 155.98,
+          "vn": "gi\u00e1m \u0111\u1ed1c"
         },
         {
           "text": "advanced",
           "start": 155.98,
-          "end": 156.48
-        },
+          "end": 156.48,
+          "vn": "ti\u1ebfn b\u01b0\u1edbc"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "startTime": 156.48,
+      "endTime": 159.5,
+      "words": [
         {
           "text": "into",
           "start": 156.48,
@@ -2261,19 +2447,19 @@
           "text": "and",
           "start": 159.3,
           "end": 159.5
-        },
-        {
-          "text": "big",
-          "start": 159.5,
-          "end": 159.72
         }
       ]
     },
     {
-      "id": 37,
-      "startTime": 159.72,
-      "endTime": 163.14,
+      "id": 51,
+      "startTime": 159.5,
+      "endTime": 162.54,
       "words": [
+        {
+          "text": "big",
+          "start": 159.5,
+          "end": 159.72
+        },
         {
           "text": "rather",
           "start": 159.72,
@@ -2282,7 +2468,8 @@
         {
           "text": "prominent",
           "start": 160.06,
-          "end": 160.44
+          "end": 160.44,
+          "vn": "nh\u00f4 ra"
         },
         {
           "text": "teeth,",
@@ -2313,7 +2500,14 @@
           "text": "was",
           "start": 162.36,
           "end": 162.54
-        },
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "startTime": 162.54,
+      "endTime": 165.81,
+      "words": [
         {
           "text": "not",
           "start": 162.54,
@@ -2323,14 +2517,7 @@
           "text": "talking,",
           "start": 162.72,
           "end": 163.14
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "startTime": 163.14,
-      "endTime": 167.44,
-      "words": [
+        },
         {
           "text": "by",
           "start": 163.14,
@@ -2349,7 +2536,8 @@
         {
           "text": "floridly",
           "start": 164.62,
-          "end": 164.96
+          "end": 164.96,
+          "vn": "t\u01b0\u01a1i t\u1eafn"
         },
         {
           "text": "curved",
@@ -2360,7 +2548,14 @@
           "text": "lips.",
           "start": 165.3,
           "end": 165.56
-        },
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "startTime": 165.81,
+      "endTime": 168.74,
+      "words": [
         {
           "text": "Old,",
           "start": 166.7,
@@ -2370,14 +2565,7 @@
           "text": "young?",
           "start": 167.04,
           "end": 167.44
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "startTime": 167.44,
-      "endTime": 174.51,
-      "words": [
+        },
         {
           "text": "Thirty?",
           "start": 167.44,
@@ -2392,7 +2580,14 @@
           "text": "Fifty-five?",
           "start": 168.14,
           "end": 168.49
-        },
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "startTime": 168.74,
+      "endTime": 174.51,
+      "words": [
         {
           "text": "It",
           "start": 172.8,
@@ -2421,9 +2616,9 @@
       ]
     },
     {
-      "id": 40,
+      "id": 55,
       "startTime": 174.51,
-      "endTime": 178.67,
+      "endTime": 177.0,
       "words": [
         {
           "text": "And",
@@ -2454,7 +2649,14 @@
           "text": "arise;",
           "start": 176.62,
           "end": 177.0
-        },
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "startTime": 177.0,
+      "endTime": 179.84,
+      "words": [
         {
           "text": "in",
           "start": 177.0,
@@ -2478,20 +2680,21 @@
         {
           "text": "stability,",
           "start": 178.04,
-          "end": 178.5
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "startTime": 178.67,
-      "endTime": 182.94,
-      "words": [
+          "end": 178.5,
+          "vn": "\u1ed5n \u0111\u1ecbnh"
+        },
         {
           "text": "A.F.",
           "start": 178.84,
           "end": 179.84
-        },
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "startTime": 179.84,
+      "endTime": 182.94,
+      "words": [
         {
           "text": "632,",
           "start": 179.84,
@@ -2510,7 +2713,8 @@
         {
           "text": "occur",
           "start": 180.72,
-          "end": 180.94
+          "end": 180.94,
+          "vn": "ngh\u0129 \u0111\u1ebfn"
         },
         {
           "text": "to",
