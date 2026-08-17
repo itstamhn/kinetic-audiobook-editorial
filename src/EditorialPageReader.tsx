@@ -6,6 +6,13 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
+import { loadFont } from "@remotion/google-fonts/Newsreader";
+
+// Block Remotion rendering until Newsreader is 100% loaded and active
+// This eliminates the initial frame FOUT (Flash of Unstyled Text) and text jumping
+const { fontFamily } = loadFont("normal", {
+  weights: ["400", "500"],
+});
 
 export interface WordInfo {
   text: string;
@@ -48,7 +55,7 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
     <AbsoluteFill
       style={{
         backgroundColor: "#faf9f6", // Calm luxury editorial off-white paper
-        fontFamily: "'Newsreader', 'EB Garamond', Georgia, serif",
+        fontFamily,
         overflow: "hidden",
         display: "flex",
         flexDirection: "column",
@@ -56,9 +63,6 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
         padding: "90px 140px",
       }}
     >
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap');
-      `}</style>
 
       {/* Multi-Line Calm Editorial Typography Canvas */}
       <div

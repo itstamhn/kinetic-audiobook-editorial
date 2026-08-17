@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@remotion/cli": "^4.0.512",
+    "@remotion/google-fonts": "^4.0.512",
     "@remotion/media-utils": "^4.0.512",
     "@remotion/player": "^4.0.512",
     "@types/react": "^19.2.18",
