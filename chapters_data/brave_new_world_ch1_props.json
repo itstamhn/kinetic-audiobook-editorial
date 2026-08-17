@@ -1,0 +1,2410 @@
+{
+  "totalDurationSeconds": 182.94,
+  "audioFile": "chapters_audio/brave_new_world_ch1.mp3",
+  "pages": [
+    {
+      "id": 1,
+      "startTime": 0.0,
+      "endTime": 8.23,
+      "words": [
+        {
+          "text": "A",
+          "start": 0.0,
+          "end": 0.3
+        },
+        {
+          "text": "squat",
+          "start": 0.3,
+          "end": 0.6
+        },
+        {
+          "text": "grey",
+          "start": 0.6,
+          "end": 0.95
+        },
+        {
+          "text": "building",
+          "start": 0.94,
+          "end": 1.3
+        },
+        {
+          "text": "of",
+          "start": 1.3,
+          "end": 1.48
+        },
+        {
+          "text": "only",
+          "start": 1.48,
+          "end": 1.74
+        },
+        {
+          "text": "thirty-four",
+          "start": 1.74,
+          "end": 2.09
+        },
+        {
+          "text": "stories.",
+          "start": 2.26,
+          "end": 2.98
+        },
+        {
+          "text": "Over",
+          "start": 3.9,
+          "end": 4.2
+        },
+        {
+          "text": "the",
+          "start": 4.2,
+          "end": 4.34
+        },
+        {
+          "text": "main",
+          "start": 4.34,
+          "end": 4.58
+        },
+        {
+          "text": "entrance",
+          "start": 4.58,
+          "end": 4.9
+        },
+        {
+          "text": "the",
+          "start": 5.16,
+          "end": 5.18
+        },
+        {
+          "text": "words,",
+          "start": 5.18,
+          "end": 5.44
+        },
+        {
+          "text": "CENTRAL",
+          "start": 5.9,
+          "end": 6.16
+        },
+        {
+          "text": "LONDON",
+          "start": 6.16,
+          "end": 6.48
+        },
+        {
+          "text": "HATCHERY",
+          "start": 6.48,
+          "end": 6.96
+        },
+        {
+          "text": "AND",
+          "start": 6.96,
+          "end": 7.14
+        },
+        {
+          "text": "CONDITIONING",
+          "start": 7.14,
+          "end": 7.66
+        },
+        {
+          "text": "CENTRE,",
+          "start": 7.66,
+          "end": 8.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startTime": 8.23,
+      "endTime": 17.45,
+      "words": [
+        {
+          "text": "and,",
+          "start": 8.42,
+          "end": 8.6
+        },
+        {
+          "text": "in",
+          "start": 8.6,
+          "end": 8.92
+        },
+        {
+          "text": "a",
+          "start": 8.92,
+          "end": 9.02
+        },
+        {
+          "text": "shield,",
+          "start": 9.02,
+          "end": 9.4
+        },
+        {
+          "text": "the",
+          "start": 9.72,
+          "end": 9.8
+        },
+        {
+          "text": "World",
+          "start": 9.8,
+          "end": 10.06
+        },
+        {
+          "text": "State\u2019s",
+          "start": 10.06,
+          "end": 10.44
+        },
+        {
+          "text": "motto,",
+          "start": 10.44,
+          "end": 10.84
+        },
+        {
+          "text": "COMMUNITY,",
+          "start": 11.26,
+          "end": 11.62
+        },
+        {
+          "text": "IDENTITY,",
+          "start": 12.06,
+          "end": 12.46
+        },
+        {
+          "text": "STABILITY.",
+          "start": 12.86,
+          "end": 13.28
+        },
+        {
+          "text": "The",
+          "start": 14.06,
+          "end": 14.48
+        },
+        {
+          "text": "enormous",
+          "start": 14.48,
+          "end": 14.78
+        },
+        {
+          "text": "room",
+          "start": 14.78,
+          "end": 15.14
+        },
+        {
+          "text": "on",
+          "start": 15.14,
+          "end": 15.28
+        },
+        {
+          "text": "the",
+          "start": 15.28,
+          "end": 15.4
+        },
+        {
+          "text": "ground",
+          "start": 15.4,
+          "end": 15.62
+        },
+        {
+          "text": "floor",
+          "start": 15.62,
+          "end": 15.98
+        },
+        {
+          "text": "faced",
+          "start": 15.98,
+          "end": 16.28
+        },
+        {
+          "text": "towards",
+          "start": 16.28,
+          "end": 16.6
+        },
+        {
+          "text": "the",
+          "start": 16.6,
+          "end": 16.9
+        },
+        {
+          "text": "north.",
+          "start": 16.9,
+          "end": 17.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startTime": 17.45,
+      "endTime": 24.48,
+      "words": [
+        {
+          "text": "Cold",
+          "start": 18.28,
+          "end": 18.58
+        },
+        {
+          "text": "for",
+          "start": 18.58,
+          "end": 18.74
+        },
+        {
+          "text": "all",
+          "start": 18.74,
+          "end": 18.96
+        },
+        {
+          "text": "the",
+          "start": 18.96,
+          "end": 19.1
+        },
+        {
+          "text": "summer",
+          "start": 19.1,
+          "end": 19.32
+        },
+        {
+          "text": "beyond",
+          "start": 19.32,
+          "end": 19.62
+        },
+        {
+          "text": "the",
+          "start": 19.62,
+          "end": 19.84
+        },
+        {
+          "text": "panes,",
+          "start": 19.84,
+          "end": 20.19
+        },
+        {
+          "text": "for",
+          "start": 20.58,
+          "end": 20.68
+        },
+        {
+          "text": "all",
+          "start": 20.68,
+          "end": 20.86
+        },
+        {
+          "text": "the",
+          "start": 20.86,
+          "end": 20.98
+        },
+        {
+          "text": "tropical",
+          "start": 20.98,
+          "end": 21.3
+        },
+        {
+          "text": "heat",
+          "start": 21.3,
+          "end": 21.6
+        },
+        {
+          "text": "of",
+          "start": 21.6,
+          "end": 21.78
+        },
+        {
+          "text": "the",
+          "start": 21.78,
+          "end": 21.86
+        },
+        {
+          "text": "room",
+          "start": 21.86,
+          "end": 22.04
+        },
+        {
+          "text": "itself,",
+          "start": 22.04,
+          "end": 22.44
+        },
+        {
+          "text": "a",
+          "start": 22.82,
+          "end": 22.9
+        },
+        {
+          "text": "harsh",
+          "start": 22.9,
+          "end": 23.2
+        },
+        {
+          "text": "thin",
+          "start": 23.34,
+          "end": 23.46
+        },
+        {
+          "text": "light",
+          "start": 23.46,
+          "end": 23.64
+        },
+        {
+          "text": "glared",
+          "start": 23.64,
+          "end": 24.04
+        },
+        {
+          "text": "through",
+          "start": 24.04,
+          "end": 24.28
+        },
+        {
+          "text": "the",
+          "start": 24.28,
+          "end": 24.48
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startTime": 24.48,
+      "endTime": 32.96,
+      "words": [
+        {
+          "text": "windows,",
+          "start": 24.48,
+          "end": 24.86
+        },
+        {
+          "text": "hungrily",
+          "start": 25.28,
+          "end": 25.62
+        },
+        {
+          "text": "seeking",
+          "start": 25.62,
+          "end": 25.94
+        },
+        {
+          "text": "some",
+          "start": 25.94,
+          "end": 26.2
+        },
+        {
+          "text": "draped",
+          "start": 26.2,
+          "end": 26.52
+        },
+        {
+          "text": "lay",
+          "start": 26.52,
+          "end": 26.7
+        },
+        {
+          "text": "figure,",
+          "start": 26.7,
+          "end": 27.04
+        },
+        {
+          "text": "some",
+          "start": 27.04,
+          "end": 27.44
+        },
+        {
+          "text": "pallid",
+          "start": 27.44,
+          "end": 27.82
+        },
+        {
+          "text": "shape",
+          "start": 27.82,
+          "end": 28.08
+        },
+        {
+          "text": "of",
+          "start": 28.08,
+          "end": 28.26
+        },
+        {
+          "text": "academic",
+          "start": 28.26,
+          "end": 28.66
+        },
+        {
+          "text": "goose-flesh,",
+          "start": 28.66,
+          "end": 28.96
+        },
+        {
+          "text": "but",
+          "start": 29.66,
+          "end": 29.86
+        },
+        {
+          "text": "finding",
+          "start": 29.86,
+          "end": 30.2
+        },
+        {
+          "text": "only",
+          "start": 30.2,
+          "end": 30.52
+        },
+        {
+          "text": "the",
+          "start": 30.52,
+          "end": 30.68
+        },
+        {
+          "text": "glass",
+          "start": 30.68,
+          "end": 30.96
+        },
+        {
+          "text": "and",
+          "start": 30.96,
+          "end": 31.22
+        },
+        {
+          "text": "nickel",
+          "start": 31.22,
+          "end": 31.46
+        },
+        {
+          "text": "and",
+          "start": 31.46,
+          "end": 31.66
+        },
+        {
+          "text": "bleakly",
+          "start": 31.66,
+          "end": 32.06
+        },
+        {
+          "text": "shining",
+          "start": 32.06,
+          "end": 32.36
+        },
+        {
+          "text": "porcelain",
+          "start": 32.36,
+          "end": 32.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "startTime": 32.96,
+      "endTime": 42.51,
+      "words": [
+        {
+          "text": "of",
+          "start": 32.96,
+          "end": 33.08
+        },
+        {
+          "text": "a",
+          "start": 33.08,
+          "end": 33.16
+        },
+        {
+          "text": "laboratory.",
+          "start": 33.16,
+          "end": 33.58
+        },
+        {
+          "text": "Wintriness",
+          "start": 33.58,
+          "end": 33.93
+        },
+        {
+          "text": "responded",
+          "start": 35.26,
+          "end": 35.78
+        },
+        {
+          "text": "to",
+          "start": 35.78,
+          "end": 36.06
+        },
+        {
+          "text": "wintriness.",
+          "start": 36.06,
+          "end": 36.41
+        },
+        {
+          "text": "The",
+          "start": 37.76,
+          "end": 37.98
+        },
+        {
+          "text": "overalls",
+          "start": 37.98,
+          "end": 38.58
+        },
+        {
+          "text": "of",
+          "start": 38.58,
+          "end": 38.64
+        },
+        {
+          "text": "the",
+          "start": 38.64,
+          "end": 38.76
+        },
+        {
+          "text": "workers",
+          "start": 38.76,
+          "end": 39.06
+        },
+        {
+          "text": "were",
+          "start": 39.06,
+          "end": 39.28
+        },
+        {
+          "text": "white,",
+          "start": 39.28,
+          "end": 39.6
+        },
+        {
+          "text": "their",
+          "start": 39.96,
+          "end": 40.04
+        },
+        {
+          "text": "hands",
+          "start": 40.04,
+          "end": 40.36
+        },
+        {
+          "text": "gloved",
+          "start": 40.36,
+          "end": 40.76
+        },
+        {
+          "text": "with",
+          "start": 40.76,
+          "end": 40.92
+        },
+        {
+          "text": "a",
+          "start": 40.92,
+          "end": 41.04
+        },
+        {
+          "text": "pale",
+          "start": 41.04,
+          "end": 41.28
+        },
+        {
+          "text": "corpse-coloured",
+          "start": 41.28,
+          "end": 41.68
+        },
+        {
+          "text": "rubber.",
+          "start": 41.96,
+          "end": 42.26
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "startTime": 42.51,
+      "endTime": 51.53,
+      "words": [
+        {
+          "text": "The",
+          "start": 43.26,
+          "end": 43.46
+        },
+        {
+          "text": "light",
+          "start": 43.46,
+          "end": 43.68
+        },
+        {
+          "text": "was",
+          "start": 43.68,
+          "end": 43.92
+        },
+        {
+          "text": "frozen,",
+          "start": 43.92,
+          "end": 44.3
+        },
+        {
+          "text": "dead,",
+          "start": 44.66,
+          "end": 44.82
+        },
+        {
+          "text": "a",
+          "start": 45.14,
+          "end": 45.24
+        },
+        {
+          "text": "ghost.",
+          "start": 45.24,
+          "end": 45.46
+        },
+        {
+          "text": "Only",
+          "start": 46.66,
+          "end": 46.98
+        },
+        {
+          "text": "from",
+          "start": 46.98,
+          "end": 47.18
+        },
+        {
+          "text": "the",
+          "start": 47.18,
+          "end": 47.34
+        },
+        {
+          "text": "yellow",
+          "start": 47.34,
+          "end": 47.58
+        },
+        {
+          "text": "barrels",
+          "start": 47.58,
+          "end": 47.98
+        },
+        {
+          "text": "of",
+          "start": 47.98,
+          "end": 48.18
+        },
+        {
+          "text": "the",
+          "start": 48.18,
+          "end": 48.3
+        },
+        {
+          "text": "microscopes",
+          "start": 48.3,
+          "end": 49.04
+        },
+        {
+          "text": "did",
+          "start": 49.04,
+          "end": 49.16
+        },
+        {
+          "text": "it",
+          "start": 49.16,
+          "end": 49.3
+        },
+        {
+          "text": "borrow",
+          "start": 49.3,
+          "end": 49.54
+        },
+        {
+          "text": "a",
+          "start": 49.54,
+          "end": 49.7
+        },
+        {
+          "text": "certain",
+          "start": 49.7,
+          "end": 50.02
+        },
+        {
+          "text": "rich",
+          "start": 50.02,
+          "end": 50.32
+        },
+        {
+          "text": "and",
+          "start": 50.32,
+          "end": 50.54
+        },
+        {
+          "text": "living",
+          "start": 50.54,
+          "end": 50.76
+        },
+        {
+          "text": "substance,",
+          "start": 50.76,
+          "end": 51.28
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "startTime": 51.53,
+      "endTime": 57.45,
+      "words": [
+        {
+          "text": "lying",
+          "start": 51.74,
+          "end": 51.86
+        },
+        {
+          "text": "along",
+          "start": 51.86,
+          "end": 52.08
+        },
+        {
+          "text": "the",
+          "start": 52.08,
+          "end": 52.3
+        },
+        {
+          "text": "polished",
+          "start": 52.3,
+          "end": 52.58
+        },
+        {
+          "text": "tubes",
+          "start": 52.58,
+          "end": 52.9
+        },
+        {
+          "text": "like",
+          "start": 52.9,
+          "end": 53.2
+        },
+        {
+          "text": "butter,",
+          "start": 53.2,
+          "end": 53.6
+        },
+        {
+          "text": "streak",
+          "start": 54.0,
+          "end": 54.1
+        },
+        {
+          "text": "after",
+          "start": 54.1,
+          "end": 54.5
+        },
+        {
+          "text": "luscious",
+          "start": 54.5,
+          "end": 54.85
+        },
+        {
+          "text": "streak",
+          "start": 54.84,
+          "end": 55.16
+        },
+        {
+          "text": "in",
+          "start": 55.16,
+          "end": 55.4
+        },
+        {
+          "text": "long",
+          "start": 55.4,
+          "end": 55.6
+        },
+        {
+          "text": "recession",
+          "start": 55.6,
+          "end": 56.06
+        },
+        {
+          "text": "down",
+          "start": 56.06,
+          "end": 56.36
+        },
+        {
+          "text": "the",
+          "start": 56.36,
+          "end": 56.56
+        },
+        {
+          "text": "work",
+          "start": 56.56,
+          "end": 56.78
+        },
+        {
+          "text": "tables.",
+          "start": 56.78,
+          "end": 57.2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "startTime": 57.45,
+      "endTime": 67.42,
+      "words": [
+        {
+          "text": "\u201cAnd",
+          "start": 58.32,
+          "end": 58.64
+        },
+        {
+          "text": "this,\u201d",
+          "start": 58.64,
+          "end": 58.9
+        },
+        {
+          "text": "said",
+          "start": 59.22,
+          "end": 59.34
+        },
+        {
+          "text": "the",
+          "start": 59.34,
+          "end": 59.48
+        },
+        {
+          "text": "Director",
+          "start": 59.48,
+          "end": 59.76
+        },
+        {
+          "text": "opening",
+          "start": 59.76,
+          "end": 60.3
+        },
+        {
+          "text": "the",
+          "start": 60.3,
+          "end": 60.52
+        },
+        {
+          "text": "door,",
+          "start": 60.52,
+          "end": 60.8
+        },
+        {
+          "text": "\u201cis",
+          "start": 61.18,
+          "end": 61.3
+        },
+        {
+          "text": "the",
+          "start": 61.3,
+          "end": 61.44
+        },
+        {
+          "text": "Fertilizing",
+          "start": 61.44,
+          "end": 61.79
+        },
+        {
+          "text": "Room.\u201d",
+          "start": 62.22,
+          "end": 62.56
+        },
+        {
+          "text": "Bent",
+          "start": 63.72,
+          "end": 63.92
+        },
+        {
+          "text": "over",
+          "start": 63.92,
+          "end": 64.2
+        },
+        {
+          "text": "their",
+          "start": 64.2,
+          "end": 64.42
+        },
+        {
+          "text": "instruments,",
+          "start": 64.42,
+          "end": 64.96
+        },
+        {
+          "text": "three",
+          "start": 64.96,
+          "end": 65.31
+        },
+        {
+          "text": "hundred",
+          "start": 65.31,
+          "end": 65.66
+        },
+        {
+          "text": "Fertilizers",
+          "start": 65.86,
+          "end": 66.6
+        },
+        {
+          "text": "were",
+          "start": 66.6,
+          "end": 66.82
+        },
+        {
+          "text": "plunged,",
+          "start": 66.82,
+          "end": 67.42
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "startTime": 67.42,
+      "endTime": 75.37,
+      "words": [
+        {
+          "text": "as",
+          "start": 67.42,
+          "end": 67.6
+        },
+        {
+          "text": "the",
+          "start": 67.6,
+          "end": 67.74
+        },
+        {
+          "text": "Director",
+          "start": 67.74,
+          "end": 68.1
+        },
+        {
+          "text": "of",
+          "start": 68.1,
+          "end": 68.42
+        },
+        {
+          "text": "Hatcheries",
+          "start": 68.42,
+          "end": 68.86
+        },
+        {
+          "text": "and",
+          "start": 68.86,
+          "end": 69.06
+        },
+        {
+          "text": "Conditioning",
+          "start": 69.06,
+          "end": 69.52
+        },
+        {
+          "text": "entered",
+          "start": 69.52,
+          "end": 69.9
+        },
+        {
+          "text": "the",
+          "start": 69.9,
+          "end": 70.12
+        },
+        {
+          "text": "room,",
+          "start": 70.12,
+          "end": 70.38
+        },
+        {
+          "text": "in",
+          "start": 70.38,
+          "end": 70.72
+        },
+        {
+          "text": "the",
+          "start": 70.72,
+          "end": 70.84
+        },
+        {
+          "text": "scarcely",
+          "start": 70.84,
+          "end": 71.3
+        },
+        {
+          "text": "breathing",
+          "start": 71.3,
+          "end": 71.62
+        },
+        {
+          "text": "silence,",
+          "start": 71.62,
+          "end": 72.14
+        },
+        {
+          "text": "the",
+          "start": 72.62,
+          "end": 72.7
+        },
+        {
+          "text": "absent-minded,",
+          "start": 72.7,
+          "end": 73.04
+        },
+        {
+          "text": "soliloquizing",
+          "start": 73.04,
+          "end": 73.39
+        },
+        {
+          "text": "hum",
+          "start": 74.5,
+          "end": 74.74
+        },
+        {
+          "text": "or",
+          "start": 74.74,
+          "end": 74.92
+        },
+        {
+          "text": "whistle,",
+          "start": 74.92,
+          "end": 75.22
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "startTime": 75.37,
+      "endTime": 85.61,
+      "words": [
+        {
+          "text": "of",
+          "start": 75.52,
+          "end": 75.62
+        },
+        {
+          "text": "absorbed",
+          "start": 75.62,
+          "end": 76.04
+        },
+        {
+          "text": "concentration.",
+          "start": 76.04,
+          "end": 76.88
+        },
+        {
+          "text": "A",
+          "start": 77.58,
+          "end": 78.14
+        },
+        {
+          "text": "troop",
+          "start": 78.14,
+          "end": 78.34
+        },
+        {
+          "text": "of",
+          "start": 78.34,
+          "end": 78.54
+        },
+        {
+          "text": "newly",
+          "start": 78.54,
+          "end": 78.76
+        },
+        {
+          "text": "arrived",
+          "start": 78.76,
+          "end": 79.2
+        },
+        {
+          "text": "students,",
+          "start": 79.2,
+          "end": 79.66
+        },
+        {
+          "text": "very",
+          "start": 79.94,
+          "end": 80.14
+        },
+        {
+          "text": "young,",
+          "start": 80.14,
+          "end": 80.48
+        },
+        {
+          "text": "pink",
+          "start": 80.86,
+          "end": 80.96
+        },
+        {
+          "text": "and",
+          "start": 80.96,
+          "end": 81.16
+        },
+        {
+          "text": "callow,",
+          "start": 81.16,
+          "end": 81.51
+        },
+        {
+          "text": "followed",
+          "start": 81.88,
+          "end": 82.06
+        },
+        {
+          "text": "nervously,",
+          "start": 82.06,
+          "end": 82.68
+        },
+        {
+          "text": "rather",
+          "start": 83.04,
+          "end": 83.3
+        },
+        {
+          "text": "abjectly,",
+          "start": 83.3,
+          "end": 84.0
+        },
+        {
+          "text": "at",
+          "start": 84.0,
+          "end": 84.32
+        },
+        {
+          "text": "the",
+          "start": 84.32,
+          "end": 84.46
+        },
+        {
+          "text": "Director\u2019s",
+          "start": 84.46,
+          "end": 85.04
+        },
+        {
+          "text": "heels.",
+          "start": 85.04,
+          "end": 85.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "startTime": 85.61,
+      "endTime": 91.87,
+      "words": [
+        {
+          "text": "Each",
+          "start": 86.54,
+          "end": 86.76
+        },
+        {
+          "text": "of",
+          "start": 86.76,
+          "end": 86.88
+        },
+        {
+          "text": "them",
+          "start": 86.88,
+          "end": 87.0
+        },
+        {
+          "text": "carried",
+          "start": 87.0,
+          "end": 87.32
+        },
+        {
+          "text": "a",
+          "start": 87.32,
+          "end": 87.48
+        },
+        {
+          "text": "notebook,",
+          "start": 87.48,
+          "end": 87.74
+        },
+        {
+          "text": "in",
+          "start": 87.74,
+          "end": 88.32
+        },
+        {
+          "text": "which,",
+          "start": 88.32,
+          "end": 88.58
+        },
+        {
+          "text": "whenever",
+          "start": 88.74,
+          "end": 89.04
+        },
+        {
+          "text": "the",
+          "start": 89.04,
+          "end": 89.26
+        },
+        {
+          "text": "great",
+          "start": 89.26,
+          "end": 89.5
+        },
+        {
+          "text": "man",
+          "start": 89.5,
+          "end": 89.72
+        },
+        {
+          "text": "spoke,",
+          "start": 89.72,
+          "end": 90.08
+        },
+        {
+          "text": "he",
+          "start": 90.48,
+          "end": 90.56
+        },
+        {
+          "text": "desperately",
+          "start": 90.56,
+          "end": 91.02
+        },
+        {
+          "text": "scribbled.",
+          "start": 91.02,
+          "end": 91.62
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "startTime": 91.87,
+      "endTime": 101.86,
+      "words": [
+        {
+          "text": "Straight",
+          "start": 92.66,
+          "end": 93.04
+        },
+        {
+          "text": "from",
+          "start": 93.04,
+          "end": 93.3
+        },
+        {
+          "text": "the",
+          "start": 93.3,
+          "end": 93.46
+        },
+        {
+          "text": "horse\u2019s",
+          "start": 93.46,
+          "end": 93.92
+        },
+        {
+          "text": "mouth.",
+          "start": 93.92,
+          "end": 94.2
+        },
+        {
+          "text": "It",
+          "start": 95.34,
+          "end": 95.46
+        },
+        {
+          "text": "was",
+          "start": 95.46,
+          "end": 95.6
+        },
+        {
+          "text": "a",
+          "start": 95.6,
+          "end": 95.7
+        },
+        {
+          "text": "rare",
+          "start": 95.7,
+          "end": 95.96
+        },
+        {
+          "text": "privilege.",
+          "start": 95.96,
+          "end": 96.42
+        },
+        {
+          "text": "The",
+          "start": 97.6,
+          "end": 97.7
+        },
+        {
+          "text": "D.H.C.",
+          "start": 97.7,
+          "end": 98.3
+        },
+        {
+          "text": "for",
+          "start": 98.3,
+          "end": 98.46
+        },
+        {
+          "text": "Central",
+          "start": 98.46,
+          "end": 98.78
+        },
+        {
+          "text": "London",
+          "start": 98.78,
+          "end": 99.14
+        },
+        {
+          "text": "always",
+          "start": 99.14,
+          "end": 99.48
+        },
+        {
+          "text": "made",
+          "start": 99.48,
+          "end": 99.82
+        },
+        {
+          "text": "a",
+          "start": 99.82,
+          "end": 99.96
+        },
+        {
+          "text": "point",
+          "start": 99.96,
+          "end": 100.14
+        },
+        {
+          "text": "of",
+          "start": 100.14,
+          "end": 100.34
+        },
+        {
+          "text": "personally",
+          "start": 100.34,
+          "end": 100.8
+        },
+        {
+          "text": "conducting",
+          "start": 100.8,
+          "end": 101.34
+        },
+        {
+          "text": "his",
+          "start": 101.34,
+          "end": 101.64
+        },
+        {
+          "text": "new",
+          "start": 101.64,
+          "end": 101.86
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "startTime": 101.86,
+      "endTime": 108.11,
+      "words": [
+        {
+          "text": "students",
+          "start": 101.86,
+          "end": 102.26
+        },
+        {
+          "text": "round",
+          "start": 102.26,
+          "end": 102.6
+        },
+        {
+          "text": "the",
+          "start": 102.6,
+          "end": 102.76
+        },
+        {
+          "text": "various",
+          "start": 102.76,
+          "end": 103.18
+        },
+        {
+          "text": "departments.",
+          "start": 103.18,
+          "end": 103.78
+        },
+        {
+          "text": "\u201cJust",
+          "start": 104.82,
+          "end": 105.16
+        },
+        {
+          "text": "to",
+          "start": 105.16,
+          "end": 105.32
+        },
+        {
+          "text": "give",
+          "start": 105.32,
+          "end": 105.44
+        },
+        {
+          "text": "you",
+          "start": 105.44,
+          "end": 105.62
+        },
+        {
+          "text": "a",
+          "start": 105.62,
+          "end": 105.72
+        },
+        {
+          "text": "general",
+          "start": 105.72,
+          "end": 106.0
+        },
+        {
+          "text": "idea,\u201d",
+          "start": 106.0,
+          "end": 106.48
+        },
+        {
+          "text": "he",
+          "start": 106.84,
+          "end": 106.94
+        },
+        {
+          "text": "would",
+          "start": 106.94,
+          "end": 107.08
+        },
+        {
+          "text": "explain",
+          "start": 107.08,
+          "end": 107.42
+        },
+        {
+          "text": "to",
+          "start": 107.42,
+          "end": 107.68
+        },
+        {
+          "text": "them.",
+          "start": 107.68,
+          "end": 107.86
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "startTime": 108.11,
+      "endTime": 114.8,
+      "words": [
+        {
+          "text": "For",
+          "start": 108.86,
+          "end": 109.06
+        },
+        {
+          "text": "of",
+          "start": 109.06,
+          "end": 109.18
+        },
+        {
+          "text": "course",
+          "start": 109.18,
+          "end": 109.34
+        },
+        {
+          "text": "some",
+          "start": 109.34,
+          "end": 109.66
+        },
+        {
+          "text": "sort",
+          "start": 109.66,
+          "end": 109.9
+        },
+        {
+          "text": "of",
+          "start": 109.9,
+          "end": 110.04
+        },
+        {
+          "text": "general",
+          "start": 110.04,
+          "end": 110.3
+        },
+        {
+          "text": "idea",
+          "start": 110.3,
+          "end": 110.7
+        },
+        {
+          "text": "they",
+          "start": 110.7,
+          "end": 110.9
+        },
+        {
+          "text": "must",
+          "start": 110.9,
+          "end": 111.1
+        },
+        {
+          "text": "have,",
+          "start": 111.1,
+          "end": 111.42
+        },
+        {
+          "text": "if",
+          "start": 111.42,
+          "end": 111.7
+        },
+        {
+          "text": "they",
+          "start": 111.7,
+          "end": 111.82
+        },
+        {
+          "text": "were",
+          "start": 111.82,
+          "end": 111.96
+        },
+        {
+          "text": "to",
+          "start": 111.96,
+          "end": 112.1
+        },
+        {
+          "text": "do",
+          "start": 112.1,
+          "end": 112.24
+        },
+        {
+          "text": "their",
+          "start": 112.24,
+          "end": 112.42
+        },
+        {
+          "text": "work",
+          "start": 112.42,
+          "end": 112.72
+        },
+        {
+          "text": "intelligently\u2014though",
+          "start": 112.72,
+          "end": 113.46
+        },
+        {
+          "text": "as",
+          "start": 113.88,
+          "end": 114.04
+        },
+        {
+          "text": "little",
+          "start": 114.04,
+          "end": 114.24
+        },
+        {
+          "text": "of",
+          "start": 114.24,
+          "end": 114.44
+        },
+        {
+          "text": "one,",
+          "start": 114.44,
+          "end": 114.66
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "startTime": 114.8,
+      "endTime": 123.29,
+      "words": [
+        {
+          "text": "if",
+          "start": 114.94,
+          "end": 115.08
+        },
+        {
+          "text": "they",
+          "start": 115.08,
+          "end": 115.18
+        },
+        {
+          "text": "were",
+          "start": 115.18,
+          "end": 115.3
+        },
+        {
+          "text": "to",
+          "start": 115.3,
+          "end": 115.44
+        },
+        {
+          "text": "be",
+          "start": 115.44,
+          "end": 115.54
+        },
+        {
+          "text": "good",
+          "start": 115.54,
+          "end": 115.72
+        },
+        {
+          "text": "and",
+          "start": 115.72,
+          "end": 115.86
+        },
+        {
+          "text": "happy",
+          "start": 115.86,
+          "end": 116.14
+        },
+        {
+          "text": "members",
+          "start": 116.14,
+          "end": 116.5
+        },
+        {
+          "text": "of",
+          "start": 116.5,
+          "end": 116.66
+        },
+        {
+          "text": "society,",
+          "start": 116.66,
+          "end": 117.2
+        },
+        {
+          "text": "as",
+          "start": 117.2,
+          "end": 117.66
+        },
+        {
+          "text": "possible.",
+          "start": 117.66,
+          "end": 118.16
+        },
+        {
+          "text": "For",
+          "start": 118.92,
+          "end": 119.38
+        },
+        {
+          "text": "particulars,",
+          "start": 119.38,
+          "end": 120.06
+        },
+        {
+          "text": "as",
+          "start": 120.28,
+          "end": 120.38
+        },
+        {
+          "text": "every",
+          "start": 120.38,
+          "end": 120.7
+        },
+        {
+          "text": "one",
+          "start": 120.7,
+          "end": 121.05
+        },
+        {
+          "text": "knows,",
+          "start": 120.7,
+          "end": 121.22
+        },
+        {
+          "text": "make",
+          "start": 121.68,
+          "end": 121.8
+        },
+        {
+          "text": "for",
+          "start": 121.8,
+          "end": 122.0
+        },
+        {
+          "text": "virtue",
+          "start": 122.0,
+          "end": 122.38
+        },
+        {
+          "text": "and",
+          "start": 122.38,
+          "end": 122.64
+        },
+        {
+          "text": "happiness;",
+          "start": 122.64,
+          "end": 123.04
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "startTime": 123.29,
+      "endTime": 132.03,
+      "words": [
+        {
+          "text": "generalities",
+          "start": 123.56,
+          "end": 124.14
+        },
+        {
+          "text": "are",
+          "start": 124.14,
+          "end": 124.4
+        },
+        {
+          "text": "intellectually",
+          "start": 124.4,
+          "end": 125.04
+        },
+        {
+          "text": "necessary",
+          "start": 125.04,
+          "end": 125.64
+        },
+        {
+          "text": "evils.",
+          "start": 125.64,
+          "end": 126.26
+        },
+        {
+          "text": "Not",
+          "start": 127.34,
+          "end": 127.6
+        },
+        {
+          "text": "philosophers",
+          "start": 127.6,
+          "end": 128.12
+        },
+        {
+          "text": "but",
+          "start": 128.12,
+          "end": 128.38
+        },
+        {
+          "text": "fretsawyers",
+          "start": 128.38,
+          "end": 128.73
+        },
+        {
+          "text": "and",
+          "start": 128.96,
+          "end": 129.18
+        },
+        {
+          "text": "stamp",
+          "start": 129.18,
+          "end": 129.5
+        },
+        {
+          "text": "collectors",
+          "start": 129.5,
+          "end": 129.9
+        },
+        {
+          "text": "compose",
+          "start": 129.9,
+          "end": 130.3
+        },
+        {
+          "text": "the",
+          "start": 130.3,
+          "end": 130.62
+        },
+        {
+          "text": "backbone",
+          "start": 130.62,
+          "end": 130.98
+        },
+        {
+          "text": "of",
+          "start": 130.98,
+          "end": 131.16
+        },
+        {
+          "text": "society.",
+          "start": 131.16,
+          "end": 131.78
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "startTime": 132.03,
+      "endTime": 139.51,
+      "words": [
+        {
+          "text": "\u201cTo-morrow,\u201d",
+          "start": 132.78,
+          "end": 133.28
+        },
+        {
+          "text": "he",
+          "start": 133.28,
+          "end": 133.78
+        },
+        {
+          "text": "would",
+          "start": 133.78,
+          "end": 133.94
+        },
+        {
+          "text": "add,",
+          "start": 133.94,
+          "end": 134.16
+        },
+        {
+          "text": "smiling",
+          "start": 134.46,
+          "end": 134.78
+        },
+        {
+          "text": "at",
+          "start": 134.78,
+          "end": 134.98
+        },
+        {
+          "text": "them",
+          "start": 134.98,
+          "end": 135.16
+        },
+        {
+          "text": "with",
+          "start": 135.16,
+          "end": 135.3
+        },
+        {
+          "text": "a",
+          "start": 135.3,
+          "end": 135.4
+        },
+        {
+          "text": "slightly",
+          "start": 135.4,
+          "end": 135.74
+        },
+        {
+          "text": "menacing",
+          "start": 135.74,
+          "end": 136.2
+        },
+        {
+          "text": "geniality,",
+          "start": 136.2,
+          "end": 137.02
+        },
+        {
+          "text": "\u201cyou\u2019ll",
+          "start": 137.26,
+          "end": 137.38
+        },
+        {
+          "text": "be",
+          "start": 137.38,
+          "end": 137.48
+        },
+        {
+          "text": "settling",
+          "start": 137.48,
+          "end": 137.8
+        },
+        {
+          "text": "down",
+          "start": 137.8,
+          "end": 138.16
+        },
+        {
+          "text": "to",
+          "start": 138.16,
+          "end": 138.38
+        },
+        {
+          "text": "serious",
+          "start": 138.38,
+          "end": 138.78
+        },
+        {
+          "text": "work.",
+          "start": 138.78,
+          "end": 139.26
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "startTime": 139.51,
+      "endTime": 150.15,
+      "words": [
+        {
+          "text": "You",
+          "start": 140.15,
+          "end": 140.46
+        },
+        {
+          "text": "won\u2019t",
+          "start": 140.46,
+          "end": 140.7
+        },
+        {
+          "text": "have",
+          "start": 140.7,
+          "end": 140.84
+        },
+        {
+          "text": "time",
+          "start": 140.84,
+          "end": 141.14
+        },
+        {
+          "text": "for",
+          "start": 141.14,
+          "end": 141.34
+        },
+        {
+          "text": "generalities.",
+          "start": 141.34,
+          "end": 142.16
+        },
+        {
+          "text": "Meanwhile",
+          "start": 144.56,
+          "end": 145.18
+        },
+        {
+          "text": "\u2026\u201d",
+          "start": 145.18,
+          "end": 145.8
+        },
+        {
+          "text": "Meanwhile,",
+          "start": 145.8,
+          "end": 146.15
+        },
+        {
+          "text": "it",
+          "start": 146.15,
+          "end": 146.5
+        },
+        {
+          "text": "was",
+          "start": 145.8,
+          "end": 145.94
+        },
+        {
+          "text": "a",
+          "start": 145.94,
+          "end": 146.06
+        },
+        {
+          "text": "privilege.",
+          "start": 146.06,
+          "end": 146.64
+        },
+        {
+          "text": "Straight",
+          "start": 147.66,
+          "end": 148.04
+        },
+        {
+          "text": "from",
+          "start": 148.04,
+          "end": 148.28
+        },
+        {
+          "text": "the",
+          "start": 148.28,
+          "end": 148.44
+        },
+        {
+          "text": "horse\u2019s",
+          "start": 148.44,
+          "end": 148.88
+        },
+        {
+          "text": "mouth",
+          "start": 148.88,
+          "end": 149.08
+        },
+        {
+          "text": "into",
+          "start": 149.08,
+          "end": 149.4
+        },
+        {
+          "text": "the",
+          "start": 149.4,
+          "end": 149.56
+        },
+        {
+          "text": "notebook.",
+          "start": 149.56,
+          "end": 149.9
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "startTime": 150.15,
+      "endTime": 157.51,
+      "words": [
+        {
+          "text": "The",
+          "start": 150.9,
+          "end": 151.18
+        },
+        {
+          "text": "boys",
+          "start": 151.18,
+          "end": 151.42
+        },
+        {
+          "text": "scribbled",
+          "start": 151.42,
+          "end": 151.92
+        },
+        {
+          "text": "like",
+          "start": 151.92,
+          "end": 152.14
+        },
+        {
+          "text": "mad.",
+          "start": 152.14,
+          "end": 152.44
+        },
+        {
+          "text": "Tall",
+          "start": 153.62,
+          "end": 153.78
+        },
+        {
+          "text": "and",
+          "start": 153.78,
+          "end": 153.96
+        },
+        {
+          "text": "rather",
+          "start": 153.96,
+          "end": 154.26
+        },
+        {
+          "text": "thin",
+          "start": 154.26,
+          "end": 154.52
+        },
+        {
+          "text": "but",
+          "start": 154.52,
+          "end": 154.76
+        },
+        {
+          "text": "upright,",
+          "start": 154.76,
+          "end": 155.14
+        },
+        {
+          "text": "the",
+          "start": 155.52,
+          "end": 155.58
+        },
+        {
+          "text": "Director",
+          "start": 155.58,
+          "end": 155.98
+        },
+        {
+          "text": "advanced",
+          "start": 155.98,
+          "end": 156.48
+        },
+        {
+          "text": "into",
+          "start": 156.48,
+          "end": 156.84
+        },
+        {
+          "text": "the",
+          "start": 156.84,
+          "end": 157.02
+        },
+        {
+          "text": "room.",
+          "start": 157.02,
+          "end": 157.26
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "startTime": 157.51,
+      "endTime": 164.43,
+      "words": [
+        {
+          "text": "He",
+          "start": 158.32,
+          "end": 158.5
+        },
+        {
+          "text": "had",
+          "start": 158.5,
+          "end": 158.7
+        },
+        {
+          "text": "a",
+          "start": 158.7,
+          "end": 158.82
+        },
+        {
+          "text": "long",
+          "start": 158.82,
+          "end": 159.02
+        },
+        {
+          "text": "chin",
+          "start": 159.02,
+          "end": 159.3
+        },
+        {
+          "text": "and",
+          "start": 159.3,
+          "end": 159.5
+        },
+        {
+          "text": "big",
+          "start": 159.5,
+          "end": 159.72
+        },
+        {
+          "text": "rather",
+          "start": 159.72,
+          "end": 160.06
+        },
+        {
+          "text": "prominent",
+          "start": 160.06,
+          "end": 160.44
+        },
+        {
+          "text": "teeth,",
+          "start": 160.44,
+          "end": 160.82
+        },
+        {
+          "text": "just",
+          "start": 161.34,
+          "end": 161.48
+        },
+        {
+          "text": "covered,",
+          "start": 161.48,
+          "end": 161.84
+        },
+        {
+          "text": "when",
+          "start": 161.84,
+          "end": 162.2
+        },
+        {
+          "text": "he",
+          "start": 162.2,
+          "end": 162.36
+        },
+        {
+          "text": "was",
+          "start": 162.36,
+          "end": 162.54
+        },
+        {
+          "text": "not",
+          "start": 162.54,
+          "end": 162.72
+        },
+        {
+          "text": "talking,",
+          "start": 162.72,
+          "end": 163.14
+        },
+        {
+          "text": "by",
+          "start": 163.14,
+          "end": 163.64
+        },
+        {
+          "text": "his",
+          "start": 163.64,
+          "end": 163.9
+        },
+        {
+          "text": "full,",
+          "start": 163.9,
+          "end": 164.18
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "startTime": 164.43,
+      "endTime": 177.0,
+      "words": [
+        {
+          "text": "floridly",
+          "start": 164.62,
+          "end": 164.96
+        },
+        {
+          "text": "curved",
+          "start": 164.96,
+          "end": 165.3
+        },
+        {
+          "text": "lips.",
+          "start": 165.3,
+          "end": 165.56
+        },
+        {
+          "text": "Old,",
+          "start": 166.7,
+          "end": 167.04
+        },
+        {
+          "text": "young?",
+          "start": 167.04,
+          "end": 167.44
+        },
+        {
+          "text": "Thirty?",
+          "start": 167.44,
+          "end": 167.79
+        },
+        {
+          "text": "Fifty?",
+          "start": 167.79,
+          "end": 168.14
+        },
+        {
+          "text": "Fifty-five?",
+          "start": 168.14,
+          "end": 168.49
+        },
+        {
+          "text": "It",
+          "start": 172.8,
+          "end": 173.4
+        },
+        {
+          "text": "was",
+          "start": 173.4,
+          "end": 173.52
+        },
+        {
+          "text": "hard",
+          "start": 173.52,
+          "end": 173.8
+        },
+        {
+          "text": "to",
+          "start": 173.8,
+          "end": 173.98
+        },
+        {
+          "text": "say.",
+          "start": 173.98,
+          "end": 174.26
+        },
+        {
+          "text": "And",
+          "start": 175.18,
+          "end": 175.52
+        },
+        {
+          "text": "anyhow",
+          "start": 175.52,
+          "end": 175.84
+        },
+        {
+          "text": "the",
+          "start": 175.84,
+          "end": 176.0
+        },
+        {
+          "text": "question",
+          "start": 176.0,
+          "end": 176.32
+        },
+        {
+          "text": "didn\u2019t",
+          "start": 176.32,
+          "end": 176.62
+        },
+        {
+          "text": "arise;",
+          "start": 176.62,
+          "end": 177.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "startTime": 177.0,
+      "endTime": 182.94,
+      "words": [
+        {
+          "text": "in",
+          "start": 177.0,
+          "end": 177.46
+        },
+        {
+          "text": "this",
+          "start": 177.46,
+          "end": 177.68
+        },
+        {
+          "text": "year",
+          "start": 177.68,
+          "end": 177.88
+        },
+        {
+          "text": "of",
+          "start": 177.88,
+          "end": 178.04
+        },
+        {
+          "text": "stability,",
+          "start": 178.04,
+          "end": 178.5
+        },
+        {
+          "text": "A.F.",
+          "start": 178.84,
+          "end": 179.84
+        },
+        {
+          "text": "632,",
+          "start": 179.84,
+          "end": 180.19
+        },
+        {
+          "text": "it",
+          "start": 180.34,
+          "end": 180.44
+        },
+        {
+          "text": "didn\u2019t",
+          "start": 180.44,
+          "end": 180.72
+        },
+        {
+          "text": "occur",
+          "start": 180.72,
+          "end": 180.94
+        },
+        {
+          "text": "to",
+          "start": 180.94,
+          "end": 181.1
+        },
+        {
+          "text": "you",
+          "start": 181.1,
+          "end": 181.24
+        },
+        {
+          "text": "to",
+          "start": 181.24,
+          "end": 181.42
+        },
+        {
+          "text": "ask",
+          "start": 181.42,
+          "end": 181.7
+        },
+        {
+          "text": "it.",
+          "start": 181.7,
+          "end": 181.94
+        }
+      ]
+    }
+  ]
+}
