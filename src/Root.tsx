@@ -18,12 +18,19 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
         calculateMetadata={({ props }: { props: EditorialPageReaderProps }) => {
-          const duration = props.totalDurationSeconds || 41;
+          const lastPage =
+            props.pages && props.pages.length > 0
+              ? props.pages[props.pages.length - 1]
+              : null;
+          const duration =
+            props.totalDurationSeconds ||
+            (lastPage ? lastPage.endTime + 0.5 : 41);
           return {
             durationInFrames: Math.ceil(duration * 60),
             fps: 60,
             width: 1920,
             height: 1080,
+            defaultOutName: "audiobook_chapter_60fps",
           };
         }}
         defaultProps={{

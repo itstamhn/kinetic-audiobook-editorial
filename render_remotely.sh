@@ -6,9 +6,18 @@ MAC_MINI_HOST="tambot"
 REMOTE_DIR="~/kinetic-text-video"
 
 COMPOSITION="${1:-Honda-Editorial-Light}"
-PROPS_FILE="${2:-chapters_data/brave_new_world_ch1_full_props.json}"
-OUTPUT_FILE="${3:-out/brave_new_world_ch1_full_60fps.mp4}"
-CONCURRENCY="${4:-8}"
+PROPS_FILE="${2:-chapters_data/dune_ch1_full_props.json}"
+OUTPUT_FILE="${3:-out/dune_ch1_full_60fps.mp4}"
+THUMBNAIL_FILE="${4:-out/dune_ch1_p1.png}"
+TITLE="${5:-Dune - Chapter 1 (Full Audiobook & Interlinear Vocabulary Gloss)}"
+DESCRIPTION="${6:-Full Chapter 1 of Dune by Frank Herbert.
+• Oxford British literary narration
+• 60 FPS calm kinetic typography (Max 3 lines per slide)
+• Interlinear Vietnamese vocabulary gloss for C1/C2 advanced words
+
+Enjoy distraction-free reading!}"
+TAGS="${7:-dune, frank herbert, audiobook, kinetic text, english literature, learn english, tieng anh, tu vung tieng anh}"
+CONCURRENCY="${8:-8}"
 
 echo "📡 Connecting to Mac Mini ($MAC_MINI_HOST)..."
 if ! ssh -o ConnectTimeout=5 "$MAC_MINI_HOST" "echo '✅ Mac Mini online:' \$(hostname)"; then
@@ -35,7 +44,7 @@ ssh "$MAC_MINI_HOST" "bash -l -c '
 echo "🚀 Rendering complete on Mac Mini! Triggering YouTube upload..."
 ssh "$MAC_MINI_HOST" "bash -l -c '
     cd $REMOTE_DIR
-    python3 -u auto_upload_when_done.py
+    python3 -u auto_upload_when_done.py \"$OUTPUT_FILE\" \"$THUMBNAIL_FILE\" \"$TITLE\" \"$DESCRIPTION\" \"$TAGS\"
 '"
 
 echo "🎉 All tasks completed successfully on Mac Mini ($MAC_MINI_HOST)!"

@@ -2,6 +2,7 @@ import React from "react";
 import {
   AbsoluteFill,
   Audio,
+  interpolate,
   staticFile,
   useCurrentFrame,
   useVideoConfig,
@@ -43,13 +44,28 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
   const { fps } = useVideoConfig();
   const currentTime = frame / fps;
 
-  const activePageIndex = pages.findIndex(
-    (p) => currentTime >= p.startTime && currentTime < p.endTime
-  );
+  // Determine active page: stay on current page until the next page starts
+  let activePageIndex = 0;
+  for (let i = 0; i < pages.length; i++) {
+    if (currentTime >= pages[i].startTime) {
+      activePageIndex = i;
+    } else {
+      break;
+    }
+  }
+  const activePage = pages[activePageIndex] || pages[0];
 
-  const currentPageIndex =
-    activePageIndex !== -1 ? activePageIndex : pages.length - 1;
-  const activePage = pages[currentPageIndex] || pages[0];
+  // Gentle 6-frame micro-ease on slide entry for calm reading
+  const pageStartFrame = (activePage?.startTime || 0) * fps;
+  const pageOpacity = interpolate(
+    frame,
+    [pageStartFrame, pageStartFrame + 6],
+    [0.75, 1],
+    {
+      extrapolateLeft: "clamp",
+      extrapolateRight: "clamp",
+    }
+  );
 
   return (
     <AbsoluteFill
@@ -73,6 +89,7 @@ export const EditorialPageReader: React.FC<EditorialPageReaderProps> = ({
           columnGap: "20px",
           rowGap: "22px",
           alignItems: "flex-end",
+          opacity: pageOpacity,
         }}
       >
         {activePage &&

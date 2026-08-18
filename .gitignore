@@ -1,11 +1,15 @@
 # Dependencies
 node_modules/
 .pnpm-store/
+__pycache__/
+*.pyc
 
 # Build & Render Outputs
 out/*.mp4
 out/*.webm
 out/*.part
+out/debug_*.png
+out/test_*.png
 out/honda_cut_*.png
 out/honda_frames_*.png
 out/honda_all_*.png
